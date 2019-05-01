@@ -1,0 +1,3599 @@
+City,ZipCode,Type,County,Population
+"New York, NY",10001,Standard,New York,"21,102"
+"New York, NY",10002,Standard,New York,"81,410"
+"New York, NY",10003,Standard,New York,"56,024"
+"New York, NY",10004,Standard,New York,"3,089"
+"New York, NY",10005,Standard,New York,"7,135"
+"New York, NY",10006,Standard,New York,"3,011"
+"New York, NY",10007,Standard,New York,"6,988"
+"New York, NY",10008,P.O. Box,New York,0
+"New York, NY",10009,Standard,New York,"61,347"
+"New York, NY",10010,Standard,New York,"31,834"
+"New York, NY",10011,Standard,New York,"50,984"
+"New York, NY",10012,Standard,New York,"24,090"
+"New York, NY",10013,Standard,New York,"27,700"
+"New York, NY",10014,Standard,New York,"31,959"
+"New York, NY",10016,Standard,New York,"54,183"
+"New York, NY",10017,Standard,New York,"16,575"
+"New York, NY",10018,Standard,New York,"5,229"
+"New York, NY",10019,Standard,New York,"42,870"
+"New York, NY",10020,Standard,New York,0
+"New York, NY",10021,Standard,New York,"43,631"
+"New York, NY",10022,Standard,New York,"31,924"
+"New York, NY",10023,Standard,New York,"60,998"
+"New York, NY",10024,Standard,New York,"59,283"
+"New York, NY",10025,Standard,New York,"94,600"
+"New York, NY",10026,Standard,New York,"34,003"
+"New York, NY",10027,Standard,New York,"59,707"
+"New York, NY",10028,Standard,New York,"45,141"
+"New York, NY",10029,Standard,New York,"76,003"
+"New York, NY",10030,Standard,New York,"26,999"
+"New York, NY",10031,Standard,New York,"56,438"
+"New York, NY",10032,Standard,New York,"57,331"
+"New York, NY",10033,Standard,New York,"53,926"
+"New York, NY",10034,Standard,New York,"38,908"
+"New York, NY",10035,Standard,New York,"33,969"
+"New York, NY",10036,Standard,New York,"24,711"
+"New York, NY",10037,Standard,New York,"17,416"
+"New York, NY",10038,Standard,New York,"20,300"
+"New York, NY",10039,Standard,New York,"24,527"
+"New York, NY",10040,Standard,New York,"41,905"
+"New York, NY",10041,Standard,New York,0
+"New York, NY",10043,Unique,New York,0
+"New York, NY",10044,Standard,New York,"11,661"
+"New York, NY",10045,Standard,New York,0
+"New York, NY",10055,Standard,New York,0
+"New York, NY",10060,Standard,New York,0
+"New York, NY",10065,Standard,New York,"32,270"
+"New York, NY",10069,Standard,New York,"5,199"
+"New York, NY",10075,Standard,New York,"26,121"
+"New York, NY",10080,Unique,New York,0
+"New York, NY",10081,Unique,New York,0
+"New York, NY",10087,Unique,New York,0
+"New York, NY",10090,Standard,New York,0
+"New York, NY",10101,P.O. Box,New York,0
+"New York, NY",10102,Unique,New York,0
+"New York, NY",10103,Standard,New York,3
+"New York, NY",10104,Standard,New York,0
+"New York, NY",10105,Standard,New York,0
+"New York, NY",10106,Standard,New York,0
+"New York, NY",10107,Standard,New York,0
+"New York, NY",10108,P.O. Box,New York,0
+"New York, NY",10109,Unique,New York,0
+"New York, NY",10110,Standard,New York,0
+"New York, NY",10111,Standard,New York,0
+"New York, NY",10112,Standard,New York,0
+"New York, NY",10113,P.O. Box,New York,0
+"New York, NY",10114,Unique,New York,0
+"New York, NY",10115,Standard,New York,0
+"New York, NY",10116,P.O. Box,New York,0
+"New York, NY",10117,Unique,New York,0
+"New York, NY",10118,Standard,New York,0
+"New York, NY",10119,Standard,New York,92
+"New York, NY",10120,Standard,New York,0
+"New York, NY",10121,Standard,New York,0
+"New York, NY",10122,Standard,New York,0
+"New York, NY",10123,Standard,New York,0
+"New York, NY",10124,Unique,New York,0
+"New York, NY",10125,Unique,New York,0
+"New York, NY",10126,Unique,New York,0
+"New York, NY",10128,Standard,New York,"60,453"
+"New York, NY",10129,P.O. Box,New York,0
+"New York, NY",10130,Unique,New York,0
+"New York, NY",10131,Unique,New York,0
+"New York, NY",10132,Unique,New York,0
+"New York, NY",10133,Unique,New York,0
+"New York, NY",10138,Unique,New York,0
+"New York, NY",10150,P.O. Box,New York,0
+"New York, NY",10151,Standard,New York,0
+"New York, NY",10152,Standard,New York,0
+"New York, NY",10153,Standard,New York,0
+"New York, NY",10154,Standard,New York,0
+"New York, NY",10155,Standard,New York,0
+"New York, NY",10156,P.O. Box,New York,0
+"New York, NY",10157,Unique,New York,0
+"New York, NY",10158,Standard,New York,0
+"New York, NY",10159,P.O. Box,New York,0
+"New York, NY",10160,Unique,New York,0
+"New York, NY",10162,Standard,New York,"1,685"
+"New York, NY",10163,P.O. Box,New York,0
+"New York, NY",10164,Unique,New York,0
+"New York, NY",10165,Standard,New York,2
+"New York, NY",10166,Standard,New York,0
+"New York, NY",10167,Standard,New York,0
+"New York, NY",10168,Standard,New York,0
+"New York, NY",10169,Standard,New York,0
+"New York, NY",10170,Standard,New York,2
+"New York, NY",10171,Standard,New York,0
+"New York, NY",10172,Standard,New York,0
+"New York, NY",10173,Standard,New York,2
+"New York, NY",10174,Standard,New York,0
+"New York, NY",10175,Standard,New York,0
+"New York, NY",10176,Standard,New York,0
+"New York, NY",10177,Standard,New York,0
+"New York, NY",10178,Standard,New York,0
+"New York, NY",10179,Unique,New York,0
+"New York, NY",10185,P.O. Box,New York,0
+"New York, NY",10199,Standard,New York,9
+"New York, NY",10203,Unique,New York,0
+"New York, NY",10211,Unique,New York,0
+"New York, NY",10212,Unique,New York,0
+"New York, NY",10213,Unique,New York,0
+"New York, NY",10242,P.O. Box,New York,0
+"New York, NY",10249,P.O. Box,New York,0
+"New York, NY",10256,Unique,New York,0
+"New York, NY",10258,Unique,New York,0
+"New York, NY",10259,Unique,New York,0
+"New York, NY",10260,Standard,New York,0
+"New York, NY",10261,Unique,New York,0
+"New York, NY",10265,Standard,New York,0
+"New York, NY",10268,P.O. Box,New York,0
+"New York, NY",10269,Unique,New York,0
+"New York, NY",10270,Standard,New York,0
+"New York, NY",10271,Standard,New York,0
+"New York, NY",10272,P.O. Box,New York,0
+"New York, NY",10273,Unique,New York,0
+"New York, NY",10274,P.O. Box,New York,0
+"New York, NY",10275,Unique,New York,0
+"New York, NY",10276,P.O. Box,New York,0
+"New York, NY",10277,Unique,New York,0
+"New York, NY",10278,Standard,New York,0
+"New York, NY",10279,Standard,New York,0
+"New York, NY",10280,Standard,New York,"7,853"
+"New York, NY",10281,Standard,New York,0
+"New York, NY",10282,Standard,New York,"4,783"
+"New York, NY",10285,Unique,New York,0
+"New York, NY",10286,Unique,New York,0
+"Los Angeles, CA",90001,Standard,Los Angeles,"57,110"
+"Los Angeles, CA",90002,Standard,Los Angeles,"51,223"
+"Los Angeles, CA",90003,Standard,Los Angeles,"66,266"
+"Los Angeles, CA",90004,Standard,Los Angeles,"62,180"
+"Los Angeles, CA",90005,Standard,Los Angeles,"37,681"
+"Los Angeles, CA",90006,Standard,Los Angeles,"59,185"
+"Los Angeles, CA",90007,Standard,Los Angeles,"40,920"
+"Los Angeles, CA",90008,Standard,Los Angeles,"32,327"
+"Los Angeles, CA",90009,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90010,Standard,Los Angeles,"3,800"
+"Los Angeles, CA",90011,Standard,Los Angeles,"103,892"
+"Los Angeles, CA",90012,Standard,Los Angeles,"31,103"
+"Los Angeles, CA",90013,Standard,Los Angeles,"11,772"
+"Los Angeles, CA",90014,Standard,Los Angeles,"7,005"
+"Los Angeles, CA",90015,Standard,Los Angeles,"18,986"
+"Los Angeles, CA",90016,Standard,Los Angeles,"47,596"
+"Los Angeles, CA",90017,Standard,Los Angeles,"23,768"
+"Los Angeles, CA",90018,Standard,Los Angeles,"49,310"
+"Los Angeles, CA",90019,Standard,Los Angeles,"64,458"
+"Los Angeles, CA",90020,Standard,Los Angeles,"38,967"
+"Los Angeles, CA",90021,Standard,Los Angeles,"3,951"
+"Los Angeles, CA",90022,Standard,Los Angeles,"67,179"
+"Los Angeles, CA",90023,Standard,Los Angeles,"45,903"
+"Los Angeles, CA",90024,Standard,Los Angeles,"47,452"
+"Los Angeles, CA",90025,Standard,Los Angeles,"42,147"
+"Los Angeles, CA",90026,Standard,Los Angeles,"67,869"
+"Los Angeles, CA",90027,Standard,Los Angeles,"45,151"
+"Los Angeles, CA",90028,Standard,Los Angeles,"28,714"
+"Los Angeles, CA",90029,Standard,Los Angeles,"38,617"
+"Los Angeles, CA",90030,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90031,Standard,Los Angeles,"39,316"
+"Los Angeles, CA",90032,Standard,Los Angeles,"45,786"
+"Los Angeles, CA",90033,Standard,Los Angeles,"48,852"
+"Los Angeles, CA",90034,Standard,Los Angeles,"57,964"
+"Los Angeles, CA",90035,Standard,Los Angeles,"28,418"
+"Los Angeles, CA",90036,Standard,Los Angeles,"36,865"
+"Los Angeles, CA",90037,Standard,Los Angeles,"62,276"
+"Los Angeles, CA",90038,Standard,Los Angeles,"28,917"
+"Los Angeles, CA",90039,Standard,Los Angeles,"28,514"
+"Los Angeles, CA",90040,Standard,Los Angeles,"12,520"
+"Los Angeles, CA",90041,Standard,Los Angeles,"27,425"
+"Los Angeles, CA",90042,Standard,Los Angeles,"62,430"
+"Los Angeles, CA",90043,Standard,Los Angeles,"44,789"
+"Los Angeles, CA",90044,Standard,Los Angeles,"89,779"
+"Los Angeles, CA",90045,Standard,Los Angeles,"39,480"
+"Los Angeles, CA",90046,Standard,Los Angeles,"48,581"
+"Los Angeles, CA",90047,Standard,Los Angeles,"48,606"
+"Los Angeles, CA",90048,Standard,Los Angeles,"21,397"
+"Los Angeles, CA",90049,Standard,Los Angeles,"35,482"
+"Los Angeles, CA",90050,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90051,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90052,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90053,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90054,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90055,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90056,Standard,Los Angeles,"7,827"
+"Los Angeles, CA",90057,Standard,Los Angeles,"44,998"
+"Los Angeles, CA",90058,Standard,Los Angeles,"3,223"
+"Los Angeles, CA",90059,Standard,Los Angeles,"40,952"
+"Los Angeles, CA",90060,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90061,Standard,Los Angeles,"26,872"
+"Los Angeles, CA",90062,Standard,Los Angeles,"32,821"
+"Los Angeles, CA",90063,Standard,Los Angeles,"55,758"
+"Los Angeles, CA",90064,Standard,Los Angeles,"25,403"
+"Los Angeles, CA",90065,Standard,Los Angeles,"45,527"
+"Los Angeles, CA",90066,Standard,Los Angeles,"55,277"
+"Los Angeles, CA",90067,Standard,Los Angeles,"2,424"
+"Los Angeles, CA",90068,Standard,Los Angeles,"22,286"
+"Los Angeles, CA",90069,Standard,Los Angeles,"20,483"
+"Los Angeles, CA",90070,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90071,Standard,Los Angeles,15
+"Los Angeles, CA",90072,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90073,P.O. Box,Los Angeles,539
+"Los Angeles, CA",90074,Unique,Los Angeles,0
+"Los Angeles, CA",90075,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90076,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90077,Standard,Los Angeles,"9,377"
+"Los Angeles, CA",90078,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90079,Standard,Los Angeles,0
+"Los Angeles, CA",90080,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90081,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90082,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90083,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90084,Unique,Los Angeles,0
+"Los Angeles, CA",90086,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90087,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90088,Unique,Los Angeles,0
+"Los Angeles, CA",90089,Unique,Los Angeles,"3,217"
+"Los Angeles, CA",90090,Unique,Los Angeles,0
+"Los Angeles, CA",90091,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90093,P.O. Box,Los Angeles,0
+"Los Angeles, CA",90094,Standard,Los Angeles,"5,464"
+"Los Angeles, CA",90095,Unique,Los Angeles,3
+"Los Angeles, CA",90096,Unique,Los Angeles,0
+"Los Angeles, CA",90099,Unique,Los Angeles,0
+"Los Angeles, CA",90134,Unique,Los Angeles,0
+"Los Angeles, CA",90189,Unique,Los Angeles,0
+"Los Angeles, CA",90230,Standard,Los Angeles,"31,766"
+"Chicago, IL",60601,Standard,Cook,"11,110"
+"Chicago, IL",60602,Standard,Cook,"1,204"
+"Chicago, IL",60603,Standard,Cook,493
+"Chicago, IL",60604,Standard,Cook,570
+"Chicago, IL",60605,Standard,Cook,"24,668"
+"Chicago, IL",60606,Standard,Cook,"2,308"
+"Chicago, IL",60607,Standard,Cook,"23,897"
+"Chicago, IL",60608,Standard,Cook,"82,739"
+"Chicago, IL",60609,Standard,Cook,"64,906"
+"Chicago, IL",60610,Standard,Cook,"37,726"
+"Chicago, IL",60611,Standard,Cook,"28,718"
+"Chicago, IL",60612,Standard,Cook,"33,472"
+"Chicago, IL",60613,Standard,Cook,"48,281"
+"Chicago, IL",60614,Standard,Cook,"66,617"
+"Chicago, IL",60615,Standard,Cook,"40,603"
+"Chicago, IL",60616,Standard,Cook,"48,433"
+"Chicago, IL",60617,Standard,Cook,"84,155"
+"Chicago, IL",60618,Standard,Cook,"92,084"
+"Chicago, IL",60619,Standard,Cook,"63,825"
+"Chicago, IL",60620,Standard,Cook,"72,216"
+"Chicago, IL",60621,Standard,Cook,"35,912"
+"Chicago, IL",60622,Standard,Cook,"52,548"
+"Chicago, IL",60623,Standard,Cook,"92,108"
+"Chicago, IL",60624,Standard,Cook,"38,105"
+"Chicago, IL",60625,Standard,Cook,"78,651"
+"Chicago, IL",60626,Standard,Cook,"50,139"
+"Chicago, IL",60628,Standard,Cook,"72,202"
+"Chicago, IL",60629,Standard,Cook,"113,916"
+"Chicago, IL",60630,Standard,Cook,"54,093"
+"Chicago, IL",60631,Standard,Cook,"28,641"
+"Chicago, IL",60632,Standard,Cook,"91,326"
+"Chicago, IL",60633,Standard,Cook,"12,927"
+"Chicago, IL",60634,Standard,Cook,"74,298"
+"Chicago, IL",60636,Standard,Cook,"40,916"
+"Chicago, IL",60637,Standard,Cook,"49,503"
+"Chicago, IL",60638,Standard,Cook,"55,026"
+"Chicago, IL",60639,Standard,Cook,"90,407"
+"Chicago, IL",60640,Standard,Cook,"65,790"
+"Chicago, IL",60641,Standard,Cook,"71,663"
+"Chicago, IL",60642,Standard,Cook,"18,480"
+"Chicago, IL",60643,Standard,Cook,"49,952"
+"Chicago, IL",60644,Standard,Cook,"48,648"
+"Chicago, IL",60645,Standard,Cook,"45,274"
+"Chicago, IL",60646,Standard,Cook,"27,177"
+"Chicago, IL",60647,Standard,Cook,"87,291"
+"Chicago, IL",60649,Standard,Cook,"46,650"
+"Chicago, IL",60651,Standard,Cook,"64,267"
+"Chicago, IL",60652,Standard,Cook,"40,959"
+"Chicago, IL",60653,Standard,Cook,"29,908"
+"Chicago, IL",60654,Standard,Cook,"14,875"
+"Chicago, IL",60655,Standard,Cook,"28,550"
+"Chicago, IL",60656,Standard,Cook,"27,613"
+"Chicago, IL",60657,Standard,Cook,"65,996"
+"Chicago, IL",60659,Standard,Cook,"38,104"
+"Chicago, IL",60660,Standard,Cook,"42,752"
+"Chicago, IL",60661,Standard,Cook,"7,792"
+"Chicago, IL",60664,P.O. Box,Cook,0
+"Chicago, IL",60666,P.O. Box,Cook,0
+"Chicago, IL",60668,Unique,Cook,0
+"Chicago, IL",60669,Unique,Cook,0
+"Chicago, IL",60670,Unique,Cook,0
+"Chicago, IL",60673,Unique,Cook,0
+"Chicago, IL",60674,Unique,Cook,0
+"Chicago, IL",60675,Unique,Cook,0
+"Chicago, IL",60677,Unique,Cook,0
+"Chicago, IL",60678,Unique,Cook,0
+"Chicago, IL",60680,P.O. Box,Cook,0
+"Chicago, IL",60681,P.O. Box,Cook,0
+"Chicago, IL",60682,Unique,Cook,0
+"Chicago, IL",60684,Unique,Cook,0
+"Chicago, IL",60685,Unique,Cook,0
+"Chicago, IL",60686,Unique,Cook,0
+"Chicago, IL",60687,Unique,Cook,0
+"Chicago, IL",60688,Unique,Cook,0
+"Chicago, IL",60689,Unique,Cook,0
+"Chicago, IL",60690,P.O. Box,Cook,0
+"Chicago, IL",60691,P.O. Box,Cook,0
+"Chicago, IL",60693,Unique,Cook,0
+"Chicago, IL",60694,Unique,Cook,0
+"Chicago, IL",60695,Unique,Cook,0
+"Chicago, IL",60696,Unique,Cook,0
+"Chicago, IL",60697,Unique,Cook,0
+"Chicago, IL",60699,Standard,Cook,0
+"Chicago, IL",60701,Standard,Cook,0
+"Chicago, IL",60706,Standard,Cook,"23,134"
+"Chicago, IL",60707,Standard,Cook,"42,920"
+"Chicago, IL",60803,Standard,Cook,"22,285"
+"Chicago, IL",60804,Standard,Cook,"84,573"
+"Chicago, IL",60805,Standard,Cook,"19,852"
+"Chicago, IL",60827,Standard,Cook,"27,946"
+"Houston, TX",77001,P.O. Box,Harris,0
+"Houston, TX",77002,Standard,Harris,"16,793"
+"Houston, TX",77003,Standard,Harris,"10,508"
+"Houston, TX",77004,Standard,Harris,"32,692"
+"Houston, TX",77005,Standard,Harris,"25,528"
+"Houston, TX",77006,Standard,Harris,"19,664"
+"Houston, TX",77007,Standard,Harris,"30,853"
+"Houston, TX",77008,Standard,Harris,"30,482"
+"Houston, TX",77009,Standard,Harris,"38,094"
+"Houston, TX",77010,Standard,Harris,366
+"Houston, TX",77011,Standard,Harris,"19,547"
+"Houston, TX",77012,Standard,Harris,"20,719"
+"Houston, TX",77013,Standard,Harris,"17,602"
+"Houston, TX",77014,Standard,Harris,"28,684"
+"Houston, TX",77015,Standard,Harris,"53,621"
+"Houston, TX",77016,Standard,Harris,"26,989"
+"Houston, TX",77017,Standard,Harris,"32,561"
+"Houston, TX",77018,Standard,Harris,"25,563"
+"Houston, TX",77019,Standard,Harris,"18,944"
+"Houston, TX",77020,Standard,Harris,"25,464"
+"Houston, TX",77021,Standard,Harris,"26,042"
+"Houston, TX",77022,Standard,Harris,"29,557"
+"Houston, TX",77023,Standard,Harris,"28,998"
+"Houston, TX",77024,Standard,Harris,"34,775"
+"Houston, TX",77025,Standard,Harris,"26,137"
+"Houston, TX",77026,Standard,Harris,"23,940"
+"Houston, TX",77027,Standard,Harris,"14,331"
+"Houston, TX",77028,Standard,Harris,"16,808"
+"Houston, TX",77029,Standard,Harris,"17,814"
+"Houston, TX",77030,Standard,Harris,"10,258"
+"Houston, TX",77031,Standard,Harris,"15,762"
+"Houston, TX",77032,Standard,Harris,"12,757"
+"Houston, TX",77033,Standard,Harris,"27,965"
+"Houston, TX",77034,Standard,Harris,"33,678"
+"Houston, TX",77035,Standard,Harris,"35,896"
+"Houston, TX",77036,Standard,Harris,"71,969"
+"Houston, TX",77037,Standard,Harris,"19,819"
+"Houston, TX",77038,Standard,Harris,"26,713"
+"Houston, TX",77039,Standard,Harris,"27,562"
+"Houston, TX",77040,Standard,Harris,"45,081"
+"Houston, TX",77041,Standard,Harris,"37,146"
+"Houston, TX",77042,Standard,Harris,"36,385"
+"Houston, TX",77043,Standard,Harris,"23,358"
+"Houston, TX",77044,Standard,Harris,"30,949"
+"Houston, TX",77045,Standard,Harris,"31,255"
+"Houston, TX",77046,Standard,Harris,"1,196"
+"Houston, TX",77047,Standard,Harris,"21,077"
+"Houston, TX",77048,Standard,Harris,"15,294"
+"Houston, TX",77049,Standard,Harris,"28,521"
+"Houston, TX",77050,Standard,Harris,"4,611"
+"Houston, TX",77051,Standard,Harris,"15,085"
+"Houston, TX",77052,P.O. Box,Harris,0
+"Houston, TX",77053,Standard,Fort Bend,"28,954"
+"Houston, TX",77054,Standard,Harris,"22,290"
+"Houston, TX",77055,Standard,Harris,"41,989"
+"Houston, TX",77056,Standard,Harris,"18,673"
+"Houston, TX",77057,Standard,Harris,"39,208"
+"Houston, TX",77058,Standard,Harris,"16,406"
+"Houston, TX",77059,Standard,Harris,"16,949"
+"Houston, TX",77060,Standard,Harris,"40,830"
+"Houston, TX",77061,Standard,Harris,"24,457"
+"Houston, TX",77062,Standard,Harris,"25,152"
+"Houston, TX",77063,Standard,Harris,"34,299"
+"Houston, TX",77064,Standard,Harris,"45,847"
+"Houston, TX",77065,Standard,Harris,"35,326"
+"Houston, TX",77066,Standard,Harris,"31,366"
+"Houston, TX",77067,Standard,Harris,"30,559"
+"Houston, TX",77068,Standard,Harris,"10,064"
+"Houston, TX",77069,Standard,Harris,"16,541"
+"Houston, TX",77070,Standard,Harris,"46,017"
+"Houston, TX",77071,Standard,Harris,"25,671"
+"Houston, TX",77072,Standard,Harris,"56,526"
+"Houston, TX",77073,Standard,Harris,"34,790"
+"Houston, TX",77074,Standard,Harris,"37,267"
+"Houston, TX",77075,Standard,Harris,"37,388"
+"Houston, TX",77076,Standard,Harris,"33,803"
+"Houston, TX",77077,Standard,Harris,"52,151"
+"Houston, TX",77078,Standard,Harris,"14,777"
+"Houston, TX",77079,Standard,Harris,"31,280"
+"Houston, TX",77080,Standard,Harris,"45,275"
+"Houston, TX",77081,Standard,Harris,"47,860"
+"Houston, TX",77082,Standard,Harris,"49,900"
+"Houston, TX",77083,Standard,Harris,"70,837"
+"Houston, TX",77084,Standard,Harris,"95,137"
+"Houston, TX",77085,Standard,Harris,"16,074"
+"Houston, TX",77086,Standard,Harris,"28,009"
+"Houston, TX",77087,Standard,Harris,"36,399"
+"Houston, TX",77088,Standard,Harris,"49,660"
+"Houston, TX",77089,Standard,Harris,"48,685"
+"Houston, TX",77090,Standard,Harris,"32,930"
+"Houston, TX",77091,Standard,Harris,"23,472"
+"Houston, TX",77092,Standard,Harris,"33,745"
+"Houston, TX",77093,Standard,Harris,"46,929"
+"Houston, TX",77094,Standard,Harris,"8,498"
+"Houston, TX",77095,Standard,Harris,"66,502"
+"Houston, TX",77096,Standard,Harris,"32,628"
+"Houston, TX",77098,Standard,Harris,"13,076"
+"Houston, TX",77099,Standard,Harris,"47,091"
+"Houston, TX",77201,Standard,Harris,0
+"Houston, TX",77202,P.O. Box,Harris,0
+"Houston, TX",77203,P.O. Box,Harris,0
+"Houston, TX",77204,Unique,Harris,0
+"Houston, TX",77205,P.O. Box,Harris,0
+"Houston, TX",77206,P.O. Box,Harris,0
+"Houston, TX",77207,P.O. Box,Harris,0
+"Houston, TX",77208,P.O. Box,Harris,0
+"Houston, TX",77209,Unique,Harris,0
+"Houston, TX",77210,P.O. Box,Harris,0
+"Houston, TX",77212,Unique,Harris,0
+"Houston, TX",77213,P.O. Box,Harris,0
+"Houston, TX",77215,P.O. Box,Harris,0
+"Houston, TX",77216,Unique,Harris,0
+"Houston, TX",77217,P.O. Box,Harris,0
+"Houston, TX",77218,P.O. Box,Harris,0
+"Houston, TX",77219,P.O. Box,Harris,0
+"Houston, TX",77220,P.O. Box,Harris,0
+"Houston, TX",77221,P.O. Box,Harris,0
+"Houston, TX",77222,P.O. Box,Harris,0
+"Houston, TX",77223,P.O. Box,Harris,0
+"Houston, TX",77224,P.O. Box,Harris,0
+"Houston, TX",77225,P.O. Box,Harris,0
+"Houston, TX",77226,P.O. Box,Harris,0
+"Houston, TX",77227,P.O. Box,Harris,0
+"Houston, TX",77228,P.O. Box,Harris,0
+"Houston, TX",77229,P.O. Box,Harris,0
+"Houston, TX",77230,P.O. Box,Harris,0
+"Houston, TX",77231,P.O. Box,Harris,0
+"Houston, TX",77233,P.O. Box,Harris,0
+"Houston, TX",77234,P.O. Box,Harris,0
+"Houston, TX",77235,P.O. Box,Harris,0
+"Houston, TX",77236,P.O. Box,Harris,0
+"Houston, TX",77237,P.O. Box,Harris,0
+"Houston, TX",77238,P.O. Box,Harris,0
+"Houston, TX",77240,P.O. Box,Harris,0
+"Houston, TX",77241,P.O. Box,Harris,0
+"Houston, TX",77242,P.O. Box,Harris,0
+"Houston, TX",77243,P.O. Box,Harris,0
+"Houston, TX",77244,P.O. Box,Harris,0
+"Houston, TX",77245,P.O. Box,Harris,0
+"Houston, TX",77248,P.O. Box,Harris,0
+"Houston, TX",77249,P.O. Box,Harris,0
+"Houston, TX",77251,P.O. Box,Harris,0
+"Houston, TX",77252,P.O. Box,Harris,0
+"Houston, TX",77253,P.O. Box,Harris,0
+"Houston, TX",77254,P.O. Box,Harris,0
+"Houston, TX",77255,P.O. Box,Harris,0
+"Houston, TX",77256,P.O. Box,Harris,0
+"Houston, TX",77257,P.O. Box,Harris,0
+"Houston, TX",77258,P.O. Box,Harris,0
+"Houston, TX",77259,P.O. Box,Harris,0
+"Houston, TX",77261,P.O. Box,Harris,0
+"Houston, TX",77262,P.O. Box,Harris,0
+"Houston, TX",77263,P.O. Box,Harris,0
+"Houston, TX",77265,P.O. Box,Harris,0
+"Houston, TX",77266,P.O. Box,Harris,0
+"Houston, TX",77267,P.O. Box,Harris,0
+"Houston, TX",77268,P.O. Box,Harris,0
+"Houston, TX",77269,P.O. Box,Harris,0
+"Houston, TX",77270,P.O. Box,Harris,0
+"Houston, TX",77271,P.O. Box,Harris,0
+"Houston, TX",77272,P.O. Box,Harris,0
+"Houston, TX",77273,P.O. Box,Harris,0
+"Houston, TX",77274,P.O. Box,Harris,0
+"Houston, TX",77275,P.O. Box,Harris,0
+"Houston, TX",77277,P.O. Box,Harris,0
+"Houston, TX",77279,P.O. Box,Harris,0
+"Houston, TX",77280,P.O. Box,Harris,0
+"Houston, TX",77282,P.O. Box,Harris,0
+"Houston, TX",77284,P.O. Box,Harris,0
+"Houston, TX",77287,P.O. Box,Harris,0
+"Houston, TX",77288,P.O. Box,Harris,0
+"Houston, TX",77289,P.O. Box,Harris,0
+"Houston, TX",77290,P.O. Box,Harris,0
+"Houston, TX",77291,P.O. Box,Harris,0
+"Houston, TX",77292,P.O. Box,Harris,0
+"Houston, TX",77293,P.O. Box,Harris,0
+"Houston, TX",77297,Unique,Harris,0
+"Houston, TX",77299,Unique,Harris,0
+"Philadelphia, PA",19019,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19092,Unique,Philadelphia,0
+"Philadelphia, PA",19093,Unique,Philadelphia,0
+"Philadelphia, PA",19099,Unique,Philadelphia,0
+"Philadelphia, PA",19101,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19102,Standard,Philadelphia,"4,705"
+"Philadelphia, PA",19103,Standard,Philadelphia,"21,908"
+"Philadelphia, PA",19104,Standard,Philadelphia,"51,808"
+"Philadelphia, PA",19105,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19106,Standard,Philadelphia,"11,740"
+"Philadelphia, PA",19107,Standard,Philadelphia,"14,875"
+"Philadelphia, PA",19108,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19109,Standard,Philadelphia,0
+"Philadelphia, PA",19110,Standard,Philadelphia,0
+"Philadelphia, PA",19111,Standard,Philadelphia,"63,090"
+"Philadelphia, PA",19112,Standard,Philadelphia,13
+"Philadelphia, PA",19113,Standard,Delaware,120
+"Philadelphia, PA",19114,Standard,Philadelphia,"30,907"
+"Philadelphia, PA",19115,Standard,Philadelphia,"33,207"
+"Philadelphia, PA",19116,Standard,Philadelphia,"33,112"
+"Philadelphia, PA",19118,Standard,Philadelphia,"9,808"
+"Philadelphia, PA",19119,Standard,Philadelphia,"27,035"
+"Philadelphia, PA",19120,Standard,Philadelphia,"68,104"
+"Philadelphia, PA",19121,Standard,Philadelphia,"36,572"
+"Philadelphia, PA",19122,Standard,Philadelphia,"21,653"
+"Philadelphia, PA",19123,Standard,Philadelphia,"13,416"
+"Philadelphia, PA",19124,Standard,Philadelphia,"66,691"
+"Philadelphia, PA",19125,Standard,Philadelphia,"22,958"
+"Philadelphia, PA",19126,Standard,Philadelphia,"15,758"
+"Philadelphia, PA",19127,Standard,Philadelphia,"5,913"
+"Philadelphia, PA",19128,Standard,Philadelphia,"35,239"
+"Philadelphia, PA",19129,Standard,Philadelphia,"10,975"
+"Philadelphia, PA",19130,Standard,Philadelphia,"24,870"
+"Philadelphia, PA",19131,Standard,Philadelphia,"43,172"
+"Philadelphia, PA",19132,Standard,Philadelphia,"36,268"
+"Philadelphia, PA",19133,Standard,Philadelphia,"26,063"
+"Philadelphia, PA",19134,Standard,Philadelphia,"60,675"
+"Philadelphia, PA",19135,Standard,Philadelphia,"33,091"
+"Philadelphia, PA",19136,Standard,Philadelphia,"40,647"
+"Philadelphia, PA",19137,Standard,Philadelphia,"8,638"
+"Philadelphia, PA",19138,Standard,Philadelphia,"32,273"
+"Philadelphia, PA",19139,Standard,Philadelphia,"41,271"
+"Philadelphia, PA",19140,Standard,Philadelphia,"54,133"
+"Philadelphia, PA",19141,Standard,Philadelphia,"31,376"
+"Philadelphia, PA",19142,Standard,Philadelphia,"29,595"
+"Philadelphia, PA",19143,Standard,Philadelphia,"64,849"
+"Philadelphia, PA",19144,Standard,Philadelphia,"43,329"
+"Philadelphia, PA",19145,Standard,Philadelphia,"47,261"
+"Philadelphia, PA",19146,Standard,Philadelphia,"35,113"
+"Philadelphia, PA",19147,Standard,Philadelphia,"36,228"
+"Philadelphia, PA",19148,Standard,Philadelphia,"49,732"
+"Philadelphia, PA",19149,Standard,Philadelphia,"55,006"
+"Philadelphia, PA",19150,Standard,Philadelphia,"23,378"
+"Philadelphia, PA",19151,Standard,Philadelphia,"29,883"
+"Philadelphia, PA",19152,Standard,Philadelphia,"33,293"
+"Philadelphia, PA",19153,Standard,Philadelphia,"12,259"
+"Philadelphia, PA",19154,Standard,Philadelphia,"34,196"
+"Philadelphia, PA",19155,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19160,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19161,Unique,Philadelphia,0
+"Philadelphia, PA",19162,Unique,Philadelphia,0
+"Philadelphia, PA",19170,Unique,Philadelphia,0
+"Philadelphia, PA",19171,Unique,Philadelphia,0
+"Philadelphia, PA",19172,Unique,Philadelphia,0
+"Philadelphia, PA",19173,Unique,Philadelphia,0
+"Philadelphia, PA",19175,Unique,Philadelphia,0
+"Philadelphia, PA",19176,P.O. Box,Philadelphia,0
+"Philadelphia, PA",19177,Unique,Philadelphia,0
+"Philadelphia, PA",19178,Unique,Philadelphia,0
+"Philadelphia, PA",19179,Unique,Philadelphia,0
+"Philadelphia, PA",19181,Unique,Philadelphia,0
+"Philadelphia, PA",19182,Unique,Philadelphia,0
+"Philadelphia, PA",19183,Unique,Philadelphia,0
+"Philadelphia, PA",19184,Unique,Philadelphia,0
+"Philadelphia, PA",19185,Unique,Philadelphia,0
+"Philadelphia, PA",19187,Unique,Philadelphia,0
+"Philadelphia, PA",19188,Unique,Philadelphia,0
+"Philadelphia, PA",19190,Unique,Philadelphia,0
+"Philadelphia, PA",19191,Unique,Philadelphia,0
+"Philadelphia, PA",19192,Unique,Philadelphia,0
+"Philadelphia, PA",19193,Unique,Philadelphia,0
+"Philadelphia, PA",19194,Unique,Philadelphia,0
+"Philadelphia, PA",19195,Unique,Philadelphia,0
+"Philadelphia, PA",19196,Unique,Philadelphia,0
+"Philadelphia, PA",19197,Unique,Philadelphia,0
+"Philadelphia, PA",19244,Unique,Philadelphia,0
+"Philadelphia, PA",19255,Unique,Philadelphia,0
+"Phoenix, AZ",85001,P.O. Box,Maricopa,0
+"Phoenix, AZ",85002,P.O. Box,Maricopa,0
+"Phoenix, AZ",85003,Standard,Maricopa,"9,369"
+"Phoenix, AZ",85004,Standard,Maricopa,"4,965"
+"Phoenix, AZ",85005,P.O. Box,Maricopa,0
+"Phoenix, AZ",85006,Standard,Maricopa,"25,742"
+"Phoenix, AZ",85007,Standard,Maricopa,"14,040"
+"Phoenix, AZ",85008,Standard,Maricopa,"56,145"
+"Phoenix, AZ",85009,Standard,Maricopa,"52,520"
+"Phoenix, AZ",85010,P.O. Box,Maricopa,0
+"Phoenix, AZ",85011,P.O. Box,Maricopa,0
+"Phoenix, AZ",85012,Standard,Maricopa,"6,390"
+"Phoenix, AZ",85013,Standard,Maricopa,"19,314"
+"Phoenix, AZ",85014,Standard,Maricopa,"24,782"
+"Phoenix, AZ",85015,Standard,Maricopa,"37,644"
+"Phoenix, AZ",85016,Standard,Maricopa,"33,896"
+"Phoenix, AZ",85017,Standard,Maricopa,"38,872"
+"Phoenix, AZ",85018,Standard,Maricopa,"36,065"
+"Phoenix, AZ",85019,Standard,Maricopa,"25,042"
+"Phoenix, AZ",85020,Standard,Maricopa,"32,850"
+"Phoenix, AZ",85021,Standard,Maricopa,"37,743"
+"Phoenix, AZ",85022,Standard,Maricopa,"46,395"
+"Phoenix, AZ",85023,Standard,Maricopa,"31,274"
+"Phoenix, AZ",85024,Standard,Maricopa,"22,898"
+"Phoenix, AZ",85026,Standard,Maricopa,0
+"Phoenix, AZ",85027,Standard,Maricopa,"37,140"
+"Phoenix, AZ",85028,Standard,Maricopa,"19,157"
+"Phoenix, AZ",85029,Standard,Maricopa,"43,233"
+"Phoenix, AZ",85030,P.O. Box,Maricopa,0
+"Phoenix, AZ",85031,Standard,Maricopa,"30,493"
+"Phoenix, AZ",85032,Standard,Maricopa,"65,485"
+"Phoenix, AZ",85033,Standard,Maricopa,"53,037"
+"Phoenix, AZ",85034,Standard,Maricopa,"5,582"
+"Phoenix, AZ",85035,Standard,Maricopa,"47,486"
+"Phoenix, AZ",85036,P.O. Box,Maricopa,0
+"Phoenix, AZ",85037,Standard,Maricopa,"44,771"
+"Phoenix, AZ",85038,P.O. Box,Maricopa,0
+"Phoenix, AZ",85039,Standard,Maricopa,0
+"Phoenix, AZ",85040,Standard,Maricopa,"29,352"
+"Phoenix, AZ",85041,Standard,Maricopa,"54,947"
+"Phoenix, AZ",85042,Standard,Maricopa,"40,962"
+"Phoenix, AZ",85043,Standard,Maricopa,"30,560"
+"Phoenix, AZ",85044,Standard,Maricopa,"37,993"
+"Phoenix, AZ",85045,Standard,Maricopa,"7,238"
+"Phoenix, AZ",85046,P.O. Box,Maricopa,0
+"Phoenix, AZ",85048,Standard,Maricopa,"33,449"
+"Phoenix, AZ",85050,Standard,Maricopa,"25,736"
+"Phoenix, AZ",85051,Standard,Maricopa,"40,375"
+"Phoenix, AZ",85053,Standard,Maricopa,"28,480"
+"Phoenix, AZ",85054,Standard,Maricopa,"5,384"
+"Phoenix, AZ",85060,P.O. Box,Maricopa,0
+"Phoenix, AZ",85061,P.O. Box,Maricopa,0
+"Phoenix, AZ",85062,P.O. Box,Maricopa,0
+"Phoenix, AZ",85063,P.O. Box,Maricopa,0
+"Phoenix, AZ",85064,P.O. Box,Maricopa,0
+"Phoenix, AZ",85065,Standard,Maricopa,0
+"Phoenix, AZ",85066,P.O. Box,Maricopa,0
+"Phoenix, AZ",85067,P.O. Box,Maricopa,0
+"Phoenix, AZ",85068,P.O. Box,Maricopa,0
+"Phoenix, AZ",85069,P.O. Box,Maricopa,0
+"Phoenix, AZ",85070,P.O. Box,Maricopa,0
+"Phoenix, AZ",85071,P.O. Box,Maricopa,0
+"Phoenix, AZ",85072,P.O. Box,Maricopa,0
+"Phoenix, AZ",85073,Standard,Maricopa,0
+"Phoenix, AZ",85074,P.O. Box,Maricopa,0
+"Phoenix, AZ",85075,P.O. Box,Maricopa,0
+"Phoenix, AZ",85076,P.O. Box,Maricopa,0
+"Phoenix, AZ",85078,P.O. Box,Maricopa,0
+"Phoenix, AZ",85079,P.O. Box,Maricopa,0
+"Phoenix, AZ",85080,P.O. Box,Maricopa,0
+"Phoenix, AZ",85082,P.O. Box,Maricopa,0
+"Phoenix, AZ",85083,Standard,Maricopa,"18,104"
+"Phoenix, AZ",85085,Standard,Maricopa,"17,517"
+"Phoenix, AZ",85086,Standard,Maricopa,"40,495"
+"Phoenix, AZ",85087,Standard,Maricopa,"7,708"
+"San Antonio, TX",78201,Standard,Bexar,"45,307"
+"San Antonio, TX",78202,Standard,Bexar,"11,691"
+"San Antonio, TX",78203,Standard,Bexar,"6,099"
+"San Antonio, TX",78204,Standard,Bexar,"11,125"
+"San Antonio, TX",78205,Standard,Bexar,"1,453"
+"San Antonio, TX",78206,Standard,Bexar,0
+"San Antonio, TX",78207,Standard,Bexar,"55,514"
+"San Antonio, TX",78208,Standard,Bexar,"3,736"
+"San Antonio, TX",78209,Standard,Bexar,"39,197"
+"San Antonio, TX",78210,Standard,Bexar,"36,865"
+"San Antonio, TX",78211,Standard,Bexar,"31,944"
+"San Antonio, TX",78212,Standard,Bexar,"28,415"
+"San Antonio, TX",78213,Standard,Bexar,"40,396"
+"San Antonio, TX",78214,Standard,Bexar,"23,341"
+"San Antonio, TX",78215,Standard,Bexar,"1,150"
+"San Antonio, TX",78216,Standard,Bexar,"40,267"
+"San Antonio, TX",78217,Standard,Bexar,"32,165"
+"San Antonio, TX",78218,Standard,Bexar,"31,917"
+"San Antonio, TX",78219,Standard,Bexar,"15,225"
+"San Antonio, TX",78220,Standard,Bexar,"15,965"
+"San Antonio, TX",78221,Standard,Bexar,"35,990"
+"San Antonio, TX",78222,Standard,Bexar,"19,408"
+"San Antonio, TX",78223,Standard,Bexar,"50,637"
+"San Antonio, TX",78224,Standard,Bexar,"17,601"
+"San Antonio, TX",78225,Standard,Bexar,"13,025"
+"San Antonio, TX",78226,Standard,Bexar,"6,648"
+"San Antonio, TX",78227,Standard,Bexar,"46,077"
+"San Antonio, TX",78228,Standard,Bexar,"58,811"
+"San Antonio, TX",78229,Standard,Bexar,"28,804"
+"San Antonio, TX",78230,Standard,Bexar,"39,089"
+"San Antonio, TX",78231,Standard,Bexar,"7,906"
+"San Antonio, TX",78232,Standard,Bexar,"35,120"
+"San Antonio, TX",78233,Standard,Bexar,"43,710"
+"San Antonio, TX",78234,Standard,Bexar,"7,126"
+"San Antonio, TX",78235,Standard,Bexar,357
+"San Antonio, TX",78236,Standard,Bexar,"10,392"
+"San Antonio, TX",78237,Standard,Bexar,"36,929"
+"San Antonio, TX",78238,Standard,Bexar,"23,514"
+"San Antonio, TX",78239,Standard,Bexar,"28,736"
+"San Antonio, TX",78240,Standard,Bexar,"51,111"
+"San Antonio, TX",78241,Standard,Bexar,0
+"San Antonio, TX",78242,Standard,Bexar,"31,395"
+"San Antonio, TX",78243,Standard,Bexar,235
+"San Antonio, TX",78244,Standard,Bexar,"30,757"
+"San Antonio, TX",78245,Standard,Bexar,"56,511"
+"San Antonio, TX",78246,P.O. Box,Bexar,0
+"San Antonio, TX",78247,Standard,Bexar,"49,176"
+"San Antonio, TX",78248,Standard,Bexar,"13,638"
+"San Antonio, TX",78249,Standard,Bexar,"49,951"
+"San Antonio, TX",78250,Standard,Bexar,"54,903"
+"San Antonio, TX",78251,Standard,Bexar,"49,435"
+"San Antonio, TX",78252,Standard,Bexar,"7,372"
+"San Antonio, TX",78253,Standard,Bexar,"29,007"
+"San Antonio, TX",78254,Standard,Bexar,"44,817"
+"San Antonio, TX",78255,Standard,Bexar,"10,826"
+"San Antonio, TX",78256,Standard,Bexar,"6,855"
+"San Antonio, TX",78257,Standard,Bexar,"3,950"
+"San Antonio, TX",78258,Standard,Bexar,"40,586"
+"San Antonio, TX",78259,Standard,Bexar,"22,660"
+"San Antonio, TX",78260,Standard,Bexar,"24,844"
+"San Antonio, TX",78261,Standard,Bexar,"13,513"
+"San Antonio, TX",78263,Standard,Bexar,"4,673"
+"San Antonio, TX",78264,Standard,Bexar,"12,339"
+"San Antonio, TX",78265,P.O. Box,Bexar,0
+"San Antonio, TX",78266,Standard,Comal,"5,591"
+"San Antonio, TX",78268,P.O. Box,Bexar,0
+"San Antonio, TX",78269,P.O. Box,Bexar,0
+"San Antonio, TX",78270,P.O. Box,Bexar,0
+"San Antonio, TX",78278,P.O. Box,Bexar,0
+"San Antonio, TX",78279,P.O. Box,Bexar,0
+"San Antonio, TX",78280,P.O. Box,Bexar,0
+"San Antonio, TX",78283,P.O. Box,Bexar,0
+"San Antonio, TX",78284,Standard,Bexar,0
+"San Antonio, TX",78285,Standard,Bexar,0
+"San Antonio, TX",78288,Unique,Bexar,0
+"San Antonio, TX",78289,Unique,Bexar,0
+"San Antonio, TX",78291,P.O. Box,Bexar,0
+"San Antonio, TX",78292,P.O. Box,Bexar,0
+"San Antonio, TX",78293,P.O. Box,Bexar,0
+"San Antonio, TX",78294,P.O. Box,Bexar,0
+"San Antonio, TX",78295,P.O. Box,Bexar,0
+"San Antonio, TX",78296,P.O. Box,Bexar,0
+"San Antonio, TX",78297,P.O. Box,Bexar,0
+"San Antonio, TX",78298,P.O. Box,Bexar,0
+"San Antonio, TX",78299,P.O. Box,Bexar,0
+"San Diego, CA",92101,Standard,San Diego,"37,095"
+"San Diego, CA",92102,Standard,San Diego,"43,267"
+"San Diego, CA",92103,Standard,San Diego,"31,066"
+"San Diego, CA",92104,Standard,San Diego,"44,414"
+"San Diego, CA",92105,Standard,San Diego,"69,813"
+"San Diego, CA",92106,Standard,San Diego,"19,330"
+"San Diego, CA",92107,Standard,San Diego,"28,651"
+"San Diego, CA",92108,Standard,San Diego,"18,858"
+"San Diego, CA",92109,Standard,San Diego,"45,787"
+"San Diego, CA",92110,Standard,San Diego,"25,341"
+"San Diego, CA",92111,Standard,San Diego,"45,096"
+"San Diego, CA",92112,P.O. Box,San Diego,0
+"San Diego, CA",92113,Standard,San Diego,"56,066"
+"San Diego, CA",92114,Standard,San Diego,"65,433"
+"San Diego, CA",92115,Standard,San Diego,"58,560"
+"San Diego, CA",92116,Standard,San Diego,"31,680"
+"San Diego, CA",92117,Standard,San Diego,"51,332"
+"San Diego, CA",92118,Standard,San Diego,"23,575"
+"San Diego, CA",92119,Standard,San Diego,"23,057"
+"San Diego, CA",92120,Standard,San Diego,"26,317"
+"San Diego, CA",92121,Standard,San Diego,"4,179"
+"San Diego, CA",92122,Standard,San Diego,"43,728"
+"San Diego, CA",92123,Standard,San Diego,"26,823"
+"San Diego, CA",92124,Standard,San Diego,"30,443"
+"San Diego, CA",92126,Standard,San Diego,"73,343"
+"San Diego, CA",92127,Standard,San Diego,"39,337"
+"San Diego, CA",92128,Standard,San Diego,"47,490"
+"San Diego, CA",92129,Standard,San Diego,"51,536"
+"San Diego, CA",92130,Standard,San Diego,"48,940"
+"San Diego, CA",92131,Standard,San Diego,"32,787"
+"San Diego, CA",92132,Unique,San Diego,0
+"San Diego, CA",92134,Unique,San Diego,198
+"San Diego, CA",92135,Standard,San Diego,571
+"San Diego, CA",92136,Unique,San Diego,0
+"San Diego, CA",92137,P.O. Box,San Diego,0
+"San Diego, CA",92138,P.O. Box,San Diego,0
+"San Diego, CA",92139,Standard,San Diego,"35,125"
+"San Diego, CA",92140,Unique,San Diego,"3,435"
+"San Diego, CA",92142,P.O. Box,San Diego,0
+"San Diego, CA",92143,P.O. Box,San Diego,0
+"San Diego, CA",92145,Unique,San Diego,"1,449"
+"San Diego, CA",92147,Unique,San Diego,559
+"San Diego, CA",92149,P.O. Box,San Diego,0
+"San Diego, CA",92150,P.O. Box,San Diego,0
+"San Diego, CA",92152,Unique,San Diego,0
+"San Diego, CA",92153,P.O. Box,San Diego,0
+"San Diego, CA",92154,Standard,San Diego,"79,708"
+"San Diego, CA",92155,Unique,San Diego,550
+"San Diego, CA",92158,Unique,San Diego,0
+"San Diego, CA",92159,P.O. Box,San Diego,0
+"San Diego, CA",92160,P.O. Box,San Diego,0
+"San Diego, CA",92161,Unique,San Diego,0
+"San Diego, CA",92163,P.O. Box,San Diego,0
+"San Diego, CA",92165,P.O. Box,San Diego,0
+"San Diego, CA",92166,P.O. Box,San Diego,0
+"San Diego, CA",92167,P.O. Box,San Diego,0
+"San Diego, CA",92168,P.O. Box,San Diego,0
+"San Diego, CA",92169,P.O. Box,San Diego,0
+"San Diego, CA",92170,P.O. Box,San Diego,0
+"San Diego, CA",92171,P.O. Box,San Diego,0
+"San Diego, CA",92172,P.O. Box,San Diego,0
+"San Diego, CA",92173,Standard,San Diego,"29,429"
+"San Diego, CA",92174,P.O. Box,San Diego,0
+"San Diego, CA",92175,P.O. Box,San Diego,0
+"San Diego, CA",92176,P.O. Box,San Diego,0
+"San Diego, CA",92177,P.O. Box,San Diego,0
+"San Diego, CA",92178,P.O. Box,San Diego,0
+"San Diego, CA",92179,P.O. Box,San Diego,0
+"San Diego, CA",92182,Unique,San Diego,0
+"San Diego, CA",92186,P.O. Box,San Diego,0
+"San Diego, CA",92187,Unique,San Diego,0
+"San Diego, CA",92191,P.O. Box,San Diego,0
+"San Diego, CA",92192,P.O. Box,San Diego,0
+"San Diego, CA",92193,P.O. Box,San Diego,0
+"San Diego, CA",92195,P.O. Box,San Diego,0
+"San Diego, CA",92196,P.O. Box,San Diego,0
+"San Diego, CA",92197,Standard,San Diego,0
+"San Diego, CA",92198,P.O. Box,San Diego,0
+"San Diego, CA",92199,Standard,San Diego,0
+"Dallas, TX",75201,Standard,Dallas,"9,409"
+"Dallas, TX",75202,Standard,Dallas,"1,666"
+"Dallas, TX",75203,Standard,Dallas,"15,721"
+"Dallas, TX",75204,Standard,Dallas,"26,279"
+"Dallas, TX",75205,Standard,Dallas,"23,061"
+"Dallas, TX",75206,Standard,Dallas,"36,248"
+"Dallas, TX",75207,Standard,Dallas,"9,648"
+"Dallas, TX",75208,Standard,Dallas,"30,171"
+"Dallas, TX",75209,Standard,Dallas,"13,653"
+"Dallas, TX",75210,Standard,Dallas,"7,482"
+"Dallas, TX",75211,Standard,Dallas,"73,146"
+"Dallas, TX",75212,Standard,Dallas,"24,884"
+"Dallas, TX",75214,Standard,Dallas,"32,950"
+"Dallas, TX",75215,Standard,Dallas,"14,648"
+"Dallas, TX",75216,Standard,Dallas,"49,416"
+"Dallas, TX",75217,Standard,Dallas,"80,324"
+"Dallas, TX",75218,Standard,Dallas,"21,665"
+"Dallas, TX",75219,Standard,Dallas,"22,124"
+"Dallas, TX",75220,Standard,Dallas,"41,891"
+"Dallas, TX",75221,P.O. Box,Dallas,0
+"Dallas, TX",75222,P.O. Box,Dallas,0
+"Dallas, TX",75223,Standard,Dallas,"13,947"
+"Dallas, TX",75224,Standard,Dallas,"34,034"
+"Dallas, TX",75225,Standard,Dallas,"20,892"
+"Dallas, TX",75226,Standard,Dallas,"3,506"
+"Dallas, TX",75227,Standard,Dallas,"55,029"
+"Dallas, TX",75228,Standard,Dallas,"66,551"
+"Dallas, TX",75229,Standard,Dallas,"31,571"
+"Dallas, TX",75230,Standard,Dallas,"26,934"
+"Dallas, TX",75231,Standard,Dallas,"37,052"
+"Dallas, TX",75232,Standard,Dallas,"28,682"
+"Dallas, TX",75233,Standard,Dallas,"14,043"
+"Dallas, TX",75234,Standard,Dallas,"28,794"
+"Dallas, TX",75235,Standard,Dallas,"17,177"
+"Dallas, TX",75236,Standard,Dallas,"15,949"
+"Dallas, TX",75237,Standard,Dallas,"17,101"
+"Dallas, TX",75238,Standard,Dallas,"30,483"
+"Dallas, TX",75240,Standard,Dallas,"24,296"
+"Dallas, TX",75241,Standard,Dallas,"27,066"
+"Dallas, TX",75242,Standard,Dallas,0
+"Dallas, TX",75243,Standard,Dallas,"55,406"
+"Dallas, TX",75244,Standard,Dallas,"13,266"
+"Dallas, TX",75246,Standard,Dallas,"2,770"
+"Dallas, TX",75247,Standard,Dallas,468
+"Dallas, TX",75248,Standard,Dallas,"33,395"
+"Dallas, TX",75249,Standard,Dallas,"13,373"
+"Dallas, TX",75250,P.O. Box,Dallas,0
+"Dallas, TX",75251,Standard,Dallas,"2,331"
+"Dallas, TX",75252,Standard,Collin,"24,112"
+"Dallas, TX",75253,Standard,Dallas,"18,450"
+"Dallas, TX",75254,Standard,Dallas,"23,253"
+"Dallas, TX",75260,Standard,Dallas,0
+"Dallas, TX",75261,P.O. Box,Dallas,0
+"Dallas, TX",75262,P.O. Box,Dallas,0
+"Dallas, TX",75263,P.O. Box,Dallas,0
+"Dallas, TX",75264,P.O. Box,Dallas,0
+"Dallas, TX",75265,P.O. Box,Dallas,0
+"Dallas, TX",75266,P.O. Box,Dallas,0
+"Dallas, TX",75267,P.O. Box,Dallas,0
+"Dallas, TX",75270,Standard,Dallas,0
+"Dallas, TX",75275,Unique,Dallas,0
+"Dallas, TX",75277,Unique,Dallas,0
+"Dallas, TX",75283,Unique,Dallas,0
+"Dallas, TX",75284,Unique,Dallas,0
+"Dallas, TX",75285,Unique,Dallas,0
+"Dallas, TX",75287,Standard,Collin,"49,004"
+"Dallas, TX",75301,Unique,Dallas,0
+"Dallas, TX",75303,Unique,Dallas,0
+"Dallas, TX",75312,Unique,Dallas,0
+"Dallas, TX",75313,P.O. Box,Dallas,0
+"Dallas, TX",75315,P.O. Box,Dallas,0
+"Dallas, TX",75320,Unique,Dallas,0
+"Dallas, TX",75326,Unique,Dallas,0
+"Dallas, TX",75336,P.O. Box,Dallas,0
+"Dallas, TX",75339,P.O. Box,Dallas,0
+"Dallas, TX",75342,Standard,Dallas,0
+"Dallas, TX",75354,P.O. Box,Dallas,0
+"Dallas, TX",75355,P.O. Box,Dallas,0
+"Dallas, TX",75356,P.O. Box,Dallas,0
+"Dallas, TX",75357,P.O. Box,Dallas,0
+"Dallas, TX",75358,Unique,Dallas,0
+"Dallas, TX",75359,P.O. Box,Dallas,0
+"Dallas, TX",75360,P.O. Box,Dallas,0
+"Dallas, TX",75367,P.O. Box,Dallas,0
+"Dallas, TX",75368,Unique,Dallas,0
+"Dallas, TX",75370,P.O. Box,Dallas,0
+"Dallas, TX",75371,P.O. Box,Dallas,0
+"Dallas, TX",75372,P.O. Box,Dallas,0
+"Dallas, TX",75373,Unique,Dallas,0
+"Dallas, TX",75374,P.O. Box,Dallas,0
+"Dallas, TX",75376,P.O. Box,Dallas,0
+"Dallas, TX",75378,P.O. Box,Dallas,0
+"Dallas, TX",75379,P.O. Box,Dallas,0
+"Dallas, TX",75380,P.O. Box,Dallas,0
+"Dallas, TX",75381,P.O. Box,Dallas,0
+"Dallas, TX",75382,P.O. Box,Dallas,0
+"Dallas, TX",75389,Unique,Dallas,0
+"Dallas, TX",75390,Unique,Dallas,0
+"Dallas, TX",75391,Unique,Dallas,0
+"Dallas, TX",75392,Unique,Dallas,0
+"Dallas, TX",75393,Unique,Dallas,0
+"Dallas, TX",75394,Unique,Dallas,0
+"Dallas, TX",75395,Unique,Dallas,0
+"Dallas, TX",75397,Unique,Dallas,0
+"Dallas, TX",75398,Standard,Dallas,0
+"San Jose, CA",95002,P.O. Box,Santa Clara,"2,077"
+"San Jose, CA",95101,Standard,Santa Clara,0
+"San Jose, CA",95103,P.O. Box,Santa Clara,0
+"San Jose, CA",95106,P.O. Box,Santa Clara,0
+"San Jose, CA",95108,P.O. Box,Santa Clara,0
+"San Jose, CA",95109,P.O. Box,Santa Clara,0
+"San Jose, CA",95110,Standard,Santa Clara,"18,730"
+"San Jose, CA",95111,Standard,Santa Clara,"58,466"
+"San Jose, CA",95112,Standard,Santa Clara,"55,927"
+"San Jose, CA",95113,Standard,Santa Clara,893
+"San Jose, CA",95115,P.O. Box,Santa Clara,0
+"San Jose, CA",95116,Standard,Santa Clara,"51,496"
+"San Jose, CA",95117,Standard,Santa Clara,"30,067"
+"San Jose, CA",95118,Standard,Santa Clara,"31,932"
+"San Jose, CA",95119,Standard,Santa Clara,"9,970"
+"San Jose, CA",95120,Standard,Santa Clara,"37,457"
+"San Jose, CA",95121,Standard,Santa Clara,"37,469"
+"San Jose, CA",95122,Standard,Santa Clara,"56,545"
+"San Jose, CA",95123,Standard,Santa Clara,"62,228"
+"San Jose, CA",95124,Standard,Santa Clara,"47,082"
+"San Jose, CA",95125,Standard,Santa Clara,"51,939"
+"San Jose, CA",95126,Standard,Santa Clara,"31,049"
+"San Jose, CA",95127,Standard,Santa Clara,"61,325"
+"San Jose, CA",95128,Standard,Santa Clara,"34,836"
+"San Jose, CA",95129,Standard,Santa Clara,"38,720"
+"San Jose, CA",95130,Standard,Santa Clara,"13,911"
+"San Jose, CA",95131,Standard,Santa Clara,"28,565"
+"San Jose, CA",95132,Standard,Santa Clara,"40,299"
+"San Jose, CA",95133,Standard,Santa Clara,"25,401"
+"San Jose, CA",95134,Standard,Santa Clara,"15,268"
+"San Jose, CA",95135,Standard,Santa Clara,"20,120"
+"San Jose, CA",95136,Standard,Santa Clara,"42,989"
+"San Jose, CA",95138,Standard,Santa Clara,"18,889"
+"San Jose, CA",95139,Standard,Santa Clara,"6,748"
+"San Jose, CA",95140,Standard,Santa Clara,191
+"San Jose, CA",95141,Standard,Santa Clara,0
+"San Jose, CA",95148,Standard,Santa Clara,"45,528"
+"San Jose, CA",95150,P.O. Box,Santa Clara,0
+"San Jose, CA",95151,P.O. Box,Santa Clara,0
+"San Jose, CA",95152,P.O. Box,Santa Clara,0
+"San Jose, CA",95153,P.O. Box,Santa Clara,0
+"San Jose, CA",95154,P.O. Box,Santa Clara,0
+"San Jose, CA",95155,P.O. Box,Santa Clara,0
+"San Jose, CA",95156,P.O. Box,Santa Clara,0
+"San Jose, CA",95157,P.O. Box,Santa Clara,0
+"San Jose, CA",95158,P.O. Box,Santa Clara,0
+"San Jose, CA",95159,P.O. Box,Santa Clara,0
+"San Jose, CA",95160,P.O. Box,Santa Clara,0
+"San Jose, CA",95161,P.O. Box,Santa Clara,0
+"San Jose, CA",95164,P.O. Box,Santa Clara,0
+"San Jose, CA",95170,P.O. Box,Santa Clara,0
+"San Jose, CA",95172,P.O. Box,Santa Clara,0
+"San Jose, CA",95173,P.O. Box,Santa Clara,0
+"San Jose, CA",95190,Unique,Santa Clara,0
+"San Jose, CA",95191,Unique,Santa Clara,0
+"San Jose, CA",95192,Unique,Santa Clara,0
+"San Jose, CA",95193,Unique,Santa Clara,0
+"San Jose, CA",95194,Unique,Santa Clara,0
+"San Jose, CA",95196,Unique,Santa Clara,0
+"Austin, TX",73301,Unique,Travis,0
+"Austin, TX",73344,Unique,Travis,0
+"Austin, TX",78681,Standard,Williamson,"50,606"
+"Austin, TX",78701,Standard,Travis,"6,841"
+"Austin, TX",78702,Standard,Travis,"21,334"
+"Austin, TX",78703,Standard,Travis,"19,690"
+"Austin, TX",78704,Standard,Travis,"42,117"
+"Austin, TX",78705,Standard,Travis,"31,340"
+"Austin, TX",78708,P.O. Box,Travis,0
+"Austin, TX",78709,P.O. Box,Travis,0
+"Austin, TX",78710,Standard,Travis,0
+"Austin, TX",78711,P.O. Box,Travis,0
+"Austin, TX",78712,Standard,Travis,860
+"Austin, TX",78713,P.O. Box,Travis,0
+"Austin, TX",78714,P.O. Box,Travis,0
+"Austin, TX",78715,P.O. Box,Travis,0
+"Austin, TX",78716,P.O. Box,Travis,0
+"Austin, TX",78717,Standard,Williamson,"22,538"
+"Austin, TX",78718,P.O. Box,Travis,0
+"Austin, TX",78719,Standard,Travis,"1,764"
+"Austin, TX",78720,P.O. Box,Travis,0
+"Austin, TX",78721,Standard,Travis,"11,425"
+"Austin, TX",78722,Standard,Travis,"5,901"
+"Austin, TX",78723,Standard,Travis,"28,330"
+"Austin, TX",78724,Standard,Travis,"21,696"
+"Austin, TX",78725,Standard,Travis,"6,083"
+"Austin, TX",78726,Standard,Travis,"13,122"
+"Austin, TX",78727,Standard,Travis,"26,689"
+"Austin, TX",78728,Standard,Travis,"20,299"
+"Austin, TX",78729,Standard,Williamson,"27,108"
+"Austin, TX",78730,Standard,Travis,"7,955"
+"Austin, TX",78731,Standard,Travis,"24,614"
+"Austin, TX",78732,Standard,Travis,"14,060"
+"Austin, TX",78733,Standard,Travis,"8,762"
+"Austin, TX",78734,Standard,Travis,"17,655"
+"Austin, TX",78735,Standard,Travis,"16,131"
+"Austin, TX",78736,Standard,Travis,"6,946"
+"Austin, TX",78737,Standard,Hays,"12,081"
+"Austin, TX",78738,Standard,Travis,"12,134"
+"Austin, TX",78739,Standard,Travis,"16,792"
+"Austin, TX",78741,Standard,Travis,"44,935"
+"Austin, TX",78742,Standard,Travis,820
+"Austin, TX",78744,Standard,Travis,"42,820"
+"Austin, TX",78745,Standard,Travis,"55,614"
+"Austin, TX",78746,Standard,Travis,"26,928"
+"Austin, TX",78747,Standard,Travis,"14,808"
+"Austin, TX",78748,Standard,Travis,"40,651"
+"Austin, TX",78749,Standard,Travis,"34,449"
+"Austin, TX",78750,Standard,Travis,"26,814"
+"Austin, TX",78751,Standard,Travis,"14,385"
+"Austin, TX",78752,Standard,Travis,"18,064"
+"Austin, TX",78753,Standard,Travis,"49,301"
+"Austin, TX",78754,Standard,Travis,"15,036"
+"Austin, TX",78755,P.O. Box,Travis,0
+"Austin, TX",78756,Standard,Travis,"7,194"
+"Austin, TX",78757,Standard,Travis,"21,310"
+"Austin, TX",78758,Standard,Travis,"44,072"
+"Austin, TX",78759,Standard,Travis,"38,891"
+"Austin, TX",78760,P.O. Box,Travis,0
+"Austin, TX",78761,P.O. Box,Travis,0
+"Austin, TX",78762,P.O. Box,Travis,0
+"Austin, TX",78763,P.O. Box,Travis,0
+"Austin, TX",78764,P.O. Box,Travis,0
+"Austin, TX",78765,P.O. Box,Travis,0
+"Austin, TX",78766,P.O. Box,Travis,0
+"Austin, TX",78767,P.O. Box,Travis,0
+"Austin, TX",78768,P.O. Box,Travis,0
+"Austin, TX",78772,Unique,Travis,0
+"Austin, TX",78773,Unique,Travis,0
+"Austin, TX",78774,Unique,Travis,0
+"Austin, TX",78778,Unique,Travis,0
+"Austin, TX",78779,Unique,Travis,0
+"Austin, TX",78783,Unique,Travis,0
+"Austin, TX",78799,Standard,Travis,0
+"Jacksonville, FL",32099,Standard,Duval,0
+"Jacksonville, FL",32201,P.O. Box,Duval,0
+"Jacksonville, FL",32202,Standard,Duval,"7,915"
+"Jacksonville, FL",32203,P.O. Box,Duval,0
+"Jacksonville, FL",32204,Standard,Duval,"6,906"
+"Jacksonville, FL",32205,Standard,Duval,"28,225"
+"Jacksonville, FL",32206,Standard,Duval,"17,669"
+"Jacksonville, FL",32207,Standard,Duval,"33,306"
+"Jacksonville, FL",32208,Standard,Duval,"30,879"
+"Jacksonville, FL",32209,Standard,Duval,"34,305"
+"Jacksonville, FL",32210,Standard,Duval,"59,080"
+"Jacksonville, FL",32211,Standard,Duval,"30,501"
+"Jacksonville, FL",32212,Standard,Duval,"1,959"
+"Jacksonville, FL",32214,Unique,Duval,0
+"Jacksonville, FL",32216,Standard,Duval,"34,876"
+"Jacksonville, FL",32217,Standard,Duval,"18,817"
+"Jacksonville, FL",32218,Standard,Duval,"53,473"
+"Jacksonville, FL",32219,Standard,Duval,"11,886"
+"Jacksonville, FL",32220,Standard,Duval,"12,946"
+"Jacksonville, FL",32221,Standard,Duval,"27,918"
+"Jacksonville, FL",32222,Standard,Duval,"8,691"
+"Jacksonville, FL",32223,Standard,Duval,"23,980"
+"Jacksonville, FL",32224,Standard,Duval,"38,934"
+"Jacksonville, FL",32225,Standard,Duval,"52,485"
+"Jacksonville, FL",32226,Standard,Duval,"15,761"
+"Jacksonville, FL",32227,Standard,Duval,"2,149"
+"Jacksonville, FL",32228,P.O. Box,Duval,314
+"Jacksonville, FL",32229,P.O. Box,Duval,0
+"Jacksonville, FL",32231,P.O. Box,Duval,0
+"Jacksonville, FL",32232,P.O. Box,Duval,0
+"Jacksonville, FL",32233,Standard,Duval,"23,673"
+"Jacksonville, FL",32234,Standard,Duval,"6,606"
+"Jacksonville, FL",32235,P.O. Box,Duval,0
+"Jacksonville, FL",32236,P.O. Box,Duval,0
+"Jacksonville, FL",32237,P.O. Box,Duval,0
+"Jacksonville, FL",32238,P.O. Box,Duval,0
+"Jacksonville, FL",32239,P.O. Box,Duval,0
+"Jacksonville, FL",32240,P.O. Box,Duval,0
+"Jacksonville, FL",32241,P.O. Box,Duval,0
+"Jacksonville, FL",32244,Standard,Duval,"57,369"
+"Jacksonville, FL",32245,P.O. Box,Duval,0
+"Jacksonville, FL",32246,Standard,Duval,"48,789"
+"Jacksonville, FL",32247,P.O. Box,Duval,0
+"Jacksonville, FL",32250,Standard,Duval,"25,356"
+"Jacksonville, FL",32254,Standard,Duval,"13,570"
+"Jacksonville, FL",32255,P.O. Box,Duval,0
+"Jacksonville, FL",32256,Standard,Duval,"38,483"
+"Jacksonville, FL",32257,Standard,Duval,"36,430"
+"Jacksonville, FL",32258,Standard,Duval,"26,759"
+"Jacksonville, FL",32259,Standard,Saint Johns,"36,917"
+"Jacksonville, FL",32260,P.O. Box,Saint Johns,0
+"Jacksonville, FL",32266,Standard,Duval,"7,037"
+"Jacksonville, FL",32277,Standard,Duval,"29,517"
+"San Francisco, CA",94102,Standard,San Francisco,"31,176"
+"San Francisco, CA",94103,Standard,San Francisco,"27,170"
+"San Francisco, CA",94104,Standard,San Francisco,406
+"San Francisco, CA",94105,Standard,San Francisco,"5,846"
+"San Francisco, CA",94107,Standard,San Francisco,"26,599"
+"San Francisco, CA",94108,Standard,San Francisco,"13,768"
+"San Francisco, CA",94109,Standard,San Francisco,"55,984"
+"San Francisco, CA",94110,Standard,San Francisco,"69,333"
+"San Francisco, CA",94111,Standard,San Francisco,"3,713"
+"San Francisco, CA",94112,Standard,San Francisco,"79,407"
+"San Francisco, CA",94114,Standard,San Francisco,"31,124"
+"San Francisco, CA",94115,Standard,San Francisco,"33,021"
+"San Francisco, CA",94116,Standard,San Francisco,"43,698"
+"San Francisco, CA",94117,Standard,San Francisco,"39,169"
+"San Francisco, CA",94118,Standard,San Francisco,"38,319"
+"San Francisco, CA",94119,P.O. Box,San Francisco,0
+"San Francisco, CA",94120,P.O. Box,San Francisco,0
+"San Francisco, CA",94121,Standard,San Francisco,"41,203"
+"San Francisco, CA",94122,Standard,San Francisco,"56,023"
+"San Francisco, CA",94123,Standard,San Francisco,"23,088"
+"San Francisco, CA",94124,Standard,San Francisco,"33,996"
+"San Francisco, CA",94125,P.O. Box,San Francisco,0
+"San Francisco, CA",94126,P.O. Box,San Francisco,0
+"San Francisco, CA",94127,Standard,San Francisco,"19,289"
+"San Francisco, CA",94128,Standard,San Mateo,69
+"San Francisco, CA",94129,Standard,San Francisco,"3,183"
+"San Francisco, CA",94130,Standard,San Francisco,"2,880"
+"San Francisco, CA",94131,Standard,San Francisco,"26,881"
+"San Francisco, CA",94132,Standard,San Francisco,"28,129"
+"San Francisco, CA",94133,Standard,San Francisco,"26,237"
+"San Francisco, CA",94134,Standard,San Francisco,"40,798"
+"San Francisco, CA",94137,Unique,San Francisco,0
+"San Francisco, CA",94139,Unique,San Francisco,0
+"San Francisco, CA",94140,P.O. Box,San Francisco,0
+"San Francisco, CA",94141,P.O. Box,San Francisco,0
+"San Francisco, CA",94142,P.O. Box,San Francisco,0
+"San Francisco, CA",94143,Standard,San Francisco,0
+"San Francisco, CA",94144,Unique,San Francisco,0
+"San Francisco, CA",94145,Unique,San Francisco,0
+"San Francisco, CA",94146,P.O. Box,San Francisco,0
+"San Francisco, CA",94147,P.O. Box,San Francisco,0
+"San Francisco, CA",94151,Unique,San Francisco,0
+"San Francisco, CA",94158,Standard,San Francisco,"4,792"
+"San Francisco, CA",94159,P.O. Box,San Francisco,0
+"San Francisco, CA",94160,Unique,San Francisco,0
+"San Francisco, CA",94161,Unique,San Francisco,0
+"San Francisco, CA",94163,Unique,San Francisco,0
+"San Francisco, CA",94164,P.O. Box,San Francisco,0
+"San Francisco, CA",94172,P.O. Box,San Francisco,0
+"San Francisco, CA",94177,Unique,San Francisco,0
+"San Francisco, CA",94188,Standard,San Francisco,0
+"Indianapolis, IN",46201,Standard,Marion,"30,962"
+"Indianapolis, IN",46202,Standard,Marion,"16,335"
+"Indianapolis, IN",46203,Standard,Marion,"38,950"
+"Indianapolis, IN",46204,Standard,Marion,"5,125"
+"Indianapolis, IN",46205,Standard,Marion,"25,356"
+"Indianapolis, IN",46206,P.O. Box,Marion,0
+"Indianapolis, IN",46207,P.O. Box,Marion,0
+"Indianapolis, IN",46208,Standard,Marion,"22,239"
+"Indianapolis, IN",46209,Unique,Marion,0
+"Indianapolis, IN",46213,Unique,Marion,0
+"Indianapolis, IN",46214,Standard,Marion,"24,306"
+"Indianapolis, IN",46216,Standard,Marion,"1,697"
+"Indianapolis, IN",46217,Standard,Marion,"29,358"
+"Indianapolis, IN",46218,Standard,Marion,"29,028"
+"Indianapolis, IN",46219,Standard,Marion,"33,930"
+"Indianapolis, IN",46220,Standard,Marion,"34,830"
+"Indianapolis, IN",46221,Standard,Marion,"26,393"
+"Indianapolis, IN",46222,Standard,Marion,"34,044"
+"Indianapolis, IN",46224,Standard,Marion,"35,094"
+"Indianapolis, IN",46225,Standard,Marion,"7,319"
+"Indianapolis, IN",46226,Standard,Marion,"43,904"
+"Indianapolis, IN",46227,Standard,Marion,"57,086"
+"Indianapolis, IN",46228,Standard,Marion,"14,755"
+"Indianapolis, IN",46229,Standard,Marion,"27,262"
+"Indianapolis, IN",46230,P.O. Box,Marion,0
+"Indianapolis, IN",46231,Standard,Marion,"10,440"
+"Indianapolis, IN",46234,Standard,Marion,"24,810"
+"Indianapolis, IN",46235,Standard,Marion,"30,825"
+"Indianapolis, IN",46236,Standard,Marion,"27,294"
+"Indianapolis, IN",46237,Standard,Marion,"39,624"
+"Indianapolis, IN",46239,Standard,Marion,"25,345"
+"Indianapolis, IN",46240,Standard,Marion,"18,731"
+"Indianapolis, IN",46241,Standard,Marion,"30,670"
+"Indianapolis, IN",46242,P.O. Box,Marion,0
+"Indianapolis, IN",46244,P.O. Box,Marion,0
+"Indianapolis, IN",46247,P.O. Box,Marion,0
+"Indianapolis, IN",46249,Unique,Marion,0
+"Indianapolis, IN",46250,Standard,Marion,"18,546"
+"Indianapolis, IN",46251,P.O. Box,Marion,0
+"Indianapolis, IN",46253,P.O. Box,Marion,0
+"Indianapolis, IN",46254,Standard,Marion,"38,095"
+"Indianapolis, IN",46255,Unique,Marion,0
+"Indianapolis, IN",46256,Standard,Marion,"23,647"
+"Indianapolis, IN",46259,Standard,Marion,"11,617"
+"Indianapolis, IN",46260,Standard,Marion,"32,406"
+"Indianapolis, IN",46262,Unique,Marion,0
+"Indianapolis, IN",46268,Standard,Marion,"24,965"
+"Indianapolis, IN",46277,Unique,Marion,0
+"Indianapolis, IN",46278,Standard,Marion,"8,197"
+"Indianapolis, IN",46280,Standard,Hamilton,"6,793"
+"Indianapolis, IN",46282,Standard,Marion,0
+"Indianapolis, IN",46283,Unique,Marion,0
+"Indianapolis, IN",46285,Unique,Marion,0
+"Indianapolis, IN",46288,Unique,Marion,0
+"Indianapolis, IN",46290,Standard,Hamilton,170
+"Indianapolis, IN",46298,Unique,Marion,0
+"Columbus, OH",43081,Standard,Franklin,"55,991"
+"Columbus, OH",43085,Standard,Franklin,"23,258"
+"Columbus, OH",43201,Standard,Franklin,"35,495"
+"Columbus, OH",43202,Standard,Franklin,"20,251"
+"Columbus, OH",43203,Standard,Franklin,"8,108"
+"Columbus, OH",43204,Standard,Franklin,"42,104"
+"Columbus, OH",43205,Standard,Franklin,"12,272"
+"Columbus, OH",43206,Standard,Franklin,"21,864"
+"Columbus, OH",43207,Standard,Franklin,"45,144"
+"Columbus, OH",43209,Standard,Franklin,"27,228"
+"Columbus, OH",43210,Standard,Franklin,"9,432"
+"Columbus, OH",43211,Standard,Franklin,"21,600"
+"Columbus, OH",43212,Standard,Franklin,"18,551"
+"Columbus, OH",43213,Standard,Franklin,"30,444"
+"Columbus, OH",43214,Standard,Franklin,"24,650"
+"Columbus, OH",43215,Standard,Franklin,"12,790"
+"Columbus, OH",43216,P.O. Box,Franklin,0
+"Columbus, OH",43217,Standard,Franklin,"2,602"
+"Columbus, OH",43218,P.O. Box,Franklin,0
+"Columbus, OH",43219,Standard,Franklin,"27,123"
+"Columbus, OH",43220,Standard,Franklin,"24,989"
+"Columbus, OH",43221,Standard,Franklin,"31,265"
+"Columbus, OH",43222,Standard,Franklin,"4,617"
+"Columbus, OH",43223,Standard,Franklin,"27,366"
+"Columbus, OH",43224,Standard,Franklin,"38,699"
+"Columbus, OH",43226,P.O. Box,Franklin,0
+"Columbus, OH",43227,Standard,Franklin,"21,340"
+"Columbus, OH",43228,Standard,Franklin,"50,737"
+"Columbus, OH",43229,Standard,Franklin,"46,347"
+"Columbus, OH",43230,Standard,Franklin,"51,161"
+"Columbus, OH",43231,Standard,Franklin,"19,685"
+"Columbus, OH",43232,Standard,Franklin,"42,201"
+"Columbus, OH",43234,P.O. Box,Franklin,0
+"Columbus, OH",43235,Standard,Franklin,"38,493"
+"Columbus, OH",43236,P.O. Box,Franklin,0
+"Columbus, OH",43240,Standard,Delaware,"3,469"
+"Columbus, OH",43251,Unique,Franklin,0
+"Columbus, OH",43260,Unique,Franklin,0
+"Columbus, OH",43266,Unique,Franklin,0
+"Columbus, OH",43268,Unique,Franklin,0
+"Columbus, OH",43270,Unique,Franklin,0
+"Columbus, OH",43271,Unique,Franklin,0
+"Columbus, OH",43272,Unique,Franklin,0
+"Columbus, OH",43279,Unique,Franklin,0
+"Columbus, OH",43287,Unique,Franklin,0
+"Columbus, OH",43291,Unique,Franklin,0
+"Fort Worth, TX",76101,P.O. Box,Tarrant,0
+"Fort Worth, TX",76102,Standard,Tarrant,"8,111"
+"Fort Worth, TX",76103,Standard,Tarrant,"14,572"
+"Fort Worth, TX",76104,Standard,Tarrant,"17,446"
+"Fort Worth, TX",76105,Standard,Tarrant,"22,194"
+"Fort Worth, TX",76106,Standard,Tarrant,"35,389"
+"Fort Worth, TX",76107,Standard,Tarrant,"25,917"
+"Fort Worth, TX",76108,Standard,Tarrant,"38,227"
+"Fort Worth, TX",76109,Standard,Tarrant,"21,710"
+"Fort Worth, TX",76110,Standard,Tarrant,"30,434"
+"Fort Worth, TX",76111,Standard,Tarrant,"21,685"
+"Fort Worth, TX",76112,Standard,Tarrant,"38,993"
+"Fort Worth, TX",76113,P.O. Box,Tarrant,0
+"Fort Worth, TX",76114,Standard,Tarrant,"24,741"
+"Fort Worth, TX",76115,Standard,Tarrant,"20,696"
+"Fort Worth, TX",76116,Standard,Tarrant,"46,746"
+"Fort Worth, TX",76117,Standard,Tarrant,"30,645"
+"Fort Worth, TX",76118,Standard,Tarrant,"13,866"
+"Fort Worth, TX",76119,Standard,Tarrant,"42,761"
+"Fort Worth, TX",76120,Standard,Tarrant,"15,283"
+"Fort Worth, TX",76121,P.O. Box,Tarrant,0
+"Fort Worth, TX",76122,Unique,Tarrant,0
+"Fort Worth, TX",76123,Standard,Tarrant,"29,722"
+"Fort Worth, TX",76124,P.O. Box,Tarrant,0
+"Fort Worth, TX",76126,Standard,Tarrant,"19,395"
+"Fort Worth, TX",76127,Standard,Tarrant,"2,003"
+"Fort Worth, TX",76129,Unique,Tarrant,"2,833"
+"Fort Worth, TX",76130,Unique,Tarrant,0
+"Fort Worth, TX",76131,Standard,Tarrant,"28,374"
+"Fort Worth, TX",76132,Standard,Tarrant,"24,709"
+"Fort Worth, TX",76133,Standard,Tarrant,"48,394"
+"Fort Worth, TX",76134,Standard,Tarrant,"23,704"
+"Fort Worth, TX",76135,Standard,Tarrant,"20,684"
+"Fort Worth, TX",76136,P.O. Box,Tarrant,0
+"Fort Worth, TX",76137,Standard,Tarrant,"54,911"
+"Fort Worth, TX",76140,Standard,Tarrant,"26,340"
+"Fort Worth, TX",76147,P.O. Box,Tarrant,0
+"Fort Worth, TX",76148,Standard,Tarrant,"23,331"
+"Fort Worth, TX",76150,Unique,Tarrant,0
+"Fort Worth, TX",76155,Standard,Tarrant,"3,115"
+"Fort Worth, TX",76161,P.O. Box,Tarrant,0
+"Fort Worth, TX",76162,P.O. Box,Tarrant,0
+"Fort Worth, TX",76163,P.O. Box,Tarrant,0
+"Fort Worth, TX",76164,Standard,Tarrant,"16,748"
+"Fort Worth, TX",76166,Unique,Tarrant,0
+"Fort Worth, TX",76177,Standard,Tarrant,"4,891"
+"Fort Worth, TX",76179,Standard,Tarrant,"48,058"
+"Fort Worth, TX",76180,Standard,Tarrant,"33,444"
+"Fort Worth, TX",76181,P.O. Box,Tarrant,0
+"Fort Worth, TX",76182,Standard,Tarrant,"28,209"
+"Fort Worth, TX",76185,P.O. Box,Tarrant,0
+"Fort Worth, TX",76190,Unique,Tarrant,0
+"Fort Worth, TX",76191,Unique,Tarrant,0
+"Fort Worth, TX",76192,Unique,Tarrant,0
+"Fort Worth, TX",76193,Unique,Tarrant,0
+"Fort Worth, TX",76195,Unique,Tarrant,0
+"Fort Worth, TX",76196,Unique,Tarrant,0
+"Fort Worth, TX",76197,Unique,Tarrant,0
+"Fort Worth, TX",76198,Unique,Tarrant,0
+"Fort Worth, TX",76199,Unique,Tarrant,0
+"Fort Worth, TX",76244,Standard,Tarrant,"60,388"
+"Charlotte, NC",28201,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28202,Standard,Mecklenburg,"11,195"
+"Charlotte, NC",28203,Standard,Mecklenburg,"11,315"
+"Charlotte, NC",28204,Standard,Mecklenburg,"4,796"
+"Charlotte, NC",28205,Standard,Mecklenburg,"43,931"
+"Charlotte, NC",28206,Standard,Mecklenburg,"11,898"
+"Charlotte, NC",28207,Standard,Mecklenburg,"9,280"
+"Charlotte, NC",28208,Standard,Mecklenburg,"34,167"
+"Charlotte, NC",28209,Standard,Mecklenburg,"20,317"
+"Charlotte, NC",28210,Standard,Mecklenburg,"42,263"
+"Charlotte, NC",28211,Standard,Mecklenburg,"28,523"
+"Charlotte, NC",28212,Standard,Mecklenburg,"38,457"
+"Charlotte, NC",28213,Standard,Mecklenburg,"37,309"
+"Charlotte, NC",28214,Standard,Mecklenburg,"34,721"
+"Charlotte, NC",28215,Standard,Mecklenburg,"53,629"
+"Charlotte, NC",28216,Standard,Mecklenburg,"47,208"
+"Charlotte, NC",28217,Standard,Mecklenburg,"24,204"
+"Charlotte, NC",28218,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28219,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28220,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28221,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28222,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28223,Unique,Mecklenburg,0
+"Charlotte, NC",28224,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28226,Standard,Mecklenburg,"37,286"
+"Charlotte, NC",28227,Standard,Mecklenburg,"49,635"
+"Charlotte, NC",28228,Unique,Mecklenburg,0
+"Charlotte, NC",28229,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28230,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28231,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28232,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28233,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28234,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28235,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28236,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28237,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28241,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28242,Unique,Mecklenburg,0
+"Charlotte, NC",28243,Unique,Mecklenburg,0
+"Charlotte, NC",28244,Standard,Mecklenburg,0
+"Charlotte, NC",28246,Standard,Mecklenburg,0
+"Charlotte, NC",28247,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28253,Unique,Mecklenburg,0
+"Charlotte, NC",28254,Standard,Mecklenburg,0
+"Charlotte, NC",28255,Unique,Mecklenburg,0
+"Charlotte, NC",28256,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28258,Unique,Mecklenburg,0
+"Charlotte, NC",28260,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28262,Standard,Mecklenburg,"37,547"
+"Charlotte, NC",28263,Unique,Mecklenburg,0
+"Charlotte, NC",28265,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28266,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28269,Standard,Mecklenburg,"71,048"
+"Charlotte, NC",28270,Standard,Mecklenburg,"31,525"
+"Charlotte, NC",28271,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28272,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28273,Standard,Mecklenburg,"31,478"
+"Charlotte, NC",28274,Unique,Mecklenburg,0
+"Charlotte, NC",28275,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28277,Standard,Mecklenburg,"59,664"
+"Charlotte, NC",28278,Standard,Mecklenburg,"19,283"
+"Charlotte, NC",28280,Standard,Mecklenburg,10
+"Charlotte, NC",28281,Standard,Mecklenburg,0
+"Charlotte, NC",28282,Standard,Mecklenburg,0
+"Charlotte, NC",28284,Standard,Mecklenburg,0
+"Charlotte, NC",28285,Standard,Mecklenburg,0
+"Charlotte, NC",28287,Standard,Mecklenburg,0
+"Charlotte, NC",28288,Unique,Mecklenburg,0
+"Charlotte, NC",28289,Unique,Mecklenburg,0
+"Charlotte, NC",28290,Unique,Mecklenburg,0
+"Charlotte, NC",28296,Unique,Mecklenburg,0
+"Charlotte, NC",28297,P.O. Box,Mecklenburg,0
+"Charlotte, NC",28299,P.O. Box,Mecklenburg,0
+"Detroit, MI",48201,Standard,Wayne,"12,814"
+"Detroit, MI",48202,Standard,Wayne,"16,603"
+"Detroit, MI",48203,Standard,Wayne,"28,409"
+"Detroit, MI",48204,Standard,Wayne,"27,997"
+"Detroit, MI",48205,Standard,Wayne,"44,045"
+"Detroit, MI",48206,Standard,Wayne,"21,954"
+"Detroit, MI",48207,Standard,Wayne,"20,252"
+"Detroit, MI",48208,Standard,Wayne,"10,234"
+"Detroit, MI",48209,Standard,Wayne,"32,262"
+"Detroit, MI",48210,Standard,Wayne,"31,017"
+"Detroit, MI",48211,Standard,Wayne,"7,082"
+"Detroit, MI",48212,Standard,Wayne,"39,038"
+"Detroit, MI",48213,Standard,Wayne,"27,712"
+"Detroit, MI",48214,Standard,Wayne,"22,759"
+"Detroit, MI",48215,Standard,Wayne,"13,565"
+"Detroit, MI",48216,Standard,Wayne,"5,645"
+"Detroit, MI",48217,Standard,Wayne,"8,210"
+"Detroit, MI",48218,Standard,Wayne,"7,903"
+"Detroit, MI",48219,Standard,Wayne,"46,931"
+"Detroit, MI",48220,Standard,Oakland,"22,319"
+"Detroit, MI",48221,Standard,Wayne,"38,727"
+"Detroit, MI",48222,Unique,Wayne,0
+"Detroit, MI",48223,Standard,Wayne,"25,336"
+"Detroit, MI",48224,Standard,Wayne,"44,439"
+"Detroit, MI",48225,Standard,Wayne,"14,554"
+"Detroit, MI",48226,Standard,Wayne,"5,302"
+"Detroit, MI",48227,Standard,Wayne,"45,380"
+"Detroit, MI",48228,Standard,Wayne,"52,130"
+"Detroit, MI",48229,Standard,Wayne,"9,556"
+"Detroit, MI",48230,Standard,Wayne,"16,976"
+"Detroit, MI",48231,P.O. Box,Wayne,0
+"Detroit, MI",48232,P.O. Box,Wayne,0
+"Detroit, MI",48233,Standard,Wayne,0
+"Detroit, MI",48234,Standard,Wayne,"36,140"
+"Detroit, MI",48235,Standard,Wayne,"45,063"
+"Detroit, MI",48236,Standard,Wayne,"30,607"
+"Detroit, MI",48237,Standard,Oakland,"29,319"
+"Detroit, MI",48238,Standard,Wayne,"31,743"
+"Detroit, MI",48239,Standard,Wayne,"35,524"
+"Detroit, MI",48240,Standard,Wayne,"17,722"
+"Detroit, MI",48242,Standard,Wayne,0
+"Detroit, MI",48243,Standard,Wayne,0
+"Detroit, MI",48244,P.O. Box,Wayne,0
+"Detroit, MI",48255,Unique,Wayne,0
+"Detroit, MI",48260,Unique,Wayne,0
+"Detroit, MI",48264,Unique,Wayne,0
+"Detroit, MI",48265,Unique,Wayne,0
+"Detroit, MI",48266,Unique,Wayne,0
+"Detroit, MI",48267,Unique,Wayne,0
+"Detroit, MI",48268,Unique,Wayne,0
+"Detroit, MI",48269,Unique,Wayne,0
+"Detroit, MI",48272,Unique,Wayne,0
+"Detroit, MI",48275,Unique,Wayne,0
+"Detroit, MI",48277,Unique,Wayne,0
+"Detroit, MI",48278,Unique,Wayne,0
+"Detroit, MI",48279,Unique,Wayne,0
+"Detroit, MI",48288,Unique,Wayne,0
+"El Paso, TX",79835,Standard,El Paso,"12,690"
+"El Paso, TX",79901,Standard,El Paso,"11,328"
+"El Paso, TX",79902,Standard,El Paso,"21,236"
+"El Paso, TX",79903,Standard,El Paso,"18,451"
+"El Paso, TX",79904,Standard,El Paso,"35,060"
+"El Paso, TX",79905,Standard,El Paso,"26,036"
+"El Paso, TX",79906,Standard,El Paso,"4,374"
+"El Paso, TX",79907,Standard,El Paso,"55,132"
+"El Paso, TX",79908,Standard,El Paso,"3,673"
+"El Paso, TX",79910,Standard,El Paso,0
+"El Paso, TX",79911,Standard,El Paso,"1,565"
+"El Paso, TX",79912,Standard,El Paso,"77,161"
+"El Paso, TX",79913,P.O. Box,El Paso,0
+"El Paso, TX",79914,P.O. Box,El Paso,0
+"El Paso, TX",79915,Standard,El Paso,"40,057"
+"El Paso, TX",79916,Standard,El Paso,"2,995"
+"El Paso, TX",79917,P.O. Box,El Paso,0
+"El Paso, TX",79918,Standard,El Paso,0
+"El Paso, TX",79920,P.O. Box,El Paso,153
+"El Paso, TX",79922,Standard,El Paso,"8,935"
+"El Paso, TX",79923,P.O. Box,El Paso,0
+"El Paso, TX",79924,Standard,El Paso,"59,058"
+"El Paso, TX",79925,Standard,El Paso,"40,641"
+"El Paso, TX",79926,P.O. Box,El Paso,0
+"El Paso, TX",79927,Standard,El Paso,"39,016"
+"El Paso, TX",79928,Standard,El Paso,"49,544"
+"El Paso, TX",79929,P.O. Box,El Paso,0
+"El Paso, TX",79930,Standard,El Paso,"28,410"
+"El Paso, TX",79931,P.O. Box,El Paso,0
+"El Paso, TX",79932,Standard,El Paso,"24,986"
+"El Paso, TX",79934,Standard,El Paso,"19,174"
+"El Paso, TX",79935,Standard,El Paso,"18,042"
+"El Paso, TX",79936,Standard,El Paso,"111,086"
+"El Paso, TX",79937,P.O. Box,El Paso,0
+"El Paso, TX",79938,Standard,El Paso,"53,520"
+"El Paso, TX",79940,P.O. Box,El Paso,0
+"El Paso, TX",79941,P.O. Box,El Paso,0
+"El Paso, TX",79942,P.O. Box,El Paso,2
+"El Paso, TX",79943,P.O. Box,El Paso,0
+"El Paso, TX",79944,P.O. Box,El Paso,0
+"El Paso, TX",79945,P.O. Box,El Paso,0
+"El Paso, TX",79946,P.O. Box,El Paso,0
+"El Paso, TX",79947,P.O. Box,El Paso,0
+"El Paso, TX",79948,P.O. Box,El Paso,0
+"El Paso, TX",79949,P.O. Box,El Paso,0
+"El Paso, TX",79950,P.O. Box,El Paso,0
+"El Paso, TX",79951,P.O. Box,El Paso,0
+"El Paso, TX",79952,P.O. Box,El Paso,0
+"El Paso, TX",79953,P.O. Box,El Paso,0
+"El Paso, TX",79954,P.O. Box,El Paso,0
+"El Paso, TX",79955,P.O. Box,El Paso,0
+"El Paso, TX",79958,Unique,El Paso,0
+"El Paso, TX",79960,Unique,El Paso,0
+"El Paso, TX",79961,Unique,El Paso,0
+"El Paso, TX",79968,Unique,El Paso,0
+"El Paso, TX",79976,Unique,El Paso,0
+"El Paso, TX",79978,Unique,El Paso,0
+"El Paso, TX",79980,Unique,El Paso,0
+"El Paso, TX",79995,P.O. Box,El Paso,0
+"El Paso, TX",79996,P.O. Box,El Paso,0
+"El Paso, TX",79997,P.O. Box,El Paso,0
+"El Paso, TX",79998,P.O. Box,El Paso,0
+"El Paso, TX",79999,P.O. Box,El Paso,0
+"El Paso, TX",88510,P.O. Box,El Paso,0
+"El Paso, TX",88511,P.O. Box,El Paso,0
+"El Paso, TX",88512,P.O. Box,El Paso,0
+"El Paso, TX",88513,P.O. Box,El Paso,0
+"El Paso, TX",88514,P.O. Box,El Paso,0
+"El Paso, TX",88515,P.O. Box,El Paso,0
+"El Paso, TX",88517,P.O. Box,El Paso,0
+"El Paso, TX",88518,P.O. Box,El Paso,0
+"El Paso, TX",88519,P.O. Box,El Paso,0
+"El Paso, TX",88520,P.O. Box,El Paso,0
+"El Paso, TX",88521,P.O. Box,El Paso,0
+"El Paso, TX",88523,P.O. Box,El Paso,0
+"El Paso, TX",88524,P.O. Box,El Paso,0
+"El Paso, TX",88525,P.O. Box,El Paso,0
+"El Paso, TX",88526,P.O. Box,El Paso,0
+"El Paso, TX",88527,P.O. Box,El Paso,0
+"El Paso, TX",88528,P.O. Box,El Paso,0
+"El Paso, TX",88529,P.O. Box,El Paso,0
+"El Paso, TX",88530,P.O. Box,El Paso,0
+"El Paso, TX",88531,P.O. Box,El Paso,0
+"El Paso, TX",88532,P.O. Box,El Paso,0
+"El Paso, TX",88533,P.O. Box,El Paso,0
+"El Paso, TX",88534,P.O. Box,El Paso,0
+"El Paso, TX",88535,P.O. Box,El Paso,0
+"El Paso, TX",88536,P.O. Box,El Paso,0
+"El Paso, TX",88538,P.O. Box,El Paso,0
+"El Paso, TX",88539,P.O. Box,El Paso,0
+"El Paso, TX",88540,P.O. Box,El Paso,0
+"El Paso, TX",88541,P.O. Box,El Paso,0
+"El Paso, TX",88542,P.O. Box,El Paso,0
+"El Paso, TX",88543,P.O. Box,El Paso,0
+"El Paso, TX",88544,P.O. Box,El Paso,0
+"El Paso, TX",88545,P.O. Box,El Paso,0
+"El Paso, TX",88546,P.O. Box,El Paso,0
+"El Paso, TX",88547,P.O. Box,El Paso,0
+"El Paso, TX",88548,P.O. Box,El Paso,0
+"El Paso, TX",88549,P.O. Box,El Paso,0
+"El Paso, TX",88550,P.O. Box,El Paso,0
+"El Paso, TX",88553,P.O. Box,El Paso,0
+"El Paso, TX",88554,P.O. Box,El Paso,0
+"El Paso, TX",88555,P.O. Box,El Paso,0
+"El Paso, TX",88556,P.O. Box,El Paso,0
+"El Paso, TX",88557,P.O. Box,El Paso,0
+"El Paso, TX",88558,P.O. Box,El Paso,0
+"El Paso, TX",88559,P.O. Box,El Paso,0
+"El Paso, TX",88560,P.O. Box,El Paso,0
+"El Paso, TX",88561,P.O. Box,El Paso,0
+"El Paso, TX",88562,P.O. Box,El Paso,0
+"El Paso, TX",88563,P.O. Box,El Paso,0
+"El Paso, TX",88565,P.O. Box,El Paso,0
+"El Paso, TX",88566,P.O. Box,El Paso,0
+"El Paso, TX",88567,P.O. Box,El Paso,0
+"El Paso, TX",88568,P.O. Box,El Paso,0
+"El Paso, TX",88569,P.O. Box,El Paso,0
+"El Paso, TX",88570,P.O. Box,El Paso,0
+"El Paso, TX",88571,P.O. Box,El Paso,0
+"El Paso, TX",88572,P.O. Box,El Paso,0
+"El Paso, TX",88573,P.O. Box,El Paso,0
+"El Paso, TX",88574,P.O. Box,El Paso,0
+"El Paso, TX",88575,P.O. Box,El Paso,0
+"El Paso, TX",88576,P.O. Box,El Paso,0
+"El Paso, TX",88577,P.O. Box,El Paso,0
+"El Paso, TX",88578,P.O. Box,El Paso,0
+"El Paso, TX",88579,P.O. Box,El Paso,0
+"El Paso, TX",88580,P.O. Box,El Paso,0
+"El Paso, TX",88581,P.O. Box,El Paso,0
+"El Paso, TX",88582,P.O. Box,El Paso,0
+"El Paso, TX",88583,P.O. Box,El Paso,0
+"El Paso, TX",88584,P.O. Box,El Paso,0
+"El Paso, TX",88585,P.O. Box,El Paso,0
+"El Paso, TX",88586,P.O. Box,El Paso,0
+"El Paso, TX",88587,P.O. Box,El Paso,0
+"El Paso, TX",88588,P.O. Box,El Paso,0
+"El Paso, TX",88589,P.O. Box,El Paso,0
+"El Paso, TX",88590,P.O. Box,El Paso,0
+"El Paso, TX",88595,P.O. Box,El Paso,0
+"Seattle, WA",98101,Standard,King,"10,238"
+"Seattle, WA",98102,Standard,King,"20,756"
+"Seattle, WA",98103,Standard,King,"45,911"
+"Seattle, WA",98104,Standard,King,"13,095"
+"Seattle, WA",98105,Standard,King,"43,924"
+"Seattle, WA",98106,Standard,King,"22,873"
+"Seattle, WA",98107,Standard,King,"21,147"
+"Seattle, WA",98108,Standard,King,"22,374"
+"Seattle, WA",98109,Standard,King,"20,715"
+"Seattle, WA",98110,Standard,Kitsap,"23,025"
+"Seattle, WA",98111,P.O. Box,King,0
+"Seattle, WA",98112,Standard,King,"21,077"
+"Seattle, WA",98113,P.O. Box,King,0
+"Seattle, WA",98114,P.O. Box,King,0
+"Seattle, WA",98115,Standard,King,"46,206"
+"Seattle, WA",98116,Standard,King,"22,241"
+"Seattle, WA",98117,Standard,King,"31,365"
+"Seattle, WA",98118,Standard,King,"42,731"
+"Seattle, WA",98119,Standard,King,"21,039"
+"Seattle, WA",98121,Standard,King,"12,628"
+"Seattle, WA",98122,Standard,King,"31,454"
+"Seattle, WA",98124,P.O. Box,King,0
+"Seattle, WA",98125,Standard,King,"37,081"
+"Seattle, WA",98126,Standard,King,"20,698"
+"Seattle, WA",98127,P.O. Box,King,0
+"Seattle, WA",98129,Unique,King,0
+"Seattle, WA",98131,Standard,King,0
+"Seattle, WA",98133,Standard,King,"44,555"
+"Seattle, WA",98134,Standard,King,644
+"Seattle, WA",98136,Standard,King,"14,770"
+"Seattle, WA",98138,P.O. Box,King,0
+"Seattle, WA",98139,P.O. Box,King,0
+"Seattle, WA",98141,P.O. Box,King,0
+"Seattle, WA",98144,Standard,King,"26,881"
+"Seattle, WA",98145,P.O. Box,King,0
+"Seattle, WA",98146,Standard,King,"25,922"
+"Seattle, WA",98148,Standard,King,"10,010"
+"Seattle, WA",98154,Standard,King,0
+"Seattle, WA",98155,Standard,King,"32,778"
+"Seattle, WA",98158,Standard,King,0
+"Seattle, WA",98160,P.O. Box,King,0
+"Seattle, WA",98161,Standard,King,0
+"Seattle, WA",98164,Standard,King,141
+"Seattle, WA",98165,P.O. Box,King,0
+"Seattle, WA",98166,Standard,King,"20,301"
+"Seattle, WA",98168,Standard,King,"33,734"
+"Seattle, WA",98170,Unique,King,0
+"Seattle, WA",98174,Standard,King,0
+"Seattle, WA",98175,P.O. Box,King,0
+"Seattle, WA",98177,Standard,King,"19,030"
+"Seattle, WA",98178,Standard,King,"24,092"
+"Seattle, WA",98181,Unique,King,0
+"Seattle, WA",98185,Unique,King,0
+"Seattle, WA",98188,Standard,King,"23,111"
+"Seattle, WA",98190,Unique,King,0
+"Seattle, WA",98191,Unique,King,0
+"Seattle, WA",98194,P.O. Box,King,0
+"Seattle, WA",98195,Unique,King,0
+"Seattle, WA",98198,Standard,King,"34,584"
+"Seattle, WA",98199,Standard,King,"19,686"
+"Denver, CO",80012,Standard,Arapahoe,"46,665"
+"Denver, CO",80014,Standard,Arapahoe,"36,710"
+"Denver, CO",80022,Standard,Adams,"42,699"
+"Denver, CO",80033,Standard,Jefferson,"23,969"
+"Denver, CO",80123,Standard,Jefferson,"44,795"
+"Denver, CO",80127,Standard,Jefferson,"42,597"
+"Denver, CO",80201,P.O. Box,Denver,0
+"Denver, CO",80202,Standard,Denver,"10,148"
+"Denver, CO",80203,Standard,Denver,"18,839"
+"Denver, CO",80204,Standard,Denver,"31,493"
+"Denver, CO",80205,Standard,Denver,"29,221"
+"Denver, CO",80206,Standard,Denver,"21,521"
+"Denver, CO",80207,Standard,Denver,"21,216"
+"Denver, CO",80208,Unique,Denver,0
+"Denver, CO",80209,Standard,Denver,"21,526"
+"Denver, CO",80210,Standard,Denver,"33,946"
+"Denver, CO",80211,Standard,Denver,"31,583"
+"Denver, CO",80212,Standard,Denver,"18,051"
+"Denver, CO",80214,Standard,Jefferson,"24,821"
+"Denver, CO",80215,Standard,Jefferson,"17,843"
+"Denver, CO",80216,Standard,Denver,"10,924"
+"Denver, CO",80217,P.O. Box,Denver,0
+"Denver, CO",80218,Standard,Denver,"17,928"
+"Denver, CO",80219,Standard,Denver,"61,296"
+"Denver, CO",80220,Standard,Denver,"33,529"
+"Denver, CO",80221,Standard,Adams,"37,779"
+"Denver, CO",80222,Standard,Denver,"20,073"
+"Denver, CO",80223,Standard,Denver,"17,987"
+"Denver, CO",80224,Standard,Denver,"17,256"
+"Denver, CO",80225,Standard,Jefferson,0
+"Denver, CO",80226,Standard,Jefferson,"30,930"
+"Denver, CO",80227,Standard,Jefferson,"33,667"
+"Denver, CO",80228,Standard,Jefferson,"30,138"
+"Denver, CO",80229,Standard,Adams,"49,598"
+"Denver, CO",80230,Standard,Denver,"7,559"
+"Denver, CO",80231,Standard,Denver,"32,127"
+"Denver, CO",80232,Standard,Jefferson,"21,411"
+"Denver, CO",80233,Standard,Adams,"45,386"
+"Denver, CO",80234,Standard,Adams,"25,937"
+"Denver, CO",80235,Standard,Jefferson,"7,571"
+"Denver, CO",80236,Standard,Denver,"16,123"
+"Denver, CO",80237,Standard,Denver,"17,569"
+"Denver, CO",80238,Standard,Denver,"10,058"
+"Denver, CO",80239,Standard,Denver,"40,512"
+"Denver, CO",80241,Standard,Adams,"31,746"
+"Denver, CO",80243,Unique,Denver,0
+"Denver, CO",80244,Unique,Denver,0
+"Denver, CO",80246,Standard,Denver,"12,875"
+"Denver, CO",80247,Standard,Arapahoe,"25,449"
+"Denver, CO",80248,P.O. Box,Denver,0
+"Denver, CO",80249,Standard,Denver,"23,404"
+"Denver, CO",80250,P.O. Box,Denver,0
+"Denver, CO",80251,Unique,Denver,0
+"Denver, CO",80256,Unique,Denver,0
+"Denver, CO",80257,Unique,Denver,0
+"Denver, CO",80259,Unique,Denver,0
+"Denver, CO",80260,Standard,Adams,"31,412"
+"Denver, CO",80261,Unique,Denver,0
+"Denver, CO",80262,Unique,Denver,0
+"Denver, CO",80263,Unique,Denver,0
+"Denver, CO",80264,Standard,Denver,0
+"Denver, CO",80265,Standard,Denver,0
+"Denver, CO",80266,Standard,Denver,0
+"Denver, CO",80271,Unique,Denver,0
+"Denver, CO",80273,Unique,Denver,0
+"Denver, CO",80274,Unique,Denver,0
+"Denver, CO",80281,Unique,Denver,0
+"Denver, CO",80290,Standard,Denver,0
+"Denver, CO",80291,Unique,Denver,0
+"Denver, CO",80293,Standard,Denver,0
+"Denver, CO",80294,Standard,Denver,0
+"Denver, CO",80299,Standard,Denver,0
+"Washington, DC",20001,Standard,District Of Columbia,"38,551"
+"Washington, DC",20002,Standard,District Of Columbia,"52,370"
+"Washington, DC",20003,Standard,District Of Columbia,"26,454"
+"Washington, DC",20004,Standard,District Of Columbia,"1,622"
+"Washington, DC",20005,Standard,District Of Columbia,"12,775"
+"Washington, DC",20006,Standard,District Of Columbia,"3,227"
+"Washington, DC",20007,Standard,District Of Columbia,"26,866"
+"Washington, DC",20008,Standard,District Of Columbia,"27,525"
+"Washington, DC",20009,Standard,District Of Columbia,"47,992"
+"Washington, DC",20010,Standard,District Of Columbia,"30,138"
+"Washington, DC",20011,Standard,District Of Columbia,"58,536"
+"Washington, DC",20012,Standard,District Of Columbia,"13,414"
+"Washington, DC",20013,P.O. Box,District Of Columbia,0
+"Washington, DC",20015,Standard,District Of Columbia,"15,332"
+"Washington, DC",20016,Standard,District Of Columbia,"32,519"
+"Washington, DC",20017,Standard,District Of Columbia,"17,735"
+"Washington, DC",20018,Standard,District Of Columbia,"16,894"
+"Washington, DC",20019,Standard,District Of Columbia,"54,358"
+"Washington, DC",20020,Standard,District Of Columbia,"49,864"
+"Washington, DC",20022,P.O. Box,District Of Columbia,0
+"Washington, DC",20024,Standard,District Of Columbia,"11,510"
+"Washington, DC",20026,Standard,District Of Columbia,0
+"Washington, DC",20027,P.O. Box,District Of Columbia,0
+"Washington, DC",20029,P.O. Box,District Of Columbia,0
+"Washington, DC",20030,P.O. Box,District Of Columbia,0
+"Washington, DC",20032,Standard,District Of Columbia,"35,653"
+"Washington, DC",20033,P.O. Box,District Of Columbia,0
+"Washington, DC",20035,P.O. Box,District Of Columbia,0
+"Washington, DC",20036,Standard,District Of Columbia,"5,435"
+"Washington, DC",20037,Standard,District Of Columbia,"14,642"
+"Washington, DC",20038,P.O. Box,District Of Columbia,0
+"Washington, DC",20039,P.O. Box,District Of Columbia,0
+"Washington, DC",20040,P.O. Box,District Of Columbia,0
+"Washington, DC",20041,P.O. Box,District Of Columbia,0
+"Washington, DC",20042,Unique,District Of Columbia,0
+"Washington, DC",20043,P.O. Box,District Of Columbia,0
+"Washington, DC",20044,P.O. Box,District Of Columbia,0
+"Washington, DC",20045,Standard,District Of Columbia,0
+"Washington, DC",20047,Unique,District Of Columbia,0
+"Washington, DC",20049,Unique,District Of Columbia,0
+"Washington, DC",20050,P.O. Box,District Of Columbia,0
+"Washington, DC",20052,Unique,District Of Columbia,470
+"Washington, DC",20053,Unique,District Of Columbia,0
+"Washington, DC",20055,Unique,District Of Columbia,0
+"Washington, DC",20056,P.O. Box,District Of Columbia,0
+"Washington, DC",20057,Unique,District Of Columbia,"3,888"
+"Washington, DC",20058,Unique,District Of Columbia,0
+"Washington, DC",20059,Unique,District Of Columbia,0
+"Washington, DC",20060,Unique,District Of Columbia,0
+"Washington, DC",20061,Unique,District Of Columbia,0
+"Washington, DC",20062,Unique,District Of Columbia,0
+"Washington, DC",20063,Unique,District Of Columbia,0
+"Washington, DC",20064,Unique,District Of Columbia,"1,890"
+"Washington, DC",20065,Unique,District Of Columbia,0
+"Washington, DC",20066,Unique,District Of Columbia,0
+"Washington, DC",20067,Unique,District Of Columbia,0
+"Washington, DC",20068,Unique,District Of Columbia,0
+"Washington, DC",20069,Unique,District Of Columbia,0
+"Washington, DC",20070,Unique,District Of Columbia,0
+"Washington, DC",20071,Unique,District Of Columbia,0
+"Washington, DC",20073,Unique,District Of Columbia,0
+"Washington, DC",20074,Unique,District Of Columbia,0
+"Washington, DC",20075,Unique,District Of Columbia,0
+"Washington, DC",20076,Unique,District Of Columbia,0
+"Washington, DC",20077,Unique,District Of Columbia,0
+"Washington, DC",20078,Unique,District Of Columbia,0
+"Washington, DC",20080,Unique,District Of Columbia,0
+"Washington, DC",20081,Unique,District Of Columbia,0
+"Washington, DC",20082,Unique,District Of Columbia,0
+"Washington, DC",20090,P.O. Box,District Of Columbia,0
+"Washington, DC",20091,P.O. Box,District Of Columbia,0
+"Washington, DC",20201,Unique,District Of Columbia,0
+"Washington, DC",20202,Unique,District Of Columbia,0
+"Washington, DC",20203,Unique,District Of Columbia,0
+"Washington, DC",20204,Unique,District Of Columbia,0
+"Washington, DC",20206,Unique,District Of Columbia,0
+"Washington, DC",20207,Unique,District Of Columbia,0
+"Washington, DC",20208,Unique,District Of Columbia,0
+"Washington, DC",20210,Unique,District Of Columbia,0
+"Washington, DC",20211,Unique,District Of Columbia,0
+"Washington, DC",20212,Unique,District Of Columbia,0
+"Washington, DC",20213,Unique,District Of Columbia,0
+"Washington, DC",20214,Unique,District Of Columbia,0
+"Washington, DC",20215,Unique,District Of Columbia,0
+"Washington, DC",20216,Unique,District Of Columbia,0
+"Washington, DC",20217,Unique,District Of Columbia,0
+"Washington, DC",20218,Unique,District Of Columbia,0
+"Washington, DC",20219,Unique,District Of Columbia,0
+"Washington, DC",20220,Unique,District Of Columbia,0
+"Washington, DC",20221,Unique,District Of Columbia,0
+"Washington, DC",20222,Unique,District Of Columbia,0
+"Washington, DC",20223,Unique,District Of Columbia,0
+"Washington, DC",20224,Unique,District Of Columbia,0
+"Washington, DC",20226,Unique,District Of Columbia,0
+"Washington, DC",20227,Unique,District Of Columbia,0
+"Washington, DC",20228,Unique,District Of Columbia,0
+"Washington, DC",20229,Unique,District Of Columbia,0
+"Washington, DC",20230,Unique,District Of Columbia,0
+"Washington, DC",20232,Unique,District Of Columbia,0
+"Washington, DC",20233,Unique,District Of Columbia,0
+"Washington, DC",20235,Unique,District Of Columbia,0
+"Washington, DC",20237,Unique,District Of Columbia,0
+"Washington, DC",20238,Unique,District Of Columbia,0
+"Washington, DC",20239,Unique,District Of Columbia,0
+"Washington, DC",20240,Unique,District Of Columbia,0
+"Washington, DC",20241,Unique,District Of Columbia,0
+"Washington, DC",20242,Unique,District Of Columbia,0
+"Washington, DC",20244,Unique,District Of Columbia,0
+"Washington, DC",20245,Unique,District Of Columbia,0
+"Washington, DC",20250,Unique,District Of Columbia,0
+"Washington, DC",20251,Unique,District Of Columbia,0
+"Washington, DC",20252,Unique,District Of Columbia,0
+"Washington, DC",20254,Unique,District Of Columbia,0
+"Washington, DC",20260,Standard,District Of Columbia,0
+"Washington, DC",20261,Unique,District Of Columbia,0
+"Washington, DC",20262,Unique,District Of Columbia,0
+"Washington, DC",20265,Unique,District Of Columbia,0
+"Washington, DC",20266,Unique,District Of Columbia,0
+"Washington, DC",20268,Unique,District Of Columbia,0
+"Washington, DC",20270,Unique,District Of Columbia,0
+"Washington, DC",20277,Unique,District Of Columbia,0
+"Washington, DC",20289,Unique,District Of Columbia,0
+"Washington, DC",20299,Unique,District Of Columbia,0
+"Washington, DC",20301,Unique,District Of Columbia,0
+"Washington, DC",20303,Unique,District Of Columbia,0
+"Washington, DC",20306,Unique,District Of Columbia,0
+"Washington, DC",20310,Unique,District Of Columbia,0
+"Washington, DC",20314,Unique,District Of Columbia,0
+"Washington, DC",20317,Unique,District Of Columbia,903
+"Washington, DC",20318,Unique,District Of Columbia,0
+"Washington, DC",20319,Unique,District Of Columbia,84
+"Washington, DC",20330,Unique,District Of Columbia,0
+"Washington, DC",20340,Unique,District Of Columbia,0
+"Washington, DC",20350,Unique,District Of Columbia,0
+"Washington, DC",20355,Unique,District Of Columbia,0
+"Washington, DC",20370,Unique,District Of Columbia,0
+"Washington, DC",20372,Unique,District Of Columbia,0
+"Washington, DC",20373,Unique,District Of Columbia,131
+"Washington, DC",20374,Standard,District Of Columbia,0
+"Washington, DC",20375,Unique,District Of Columbia,0
+"Washington, DC",20376,Standard,District Of Columbia,0
+"Washington, DC",20380,Unique,District Of Columbia,0
+"Washington, DC",20388,Standard,District Of Columbia,0
+"Washington, DC",20389,Unique,District Of Columbia,0
+"Washington, DC",20390,Unique,District Of Columbia,584
+"Washington, DC",20391,Standard,District Of Columbia,0
+"Washington, DC",20392,Unique,District Of Columbia,0
+"Washington, DC",20393,Unique,District Of Columbia,0
+"Washington, DC",20394,Unique,District Of Columbia,0
+"Washington, DC",20395,Unique,District Of Columbia,0
+"Washington, DC",20398,Standard,District Of Columbia,0
+"Washington, DC",20401,Unique,District Of Columbia,0
+"Washington, DC",20402,Unique,District Of Columbia,0
+"Washington, DC",20403,Unique,District Of Columbia,0
+"Washington, DC",20404,Unique,District Of Columbia,0
+"Washington, DC",20405,Unique,District Of Columbia,0
+"Washington, DC",20406,Unique,District Of Columbia,0
+"Washington, DC",20407,Unique,District Of Columbia,0
+"Washington, DC",20408,Unique,District Of Columbia,0
+"Washington, DC",20410,Unique,District Of Columbia,0
+"Washington, DC",20411,Unique,District Of Columbia,0
+"Washington, DC",20412,Unique,District Of Columbia,0
+"Washington, DC",20413,Unique,District Of Columbia,0
+"Washington, DC",20414,Unique,District Of Columbia,0
+"Washington, DC",20415,Unique,District Of Columbia,0
+"Washington, DC",20416,Unique,District Of Columbia,0
+"Washington, DC",20417,Unique,District Of Columbia,0
+"Washington, DC",20418,Unique,District Of Columbia,0
+"Washington, DC",20419,Unique,District Of Columbia,0
+"Washington, DC",20420,Unique,District Of Columbia,0
+"Washington, DC",20421,Unique,District Of Columbia,0
+"Washington, DC",20422,Unique,District Of Columbia,0
+"Washington, DC",20423,Unique,District Of Columbia,0
+"Washington, DC",20424,Unique,District Of Columbia,0
+"Washington, DC",20425,Unique,District Of Columbia,0
+"Washington, DC",20426,Unique,District Of Columbia,0
+"Washington, DC",20427,Unique,District Of Columbia,0
+"Washington, DC",20428,Unique,District Of Columbia,0
+"Washington, DC",20429,Unique,District Of Columbia,0
+"Washington, DC",20431,Unique,District Of Columbia,0
+"Washington, DC",20433,Unique,District Of Columbia,0
+"Washington, DC",20434,Unique,District Of Columbia,0
+"Washington, DC",20435,Unique,District Of Columbia,0
+"Washington, DC",20436,Unique,District Of Columbia,0
+"Washington, DC",20437,Unique,District Of Columbia,0
+"Washington, DC",20439,Unique,District Of Columbia,0
+"Washington, DC",20440,Unique,District Of Columbia,0
+"Washington, DC",20441,Unique,District Of Columbia,0
+"Washington, DC",20442,Unique,District Of Columbia,0
+"Washington, DC",20444,Unique,District Of Columbia,0
+"Washington, DC",20447,Unique,District Of Columbia,0
+"Washington, DC",20451,Unique,District Of Columbia,0
+"Washington, DC",20453,Unique,District Of Columbia,0
+"Washington, DC",20456,Unique,District Of Columbia,0
+"Washington, DC",20460,Unique,District Of Columbia,0
+"Washington, DC",20463,Unique,District Of Columbia,0
+"Washington, DC",20468,Unique,District Of Columbia,0
+"Washington, DC",20469,Unique,District Of Columbia,0
+"Washington, DC",20470,Unique,District Of Columbia,0
+"Washington, DC",20472,Unique,District Of Columbia,0
+"Washington, DC",20500,Standard,District Of Columbia,0
+"Washington, DC",20501,Unique,District Of Columbia,0
+"Washington, DC",20502,Unique,District Of Columbia,0
+"Washington, DC",20503,Unique,District Of Columbia,0
+"Washington, DC",20504,Unique,District Of Columbia,0
+"Washington, DC",20505,Unique,District Of Columbia,0
+"Washington, DC",20506,Unique,District Of Columbia,0
+"Washington, DC",20507,Unique,District Of Columbia,0
+"Washington, DC",20508,Unique,District Of Columbia,0
+"Washington, DC",20509,Unique,District Of Columbia,0
+"Washington, DC",20510,Unique,District Of Columbia,0
+"Washington, DC",20511,Unique,District Of Columbia,0
+"Washington, DC",20515,Unique,District Of Columbia,0
+"Washington, DC",20520,Unique,District Of Columbia,0
+"Washington, DC",20521,Unique,District Of Columbia,0
+"Washington, DC",20522,Unique,District Of Columbia,0
+"Washington, DC",20523,Unique,District Of Columbia,0
+"Washington, DC",20524,Unique,District Of Columbia,0
+"Washington, DC",20525,Unique,District Of Columbia,0
+"Washington, DC",20526,Unique,District Of Columbia,0
+"Washington, DC",20527,Unique,District Of Columbia,0
+"Washington, DC",20528,Unique,District Of Columbia,0
+"Washington, DC",20529,Unique,District Of Columbia,0
+"Washington, DC",20530,Unique,District Of Columbia,0
+"Washington, DC",20531,Unique,District Of Columbia,0
+"Washington, DC",20533,Unique,District Of Columbia,0
+"Washington, DC",20534,Unique,District Of Columbia,0
+"Washington, DC",20535,Unique,District Of Columbia,8
+"Washington, DC",20536,Unique,District Of Columbia,0
+"Washington, DC",20537,Unique,District Of Columbia,0
+"Washington, DC",20538,Unique,District Of Columbia,0
+"Washington, DC",20539,Unique,District Of Columbia,0
+"Washington, DC",20540,Unique,District Of Columbia,0
+"Washington, DC",20541,Unique,District Of Columbia,0
+"Washington, DC",20542,Unique,District Of Columbia,0
+"Washington, DC",20543,Unique,District Of Columbia,0
+"Washington, DC",20544,Unique,District Of Columbia,0
+"Washington, DC",20546,Unique,District Of Columbia,0
+"Washington, DC",20547,Unique,District Of Columbia,0
+"Washington, DC",20548,Unique,District Of Columbia,0
+"Washington, DC",20549,Unique,District Of Columbia,0
+"Washington, DC",20551,Unique,District Of Columbia,0
+"Washington, DC",20552,Unique,District Of Columbia,0
+"Washington, DC",20553,Unique,District Of Columbia,0
+"Washington, DC",20554,Unique,District Of Columbia,0
+"Washington, DC",20555,Unique,District Of Columbia,0
+"Washington, DC",20557,Unique,District Of Columbia,0
+"Washington, DC",20559,Unique,District Of Columbia,0
+"Washington, DC",20560,Unique,District Of Columbia,0
+"Washington, DC",20565,Unique,District Of Columbia,0
+"Washington, DC",20566,Unique,District Of Columbia,0
+"Washington, DC",20570,Unique,District Of Columbia,0
+"Washington, DC",20571,Unique,District Of Columbia,0
+"Washington, DC",20572,Unique,District Of Columbia,0
+"Washington, DC",20573,Unique,District Of Columbia,0
+"Washington, DC",20575,Unique,District Of Columbia,0
+"Washington, DC",20576,Unique,District Of Columbia,0
+"Washington, DC",20577,Unique,District Of Columbia,0
+"Washington, DC",20578,Unique,District Of Columbia,0
+"Washington, DC",20579,Unique,District Of Columbia,0
+"Washington, DC",20580,Unique,District Of Columbia,0
+"Washington, DC",20581,Unique,District Of Columbia,0
+"Washington, DC",20585,Unique,District Of Columbia,0
+"Washington, DC",20586,Unique,District Of Columbia,0
+"Washington, DC",20590,Unique,District Of Columbia,0
+"Washington, DC",20591,Unique,District Of Columbia,0
+"Washington, DC",20593,Unique,District Of Columbia,0
+"Washington, DC",20594,Unique,District Of Columbia,0
+"Washington, DC",20597,Unique,District Of Columbia,0
+"Washington, DC",20599,Unique,District Of Columbia,0
+"Memphis, TN",37501,Unique,Shelby,0
+"Memphis, TN",37544,Unique,Shelby,0
+"Memphis, TN",38101,P.O. Box,Shelby,0
+"Memphis, TN",38103,Standard,Shelby,"12,180"
+"Memphis, TN",38104,Standard,Shelby,"23,409"
+"Memphis, TN",38105,Standard,Shelby,"6,184"
+"Memphis, TN",38106,Standard,Shelby,"27,222"
+"Memphis, TN",38107,Standard,Shelby,"17,698"
+"Memphis, TN",38108,Standard,Shelby,"18,729"
+"Memphis, TN",38109,Standard,Shelby,"46,594"
+"Memphis, TN",38111,Standard,Shelby,"41,742"
+"Memphis, TN",38112,Standard,Shelby,"17,472"
+"Memphis, TN",38113,P.O. Box,Shelby,0
+"Memphis, TN",38114,Standard,Shelby,"26,905"
+"Memphis, TN",38115,Standard,Shelby,"39,129"
+"Memphis, TN",38116,Standard,Shelby,"40,404"
+"Memphis, TN",38117,Standard,Shelby,"26,125"
+"Memphis, TN",38118,Standard,Shelby,"41,465"
+"Memphis, TN",38119,Standard,Shelby,"22,330"
+"Memphis, TN",38120,Standard,Shelby,"14,237"
+"Memphis, TN",38122,Standard,Shelby,"25,270"
+"Memphis, TN",38124,P.O. Box,Shelby,0
+"Memphis, TN",38125,Standard,Shelby,"36,150"
+"Memphis, TN",38126,Standard,Shelby,"7,334"
+"Memphis, TN",38127,Standard,Shelby,"45,248"
+"Memphis, TN",38128,Standard,Shelby,"44,863"
+"Memphis, TN",38130,P.O. Box,Shelby,0
+"Memphis, TN",38131,Standard,Shelby,0
+"Memphis, TN",38132,Standard,Shelby,7
+"Memphis, TN",38133,Standard,Shelby,"20,787"
+"Memphis, TN",38134,Standard,Shelby,"41,948"
+"Memphis, TN",38135,Standard,Shelby,"30,657"
+"Memphis, TN",38136,Unique,Shelby,0
+"Memphis, TN",38137,Standard,Shelby,0
+"Memphis, TN",38138,Standard,Shelby,"24,045"
+"Memphis, TN",38139,Standard,Shelby,"16,086"
+"Memphis, TN",38141,Standard,Shelby,"22,462"
+"Memphis, TN",38145,Unique,Shelby,0
+"Memphis, TN",38148,Unique,Shelby,0
+"Memphis, TN",38150,Unique,Shelby,0
+"Memphis, TN",38151,Unique,Shelby,0
+"Memphis, TN",38152,Unique,Shelby,834
+"Memphis, TN",38157,Standard,Shelby,0
+"Memphis, TN",38159,Unique,Shelby,0
+"Memphis, TN",38161,Unique,Shelby,0
+"Memphis, TN",38163,Unique,Shelby,0
+"Memphis, TN",38166,Unique,Shelby,0
+"Memphis, TN",38167,P.O. Box,Shelby,0
+"Memphis, TN",38168,P.O. Box,Shelby,0
+"Memphis, TN",38173,P.O. Box,Shelby,0
+"Memphis, TN",38174,P.O. Box,Shelby,0
+"Memphis, TN",38175,P.O. Box,Shelby,0
+"Memphis, TN",38177,P.O. Box,Shelby,0
+"Memphis, TN",38181,P.O. Box,Shelby,0
+"Memphis, TN",38182,P.O. Box,Shelby,0
+"Memphis, TN",38184,P.O. Box,Shelby,0
+"Memphis, TN",38186,P.O. Box,Shelby,0
+"Memphis, TN",38187,P.O. Box,Shelby,0
+"Memphis, TN",38188,Unique,Shelby,0
+"Memphis, TN",38190,P.O. Box,Shelby,0
+"Memphis, TN",38193,Unique,Shelby,0
+"Memphis, TN",38194,Unique,Shelby,0
+"Memphis, TN",38197,Unique,Shelby,0
+"Boston, MA",02108,Standard,Suffolk,"3,825"
+"Boston, MA",02109,Standard,Suffolk,"3,771"
+"Boston, MA",02110,Standard,Suffolk,"1,733"
+"Boston, MA",02111,Standard,Suffolk,"7,383"
+"Boston, MA",02112,P.O. Box,Suffolk,0
+"Boston, MA",02113,Standard,Suffolk,"6,915"
+"Boston, MA",02114,Standard,Suffolk,"11,999"
+"Boston, MA",02115,Standard,Suffolk,"28,441"
+"Boston, MA",02116,Standard,Suffolk,"20,628"
+"Boston, MA",02117,P.O. Box,Suffolk,0
+"Boston, MA",02118,Standard,Suffolk,"26,498"
+"Boston, MA",02119,Standard,Suffolk,"25,346"
+"Boston, MA",02120,Standard,Suffolk,"15,181"
+"Boston, MA",02121,Standard,Suffolk,"25,978"
+"Boston, MA",02122,Standard,Suffolk,"23,479"
+"Boston, MA",02123,P.O. Box,Suffolk,0
+"Boston, MA",02124,Standard,Suffolk,"47,783"
+"Boston, MA",02125,Standard,Suffolk,"33,295"
+"Boston, MA",02126,Standard,Suffolk,"25,562"
+"Boston, MA",02127,Standard,Suffolk,"31,799"
+"Boston, MA",02128,Standard,Suffolk,"40,508"
+"Boston, MA",02129,Standard,Suffolk,"16,439"
+"Boston, MA",02130,Standard,Suffolk,"35,401"
+"Boston, MA",02131,Standard,Suffolk,"29,826"
+"Boston, MA",02132,Standard,Suffolk,"25,861"
+"Boston, MA",02133,Standard,Suffolk,0
+"Boston, MA",02134,Standard,Suffolk,"21,503"
+"Boston, MA",02135,Standard,Suffolk,"42,780"
+"Boston, MA",02136,Standard,Suffolk,"28,488"
+"Boston, MA",02137,P.O. Box,Suffolk,0
+"Boston, MA",02163,Standard,Suffolk,"2,582"
+"Boston, MA",02196,P.O. Box,Suffolk,0
+"Boston, MA",02199,Standard,Suffolk,"1,146"
+"Boston, MA",02201,Unique,Suffolk,0
+"Boston, MA",02203,Standard,Suffolk,0
+"Boston, MA",02204,Unique,Suffolk,0
+"Boston, MA",02205,P.O. Box,Suffolk,0
+"Boston, MA",02206,Unique,Suffolk,0
+"Boston, MA",02210,Standard,Suffolk,"2,090"
+"Boston, MA",02211,Unique,Suffolk,0
+"Boston, MA",02212,Unique,Suffolk,0
+"Boston, MA",02215,Standard,Suffolk,"26,125"
+"Boston, MA",02217,Unique,Suffolk,0
+"Boston, MA",02222,Standard,Suffolk,0
+"Boston, MA",02241,Unique,Suffolk,0
+"Boston, MA",02266,Unique,Suffolk,0
+"Boston, MA",02283,P.O. Box,Suffolk,0
+"Boston, MA",02284,P.O. Box,Suffolk,0
+"Boston, MA",02293,Unique,Suffolk,0
+"Boston, MA",02297,Unique,Suffolk,0
+"Boston, MA",02298,P.O. Box,Suffolk,0
+"Nashville, TN",37201,Standard,Davidson,"2,137"
+"Nashville, TN",37202,P.O. Box,Davidson,0
+"Nashville, TN",37203,Standard,Davidson,"11,883"
+"Nashville, TN",37204,Standard,Davidson,"12,031"
+"Nashville, TN",37205,Standard,Davidson,"24,057"
+"Nashville, TN",37206,Standard,Davidson,"25,699"
+"Nashville, TN",37207,Standard,Davidson,"34,880"
+"Nashville, TN",37208,Standard,Davidson,"16,067"
+"Nashville, TN",37209,Standard,Davidson,"35,457"
+"Nashville, TN",37210,Standard,Davidson,"16,067"
+"Nashville, TN",37211,Standard,Davidson,"74,755"
+"Nashville, TN",37212,Standard,Davidson,"20,148"
+"Nashville, TN",37213,Standard,Davidson,218
+"Nashville, TN",37214,Standard,Davidson,"28,973"
+"Nashville, TN",37215,Standard,Davidson,"21,190"
+"Nashville, TN",37216,Standard,Davidson,"17,848"
+"Nashville, TN",37217,Standard,Davidson,"29,599"
+"Nashville, TN",37218,Standard,Davidson,"14,855"
+"Nashville, TN",37219,Standard,Davidson,"1,162"
+"Nashville, TN",37220,Standard,Davidson,"5,786"
+"Nashville, TN",37221,Standard,Davidson,"36,610"
+"Nashville, TN",37222,P.O. Box,Davidson,0
+"Nashville, TN",37224,P.O. Box,Davidson,0
+"Nashville, TN",37227,P.O. Box,Davidson,0
+"Nashville, TN",37228,Standard,Davidson,"1,160"
+"Nashville, TN",37229,P.O. Box,Davidson,0
+"Nashville, TN",37230,P.O. Box,Davidson,0
+"Nashville, TN",37232,Unique,Davidson,0
+"Nashville, TN",37234,Unique,Davidson,0
+"Nashville, TN",37235,Unique,Davidson,0
+"Nashville, TN",37236,Unique,Davidson,0
+"Nashville, TN",37238,Standard,Davidson,0
+"Nashville, TN",37240,Unique,Davidson,754
+"Nashville, TN",37241,Unique,Davidson,0
+"Nashville, TN",37242,Unique,Davidson,0
+"Nashville, TN",37243,Unique,Davidson,0
+"Nashville, TN",37244,P.O. Box,Davidson,0
+"Nashville, TN",37246,Unique,Davidson,0
+"Nashville, TN",37250,Unique,Davidson,0
+"Baltimore, MD",21201,Standard,Baltimore City,"16,972"
+"Baltimore, MD",21202,Standard,Baltimore City,"22,832"
+"Baltimore, MD",21203,P.O. Box,Baltimore City,0
+"Baltimore, MD",21204,Standard,Baltimore,"20,253"
+"Baltimore, MD",21205,Standard,Baltimore City,"16,146"
+"Baltimore, MD",21206,Standard,Baltimore City,"50,846"
+"Baltimore, MD",21207,Standard,Baltimore,"48,133"
+"Baltimore, MD",21208,Standard,Baltimore,"33,917"
+"Baltimore, MD",21209,Standard,Baltimore City,"26,465"
+"Baltimore, MD",21210,Standard,Baltimore City,"14,292"
+"Baltimore, MD",21211,Standard,Baltimore City,"17,351"
+"Baltimore, MD",21212,Standard,Baltimore City,"32,322"
+"Baltimore, MD",21213,Standard,Baltimore City,"32,733"
+"Baltimore, MD",21214,Standard,Baltimore City,"20,564"
+"Baltimore, MD",21215,Standard,Baltimore City,"60,161"
+"Baltimore, MD",21216,Standard,Baltimore City,"32,071"
+"Baltimore, MD",21217,Standard,Baltimore City,"37,111"
+"Baltimore, MD",21218,Standard,Baltimore City,"49,796"
+"Baltimore, MD",21219,Standard,Baltimore,"9,379"
+"Baltimore, MD",21220,Standard,Baltimore,"39,199"
+"Baltimore, MD",21221,Standard,Baltimore,"42,154"
+"Baltimore, MD",21222,Standard,Baltimore,"55,786"
+"Baltimore, MD",21223,Standard,Baltimore City,"26,366"
+"Baltimore, MD",21224,Standard,Baltimore City,"49,134"
+"Baltimore, MD",21225,Standard,Baltimore City,"33,545"
+"Baltimore, MD",21226,Standard,Anne Arundel,"7,561"
+"Baltimore, MD",21227,Standard,Baltimore,"33,534"
+"Baltimore, MD",21228,Standard,Baltimore,"47,577"
+"Baltimore, MD",21229,Standard,Baltimore City,"45,213"
+"Baltimore, MD",21230,Standard,Baltimore City,"33,568"
+"Baltimore, MD",21231,Standard,Baltimore City,"15,748"
+"Baltimore, MD",21233,Standard,Baltimore City,0
+"Baltimore, MD",21234,Standard,Baltimore,"69,752"
+"Baltimore, MD",21235,Unique,Baltimore City,0
+"Baltimore, MD",21236,Standard,Baltimore,"38,474"
+"Baltimore, MD",21237,Standard,Baltimore,"30,059"
+"Baltimore, MD",21239,Standard,Baltimore City,"28,793"
+"Baltimore, MD",21240,Standard,Anne Arundel,0
+"Baltimore, MD",21241,Unique,Baltimore City,0
+"Baltimore, MD",21244,Standard,Baltimore,"34,611"
+"Baltimore, MD",21250,Unique,Baltimore,"3,205"
+"Baltimore, MD",21251,Unique,Baltimore City,934
+"Baltimore, MD",21252,Unique,Baltimore,"2,872"
+"Baltimore, MD",21263,Unique,Baltimore City,0
+"Baltimore, MD",21264,Unique,Baltimore City,0
+"Baltimore, MD",21270,P.O. Box,Baltimore City,0
+"Baltimore, MD",21273,Unique,Baltimore City,0
+"Baltimore, MD",21275,Unique,Baltimore City,0
+"Baltimore, MD",21278,Unique,Baltimore City,0
+"Baltimore, MD",21279,Unique,Baltimore City,0
+"Baltimore, MD",21281,P.O. Box,Baltimore City,0
+"Baltimore, MD",21282,P.O. Box,Baltimore,0
+"Baltimore, MD",21284,P.O. Box,Baltimore,0
+"Baltimore, MD",21285,P.O. Box,Baltimore,0
+"Baltimore, MD",21286,Standard,Baltimore,"19,206"
+"Baltimore, MD",21287,Standard,Baltimore City,0
+"Baltimore, MD",21289,Unique,Baltimore City,0
+"Baltimore, MD",21290,Unique,Baltimore City,0
+"Baltimore, MD",21297,P.O. Box,Baltimore City,0
+"Baltimore, MD",21298,Unique,Baltimore City,0
+"Oklahoma City, OK",73101,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73102,Standard,Oklahoma,"3,858"
+"Oklahoma City, OK",73103,Standard,Oklahoma,"4,315"
+"Oklahoma City, OK",73104,Standard,Oklahoma,"1,664"
+"Oklahoma City, OK",73105,Standard,Oklahoma,"5,210"
+"Oklahoma City, OK",73106,Standard,Oklahoma,"13,581"
+"Oklahoma City, OK",73107,Standard,Oklahoma,"26,561"
+"Oklahoma City, OK",73108,Standard,Oklahoma,"15,350"
+"Oklahoma City, OK",73109,Standard,Oklahoma,"20,594"
+"Oklahoma City, OK",73110,Standard,Oklahoma,"32,666"
+"Oklahoma City, OK",73111,Standard,Oklahoma,"11,781"
+"Oklahoma City, OK",73112,Standard,Oklahoma,"30,943"
+"Oklahoma City, OK",73113,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73114,Standard,Oklahoma,"17,422"
+"Oklahoma City, OK",73115,Standard,Oklahoma,"20,541"
+"Oklahoma City, OK",73116,Standard,Oklahoma,"9,241"
+"Oklahoma City, OK",73117,Standard,Oklahoma,"5,191"
+"Oklahoma City, OK",73118,Standard,Oklahoma,"13,571"
+"Oklahoma City, OK",73119,Standard,Oklahoma,"31,347"
+"Oklahoma City, OK",73120,Standard,Oklahoma,"34,824"
+"Oklahoma City, OK",73121,Standard,Oklahoma,"3,053"
+"Oklahoma City, OK",73122,Standard,Oklahoma,"13,164"
+"Oklahoma City, OK",73123,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73124,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73125,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73126,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73127,Standard,Oklahoma,"24,077"
+"Oklahoma City, OK",73128,Standard,Oklahoma,"4,200"
+"Oklahoma City, OK",73129,Standard,Oklahoma,"20,126"
+"Oklahoma City, OK",73130,Standard,Oklahoma,"19,439"
+"Oklahoma City, OK",73131,Standard,Oklahoma,"3,145"
+"Oklahoma City, OK",73132,Standard,Oklahoma,"26,432"
+"Oklahoma City, OK",73134,Standard,Oklahoma,"4,312"
+"Oklahoma City, OK",73135,Standard,Oklahoma,"20,529"
+"Oklahoma City, OK",73136,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73137,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73139,Standard,Oklahoma,"17,253"
+"Oklahoma City, OK",73140,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73141,Standard,Oklahoma,"2,727"
+"Oklahoma City, OK",73142,Standard,Oklahoma,"10,707"
+"Oklahoma City, OK",73143,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73144,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73145,Standard,Oklahoma,"2,859"
+"Oklahoma City, OK",73146,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73147,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73148,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73149,Standard,Oklahoma,"4,643"
+"Oklahoma City, OK",73150,Standard,Oklahoma,"4,609"
+"Oklahoma City, OK",73151,Standard,Oklahoma,"1,446"
+"Oklahoma City, OK",73152,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73153,P.O. Box,Cleveland,0
+"Oklahoma City, OK",73154,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73155,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73156,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73157,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73159,Standard,Oklahoma,"30,350"
+"Oklahoma City, OK",73160,Standard,Cleveland,"53,666"
+"Oklahoma City, OK",73162,Standard,Oklahoma,"27,758"
+"Oklahoma City, OK",73163,Standard,Oklahoma,0
+"Oklahoma City, OK",73164,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73165,Standard,Cleveland,"5,809"
+"Oklahoma City, OK",73167,Standard,Oklahoma,0
+"Oklahoma City, OK",73169,Standard,Oklahoma,"1,782"
+"Oklahoma City, OK",73170,Standard,Cleveland,"35,343"
+"Oklahoma City, OK",73172,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73173,Standard,Oklahoma,"1,299"
+"Oklahoma City, OK",73178,P.O. Box,Oklahoma,0
+"Oklahoma City, OK",73179,Standard,Oklahoma,"3,082"
+"Oklahoma City, OK",73184,Unique,Oklahoma,0
+"Oklahoma City, OK",73189,P.O. Box,Cleveland,0
+"Oklahoma City, OK",73190,Unique,Oklahoma,0
+"Oklahoma City, OK",73194,Unique,Oklahoma,0
+"Oklahoma City, OK",73195,Standard,Oklahoma,0
+"Oklahoma City, OK",73196,Unique,Oklahoma,0
+"Portland, OR",97086,Standard,Clackamas,"26,010"
+"Portland, OR",97201,Standard,Multnomah,"15,484"
+"Portland, OR",97202,Standard,Multnomah,"38,762"
+"Portland, OR",97203,Standard,Multnomah,"31,042"
+"Portland, OR",97204,Standard,Multnomah,"1,036"
+"Portland, OR",97205,Standard,Multnomah,"7,688"
+"Portland, OR",97206,Standard,Multnomah,"47,596"
+"Portland, OR",97207,P.O. Box,Multnomah,0
+"Portland, OR",97208,P.O. Box,Multnomah,0
+"Portland, OR",97209,Standard,Multnomah,"14,950"
+"Portland, OR",97210,Standard,Multnomah,"10,887"
+"Portland, OR",97211,Standard,Multnomah,"31,254"
+"Portland, OR",97212,Standard,Multnomah,"24,126"
+"Portland, OR",97213,Standard,Multnomah,"29,219"
+"Portland, OR",97214,Standard,Multnomah,"23,813"
+"Portland, OR",97215,Standard,Multnomah,"16,375"
+"Portland, OR",97216,Standard,Multnomah,"15,594"
+"Portland, OR",97217,Standard,Multnomah,"31,438"
+"Portland, OR",97218,Standard,Multnomah,"14,561"
+"Portland, OR",97219,Standard,Multnomah,"38,709"
+"Portland, OR",97220,Standard,Multnomah,"28,495"
+"Portland, OR",97221,Standard,Multnomah,"11,630"
+"Portland, OR",97222,Standard,Clackamas,"34,979"
+"Portland, OR",97223,Standard,Washington,"46,699"
+"Portland, OR",97224,Standard,Washington,"31,122"
+"Portland, OR",97225,Standard,Washington,"24,176"
+"Portland, OR",97227,Standard,Multnomah,"3,847"
+"Portland, OR",97228,P.O. Box,Multnomah,0
+"Portland, OR",97229,Standard,Washington,"58,217"
+"Portland, OR",97230,Standard,Multnomah,"39,752"
+"Portland, OR",97231,Standard,Multnomah,"4,280"
+"Portland, OR",97232,Standard,Multnomah,"11,472"
+"Portland, OR",97233,Standard,Multnomah,"39,367"
+"Portland, OR",97236,Standard,Multnomah,"36,852"
+"Portland, OR",97238,P.O. Box,Multnomah,0
+"Portland, OR",97239,Standard,Multnomah,"14,150"
+"Portland, OR",97240,P.O. Box,Multnomah,0
+"Portland, OR",97242,P.O. Box,Multnomah,0
+"Portland, OR",97250,Unique,Multnomah,0
+"Portland, OR",97251,Unique,Multnomah,0
+"Portland, OR",97252,Unique,Multnomah,0
+"Portland, OR",97253,Unique,Multnomah,0
+"Portland, OR",97254,Unique,Multnomah,0
+"Portland, OR",97256,Unique,Multnomah,0
+"Portland, OR",97258,Standard,Multnomah,0
+"Portland, OR",97266,Standard,Multnomah,"33,300"
+"Portland, OR",97267,Standard,Clackamas,"30,839"
+"Portland, OR",97268,P.O. Box,Clackamas,0
+"Portland, OR",97269,P.O. Box,Clackamas,0
+"Portland, OR",97280,P.O. Box,Multnomah,0
+"Portland, OR",97281,P.O. Box,Washington,0
+"Portland, OR",97282,P.O. Box,Multnomah,0
+"Portland, OR",97283,P.O. Box,Multnomah,0
+"Portland, OR",97286,P.O. Box,Multnomah,0
+"Portland, OR",97290,P.O. Box,Multnomah,0
+"Portland, OR",97291,P.O. Box,Washington,0
+"Portland, OR",97292,P.O. Box,Multnomah,0
+"Portland, OR",97293,P.O. Box,Multnomah,0
+"Portland, OR",97294,P.O. Box,Multnomah,0
+"Portland, OR",97296,P.O. Box,Multnomah,0
+"Portland, OR",97298,P.O. Box,Washington,0
+"Las Vegas, NV",89044,Standard,Clark,"14,260"
+"Las Vegas, NV",89054,Standard,Clark,105
+"Las Vegas, NV",89101,Standard,Clark,"46,055"
+"Las Vegas, NV",89102,Standard,Clark,"35,759"
+"Las Vegas, NV",89103,Standard,Clark,"50,519"
+"Las Vegas, NV",89104,Standard,Clark,"39,909"
+"Las Vegas, NV",89105,P.O. Box,Clark,0
+"Las Vegas, NV",89106,Standard,Clark,"25,759"
+"Las Vegas, NV",89107,Standard,Clark,"36,282"
+"Las Vegas, NV",89108,Standard,Clark,"70,123"
+"Las Vegas, NV",89109,Standard,Clark,"7,770"
+"Las Vegas, NV",89110,Standard,Clark,"70,994"
+"Las Vegas, NV",89111,P.O. Box,Clark,0
+"Las Vegas, NV",89112,P.O. Box,Clark,0
+"Las Vegas, NV",89113,Standard,Clark,"23,800"
+"Las Vegas, NV",89114,P.O. Box,Clark,0
+"Las Vegas, NV",89115,Standard,Clark,"58,794"
+"Las Vegas, NV",89116,P.O. Box,Clark,0
+"Las Vegas, NV",89117,Standard,Clark,"55,416"
+"Las Vegas, NV",89118,Standard,Clark,"19,318"
+"Las Vegas, NV",89119,Standard,Clark,"49,445"
+"Las Vegas, NV",89120,Standard,Clark,"23,311"
+"Las Vegas, NV",89121,Standard,Clark,"64,096"
+"Las Vegas, NV",89122,Standard,Clark,"45,720"
+"Las Vegas, NV",89123,Standard,Clark,"56,300"
+"Las Vegas, NV",89124,Standard,Clark,941
+"Las Vegas, NV",89125,P.O. Box,Clark,0
+"Las Vegas, NV",89126,P.O. Box,Clark,0
+"Las Vegas, NV",89127,P.O. Box,Clark,0
+"Las Vegas, NV",89128,Standard,Clark,"35,669"
+"Las Vegas, NV",89129,Standard,Clark,"51,252"
+"Las Vegas, NV",89130,Standard,Clark,"33,015"
+"Las Vegas, NV",89131,Standard,Clark,"43,072"
+"Las Vegas, NV",89132,P.O. Box,Clark,0
+"Las Vegas, NV",89133,P.O. Box,Clark,0
+"Las Vegas, NV",89134,Standard,Clark,"24,040"
+"Las Vegas, NV",89135,Standard,Clark,"24,144"
+"Las Vegas, NV",89136,P.O. Box,Clark,0
+"Las Vegas, NV",89137,P.O. Box,Clark,0
+"Las Vegas, NV",89138,Standard,Clark,"12,118"
+"Las Vegas, NV",89139,Standard,Clark,"30,477"
+"Las Vegas, NV",89140,P.O. Box,Clark,0
+"Las Vegas, NV",89141,Standard,Clark,"25,150"
+"Las Vegas, NV",89142,Standard,Clark,"33,731"
+"Las Vegas, NV",89143,Standard,Clark,"12,786"
+"Las Vegas, NV",89144,Standard,Clark,"18,714"
+"Las Vegas, NV",89145,Standard,Clark,"23,186"
+"Las Vegas, NV",89146,Standard,Clark,"19,071"
+"Las Vegas, NV",89147,Standard,Clark,"49,778"
+"Las Vegas, NV",89148,Standard,Clark,"39,712"
+"Las Vegas, NV",89149,Standard,Clark,"31,143"
+"Las Vegas, NV",89150,Unique,Clark,0
+"Las Vegas, NV",89151,Unique,Clark,0
+"Las Vegas, NV",89152,Unique,Clark,0
+"Las Vegas, NV",89153,Unique,Clark,0
+"Las Vegas, NV",89154,P.O. Box,Clark,0
+"Las Vegas, NV",89155,Unique,Clark,0
+"Las Vegas, NV",89156,Standard,Clark,"27,794"
+"Las Vegas, NV",89157,P.O. Box,Clark,0
+"Las Vegas, NV",89158,Standard,Clark,0
+"Las Vegas, NV",89159,Unique,Clark,0
+"Las Vegas, NV",89160,P.O. Box,Clark,0
+"Las Vegas, NV",89161,Standard,Clark,184
+"Las Vegas, NV",89162,P.O. Box,Clark,0
+"Las Vegas, NV",89163,Unique,Clark,0
+"Las Vegas, NV",89164,Unique,Clark,0
+"Las Vegas, NV",89165,Standard,Clark,0
+"Las Vegas, NV",89166,Standard,Clark,"13,209"
+"Las Vegas, NV",89169,Standard,Clark,"23,304"
+"Las Vegas, NV",89170,P.O. Box,Clark,0
+"Las Vegas, NV",89173,P.O. Box,Clark,0
+"Las Vegas, NV",89177,Unique,Clark,0
+"Las Vegas, NV",89178,Standard,Clark,"27,588"
+"Las Vegas, NV",89179,Standard,Clark,"2,340"
+"Las Vegas, NV",89180,P.O. Box,Clark,0
+"Las Vegas, NV",89183,Standard,Clark,"36,005"
+"Las Vegas, NV",89185,P.O. Box,Clark,0
+"Las Vegas, NV",89191,P.O. Box,Clark,857
+"Las Vegas, NV",89193,P.O. Box,Clark,0
+"Las Vegas, NV",89195,Unique,Clark,0
+"Las Vegas, NV",89199,Standard,Clark,0
+"Louisville, KY",40201,P.O. Box,Jefferson,0
+"Louisville, KY",40202,Standard,Jefferson,"6,772"
+"Louisville, KY",40203,Standard,Jefferson,"19,694"
+"Louisville, KY",40204,Standard,Jefferson,"14,236"
+"Louisville, KY",40205,Standard,Jefferson,"23,678"
+"Louisville, KY",40206,Standard,Jefferson,"18,865"
+"Louisville, KY",40207,Standard,Jefferson,"29,745"
+"Louisville, KY",40208,Standard,Jefferson,"13,227"
+"Louisville, KY",40209,Standard,Jefferson,360
+"Louisville, KY",40210,Standard,Jefferson,"14,822"
+"Louisville, KY",40211,Standard,Jefferson,"22,612"
+"Louisville, KY",40212,Standard,Jefferson,"17,685"
+"Louisville, KY",40213,Standard,Jefferson,"16,796"
+"Louisville, KY",40214,Standard,Jefferson,"45,291"
+"Louisville, KY",40215,Standard,Jefferson,"22,287"
+"Louisville, KY",40216,Standard,Jefferson,"40,746"
+"Louisville, KY",40217,Standard,Jefferson,"12,507"
+"Louisville, KY",40218,Standard,Jefferson,"31,658"
+"Louisville, KY",40219,Standard,Jefferson,"38,032"
+"Louisville, KY",40220,Standard,Jefferson,"33,109"
+"Louisville, KY",40221,P.O. Box,Jefferson,0
+"Louisville, KY",40222,Standard,Jefferson,"21,359"
+"Louisville, KY",40223,Standard,Jefferson,"22,011"
+"Louisville, KY",40224,P.O. Box,Jefferson,0
+"Louisville, KY",40225,Unique,Jefferson,0
+"Louisville, KY",40228,Standard,Jefferson,"15,743"
+"Louisville, KY",40229,Standard,Jefferson,"36,852"
+"Louisville, KY",40231,P.O. Box,Jefferson,0
+"Louisville, KY",40232,P.O. Box,Jefferson,0
+"Louisville, KY",40233,P.O. Box,Jefferson,0
+"Louisville, KY",40241,Standard,Jefferson,"28,988"
+"Louisville, KY",40242,Standard,Jefferson,"10,930"
+"Louisville, KY",40243,Standard,Jefferson,"10,210"
+"Louisville, KY",40245,Standard,Jefferson,"30,109"
+"Louisville, KY",40250,P.O. Box,Jefferson,0
+"Louisville, KY",40251,P.O. Box,Jefferson,0
+"Louisville, KY",40252,P.O. Box,Jefferson,0
+"Louisville, KY",40253,P.O. Box,Jefferson,0
+"Louisville, KY",40255,P.O. Box,Jefferson,0
+"Louisville, KY",40256,P.O. Box,Jefferson,0
+"Louisville, KY",40257,P.O. Box,Jefferson,0
+"Louisville, KY",40258,Standard,Jefferson,"26,465"
+"Louisville, KY",40259,P.O. Box,Jefferson,0
+"Louisville, KY",40261,P.O. Box,Jefferson,0
+"Louisville, KY",40266,Unique,Jefferson,0
+"Louisville, KY",40268,P.O. Box,Jefferson,0
+"Louisville, KY",40269,P.O. Box,Jefferson,0
+"Louisville, KY",40270,P.O. Box,Jefferson,0
+"Louisville, KY",40272,Standard,Jefferson,"37,394"
+"Louisville, KY",40280,Unique,Jefferson,303
+"Louisville, KY",40281,Unique,Jefferson,0
+"Louisville, KY",40282,Unique,Jefferson,0
+"Louisville, KY",40283,Unique,Jefferson,0
+"Louisville, KY",40285,P.O. Box,Jefferson,0
+"Louisville, KY",40287,Unique,Jefferson,0
+"Louisville, KY",40289,Unique,Jefferson,0
+"Louisville, KY",40290,P.O. Box,Jefferson,0
+"Louisville, KY",40291,Standard,Jefferson,"35,427"
+"Louisville, KY",40292,Unique,Jefferson,0
+"Louisville, KY",40293,Standard,Jefferson,0
+"Louisville, KY",40294,Unique,Jefferson,0
+"Louisville, KY",40295,P.O. Box,Jefferson,0
+"Louisville, KY",40296,Unique,Jefferson,0
+"Louisville, KY",40297,Unique,Jefferson,0
+"Louisville, KY",40298,P.O. Box,Jefferson,0
+"Louisville, KY",40299,Standard,Jefferson,"38,371"
+"Milwaukee, WI",53201,P.O. Box,Milwaukee,0
+"Milwaukee, WI",53202,Standard,Milwaukee,"23,386"
+"Milwaukee, WI",53203,Standard,Milwaukee,938
+"Milwaukee, WI",53204,Standard,Milwaukee,"42,355"
+"Milwaukee, WI",53205,Standard,Milwaukee,"10,050"
+"Milwaukee, WI",53206,Standard,Milwaukee,"28,210"
+"Milwaukee, WI",53207,Standard,Milwaukee,"35,149"
+"Milwaukee, WI",53208,Standard,Milwaukee,"31,133"
+"Milwaukee, WI",53209,Standard,Milwaukee,"46,917"
+"Milwaukee, WI",53210,Standard,Milwaukee,"28,126"
+"Milwaukee, WI",53211,Standard,Milwaukee,"35,406"
+"Milwaukee, WI",53212,Standard,Milwaukee,"30,416"
+"Milwaukee, WI",53213,Standard,Milwaukee,"26,020"
+"Milwaukee, WI",53214,Standard,Milwaukee,"34,725"
+"Milwaukee, WI",53215,Standard,Milwaukee,"60,953"
+"Milwaukee, WI",53216,Standard,Milwaukee,"32,264"
+"Milwaukee, WI",53217,Standard,Milwaukee,"29,192"
+"Milwaukee, WI",53218,Standard,Milwaukee,"40,625"
+"Milwaukee, WI",53219,Standard,Milwaukee,"33,880"
+"Milwaukee, WI",53220,Standard,Milwaukee,"26,303"
+"Milwaukee, WI",53221,Standard,Milwaukee,"37,701"
+"Milwaukee, WI",53222,Standard,Milwaukee,"25,165"
+"Milwaukee, WI",53223,Standard,Milwaukee,"29,230"
+"Milwaukee, WI",53224,Standard,Milwaukee,"21,284"
+"Milwaukee, WI",53225,Standard,Milwaukee,"25,706"
+"Milwaukee, WI",53226,Standard,Milwaukee,"18,370"
+"Milwaukee, WI",53227,Standard,Milwaukee,"23,357"
+"Milwaukee, WI",53228,Standard,Milwaukee,"14,369"
+"Milwaukee, WI",53233,Standard,Milwaukee,"16,453"
+"Milwaukee, WI",53234,P.O. Box,Milwaukee,0
+"Milwaukee, WI",53235,Standard,Milwaukee,"9,270"
+"Milwaukee, WI",53237,P.O. Box,Milwaukee,0
+"Milwaukee, WI",53259,Unique,Milwaukee,0
+"Milwaukee, WI",53263,Unique,Milwaukee,0
+"Milwaukee, WI",53274,Unique,Milwaukee,0
+"Milwaukee, WI",53278,Unique,Milwaukee,0
+"Milwaukee, WI",53288,Unique,Milwaukee,0
+"Milwaukee, WI",53290,Unique,Milwaukee,0
+"Milwaukee, WI",53293,Unique,Milwaukee,0
+"Milwaukee, WI",53295,Unique,Milwaukee,359
+"Albuquerque, NM",87101,Standard,Bernalillo,0
+"Albuquerque, NM",87102,Standard,Bernalillo,"21,204"
+"Albuquerque, NM",87103,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87104,Standard,Bernalillo,"12,123"
+"Albuquerque, NM",87105,Standard,Bernalillo,"57,680"
+"Albuquerque, NM",87106,Standard,Bernalillo,"27,013"
+"Albuquerque, NM",87107,Standard,Bernalillo,"31,183"
+"Albuquerque, NM",87108,Standard,Bernalillo,"38,647"
+"Albuquerque, NM",87109,Standard,Bernalillo,"40,432"
+"Albuquerque, NM",87110,Standard,Bernalillo,"38,587"
+"Albuquerque, NM",87111,Standard,Bernalillo,"56,490"
+"Albuquerque, NM",87112,Standard,Bernalillo,"43,584"
+"Albuquerque, NM",87113,Standard,Bernalillo,"14,477"
+"Albuquerque, NM",87114,Standard,Bernalillo,"61,623"
+"Albuquerque, NM",87115,Standard,Bernalillo,0
+"Albuquerque, NM",87116,Standard,Bernalillo,"4,117"
+"Albuquerque, NM",87117,Unique,Bernalillo,310
+"Albuquerque, NM",87119,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87120,Standard,Bernalillo,"58,023"
+"Albuquerque, NM",87121,Standard,Bernalillo,"76,721"
+"Albuquerque, NM",87122,Standard,Bernalillo,"17,977"
+"Albuquerque, NM",87123,Standard,Bernalillo,"41,468"
+"Albuquerque, NM",87124,Standard,Sandoval,"51,404"
+"Albuquerque, NM",87125,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87131,Unique,Bernalillo,0
+"Albuquerque, NM",87151,Unique,Bernalillo,0
+"Albuquerque, NM",87153,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87154,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87158,Unique,Bernalillo,0
+"Albuquerque, NM",87174,P.O. Box,Sandoval,0
+"Albuquerque, NM",87176,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87181,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87184,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87185,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87187,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87190,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87191,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87192,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87193,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87194,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87195,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87196,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87197,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87198,P.O. Box,Bernalillo,0
+"Albuquerque, NM",87199,P.O. Box,Bernalillo,0
+"Tucson, AZ",85701,Standard,Pima,"4,983"
+"Tucson, AZ",85702,P.O. Box,Pima,0
+"Tucson, AZ",85703,P.O. Box,Pima,0
+"Tucson, AZ",85704,Standard,Pima,"30,929"
+"Tucson, AZ",85705,Standard,Pima,"57,521"
+"Tucson, AZ",85706,Standard,Pima,"55,209"
+"Tucson, AZ",85707,P.O. Box,Pima,658
+"Tucson, AZ",85708,Standard,Pima,"2,980"
+"Tucson, AZ",85709,Unique,Pima,0
+"Tucson, AZ",85710,Standard,Pima,"54,439"
+"Tucson, AZ",85711,Standard,Pima,"41,251"
+"Tucson, AZ",85712,Standard,Pima,"32,666"
+"Tucson, AZ",85713,Standard,Pima,"50,151"
+"Tucson, AZ",85714,Standard,Pima,"15,009"
+"Tucson, AZ",85715,Standard,Pima,"17,702"
+"Tucson, AZ",85716,Standard,Pima,"32,853"
+"Tucson, AZ",85717,P.O. Box,Pima,0
+"Tucson, AZ",85718,Standard,Pima,"27,367"
+"Tucson, AZ",85719,Standard,Pima,"43,989"
+"Tucson, AZ",85720,P.O. Box,Pima,0
+"Tucson, AZ",85721,Unique,Pima,0
+"Tucson, AZ",85722,P.O. Box,Pima,0
+"Tucson, AZ",85723,Unique,Pima,0
+"Tucson, AZ",85724,Unique,Pima,0
+"Tucson, AZ",85725,P.O. Box,Pima,0
+"Tucson, AZ",85726,P.O. Box,Pima,0
+"Tucson, AZ",85728,P.O. Box,Pima,0
+"Tucson, AZ",85730,Standard,Pima,"38,323"
+"Tucson, AZ",85731,P.O. Box,Pima,0
+"Tucson, AZ",85732,P.O. Box,Pima,0
+"Tucson, AZ",85733,P.O. Box,Pima,0
+"Tucson, AZ",85734,P.O. Box,Pima,0
+"Tucson, AZ",85735,Standard,Pima,"11,250"
+"Tucson, AZ",85736,Standard,Pima,"4,975"
+"Tucson, AZ",85737,Standard,Pima,"20,727"
+"Tucson, AZ",85738,P.O. Box,Pima,0
+"Tucson, AZ",85739,Standard,Pima,"17,848"
+"Tucson, AZ",85740,P.O. Box,Pima,0
+"Tucson, AZ",85741,Standard,Pima,"32,998"
+"Tucson, AZ",85742,Standard,Pima,"25,212"
+"Tucson, AZ",85743,Standard,Pima,"29,144"
+"Tucson, AZ",85744,Unique,Pima,0
+"Tucson, AZ",85745,Standard,Pima,"37,006"
+"Tucson, AZ",85746,Standard,Pima,"43,057"
+"Tucson, AZ",85747,Standard,Pima,"23,058"
+"Tucson, AZ",85748,Standard,Pima,"18,087"
+"Tucson, AZ",85749,Standard,Pima,"19,032"
+"Tucson, AZ",85750,Standard,Pima,"24,161"
+"Tucson, AZ",85751,P.O. Box,Pima,0
+"Tucson, AZ",85752,P.O. Box,Pima,0
+"Tucson, AZ",85754,P.O. Box,Pima,0
+"Tucson, AZ",85755,Standard,Pima,"15,107"
+"Tucson, AZ",85756,Standard,Pima,"35,703"
+"Tucson, AZ",85757,Standard,Pima,"16,988"
+"Tucson, AZ",85775,Unique,Pima,0
+"Fresno, CA",93650,Standard,Fresno,"4,055"
+"Fresno, CA",93701,Standard,Fresno,"12,529"
+"Fresno, CA",93702,Standard,Fresno,"48,607"
+"Fresno, CA",93703,Standard,Fresno,"31,868"
+"Fresno, CA",93704,Standard,Fresno,"27,156"
+"Fresno, CA",93705,Standard,Fresno,"36,703"
+"Fresno, CA",93706,Standard,Fresno,"41,087"
+"Fresno, CA",93707,P.O. Box,Fresno,0
+"Fresno, CA",93708,P.O. Box,Fresno,0
+"Fresno, CA",93709,P.O. Box,Fresno,0
+"Fresno, CA",93710,Standard,Fresno,"30,202"
+"Fresno, CA",93711,Standard,Fresno,"36,731"
+"Fresno, CA",93712,P.O. Box,Fresno,0
+"Fresno, CA",93714,P.O. Box,Fresno,0
+"Fresno, CA",93715,P.O. Box,Fresno,0
+"Fresno, CA",93716,P.O. Box,Fresno,0
+"Fresno, CA",93717,P.O. Box,Fresno,0
+"Fresno, CA",93718,P.O. Box,Fresno,0
+"Fresno, CA",93720,Standard,Fresno,"45,191"
+"Fresno, CA",93721,Standard,Fresno,"6,959"
+"Fresno, CA",93722,Standard,Fresno,"76,448"
+"Fresno, CA",93723,Standard,Fresno,"9,547"
+"Fresno, CA",93724,Unique,Fresno,0
+"Fresno, CA",93725,Standard,Fresno,"24,979"
+"Fresno, CA",93726,Standard,Fresno,"40,705"
+"Fresno, CA",93727,Standard,Fresno,"71,820"
+"Fresno, CA",93728,Standard,Fresno,"15,743"
+"Fresno, CA",93729,P.O. Box,Fresno,0
+"Fresno, CA",93730,Standard,Fresno,"9,941"
+"Fresno, CA",93737,Standard,Fresno,0
+"Fresno, CA",93740,Unique,Fresno,0
+"Fresno, CA",93741,Unique,Fresno,0
+"Fresno, CA",93744,P.O. Box,Fresno,0
+"Fresno, CA",93745,P.O. Box,Fresno,0
+"Fresno, CA",93747,P.O. Box,Fresno,0
+"Fresno, CA",93750,Unique,Fresno,0
+"Fresno, CA",93755,P.O. Box,Fresno,0
+"Fresno, CA",93760,Unique,Fresno,0
+"Fresno, CA",93761,Unique,Fresno,0
+"Fresno, CA",93764,Unique,Fresno,0
+"Fresno, CA",93765,Unique,Fresno,0
+"Fresno, CA",93771,P.O. Box,Fresno,0
+"Fresno, CA",93772,P.O. Box,Fresno,0
+"Fresno, CA",93773,P.O. Box,Fresno,0
+"Fresno, CA",93774,P.O. Box,Fresno,0
+"Fresno, CA",93775,P.O. Box,Fresno,0
+"Fresno, CA",93776,P.O. Box,Fresno,0
+"Fresno, CA",93777,P.O. Box,Fresno,0
+"Fresno, CA",93778,P.O. Box,Fresno,0
+"Fresno, CA",93779,P.O. Box,Fresno,0
+"Fresno, CA",93786,Unique,Fresno,0
+"Fresno, CA",93790,P.O. Box,Fresno,0
+"Fresno, CA",93791,P.O. Box,Fresno,0
+"Fresno, CA",93792,P.O. Box,Fresno,0
+"Fresno, CA",93793,P.O. Box,Fresno,0
+"Fresno, CA",93794,P.O. Box,Fresno,0
+"Fresno, CA",93844,Unique,Fresno,0
+"Fresno, CA",93888,Unique,Fresno,0
+"Sacramento, CA",94203,Unique,Sacramento,0
+"Sacramento, CA",94204,Unique,Sacramento,0
+"Sacramento, CA",94205,Unique,Sacramento,0
+"Sacramento, CA",94206,Unique,Sacramento,0
+"Sacramento, CA",94207,Unique,Sacramento,0
+"Sacramento, CA",94208,Unique,Sacramento,0
+"Sacramento, CA",94209,Unique,Sacramento,0
+"Sacramento, CA",94211,Unique,Sacramento,0
+"Sacramento, CA",94229,Unique,Sacramento,0
+"Sacramento, CA",94230,Unique,Sacramento,0
+"Sacramento, CA",94232,Unique,Sacramento,0
+"Sacramento, CA",94234,Unique,Sacramento,0
+"Sacramento, CA",94235,Unique,Sacramento,0
+"Sacramento, CA",94236,Unique,Sacramento,0
+"Sacramento, CA",94237,Unique,Sacramento,0
+"Sacramento, CA",94239,Unique,Sacramento,0
+"Sacramento, CA",94240,Unique,Sacramento,0
+"Sacramento, CA",94244,Unique,Sacramento,0
+"Sacramento, CA",94245,Unique,Sacramento,0
+"Sacramento, CA",94247,Unique,Sacramento,0
+"Sacramento, CA",94248,Unique,Sacramento,0
+"Sacramento, CA",94249,Unique,Sacramento,0
+"Sacramento, CA",94250,Unique,Sacramento,0
+"Sacramento, CA",94252,Unique,Sacramento,0
+"Sacramento, CA",94254,Unique,Sacramento,0
+"Sacramento, CA",94256,Unique,Sacramento,0
+"Sacramento, CA",94257,Unique,Sacramento,0
+"Sacramento, CA",94258,Unique,Sacramento,0
+"Sacramento, CA",94259,Unique,Sacramento,0
+"Sacramento, CA",94261,Unique,Sacramento,0
+"Sacramento, CA",94262,Unique,Sacramento,0
+"Sacramento, CA",94263,Unique,Sacramento,0
+"Sacramento, CA",94267,Unique,Sacramento,0
+"Sacramento, CA",94268,Unique,Sacramento,0
+"Sacramento, CA",94269,Unique,Sacramento,0
+"Sacramento, CA",94271,Unique,Sacramento,0
+"Sacramento, CA",94273,Unique,Sacramento,0
+"Sacramento, CA",94274,Unique,Sacramento,0
+"Sacramento, CA",94277,Unique,Sacramento,0
+"Sacramento, CA",94278,Unique,Sacramento,0
+"Sacramento, CA",94279,Unique,Sacramento,0
+"Sacramento, CA",94280,Unique,Sacramento,0
+"Sacramento, CA",94282,Unique,Sacramento,0
+"Sacramento, CA",94283,Unique,Sacramento,0
+"Sacramento, CA",94284,Unique,Sacramento,0
+"Sacramento, CA",94285,Unique,Sacramento,0
+"Sacramento, CA",94287,Unique,Sacramento,0
+"Sacramento, CA",94288,Unique,Sacramento,0
+"Sacramento, CA",94289,Unique,Sacramento,0
+"Sacramento, CA",94290,Unique,Sacramento,0
+"Sacramento, CA",94291,Unique,Sacramento,0
+"Sacramento, CA",94293,Unique,Sacramento,0
+"Sacramento, CA",94294,Unique,Sacramento,0
+"Sacramento, CA",94295,Unique,Sacramento,0
+"Sacramento, CA",94296,Unique,Sacramento,0
+"Sacramento, CA",94297,Unique,Sacramento,0
+"Sacramento, CA",94298,Unique,Sacramento,0
+"Sacramento, CA",94299,Unique,Sacramento,0
+"Sacramento, CA",95811,Standard,Sacramento,"7,595"
+"Sacramento, CA",95812,P.O. Box,Sacramento,0
+"Sacramento, CA",95813,P.O. Box,Sacramento,0
+"Sacramento, CA",95814,Standard,Sacramento,"9,922"
+"Sacramento, CA",95815,Standard,Sacramento,"24,680"
+"Sacramento, CA",95816,Standard,Sacramento,"15,579"
+"Sacramento, CA",95817,Standard,Sacramento,"13,534"
+"Sacramento, CA",95818,Standard,Sacramento,"19,811"
+"Sacramento, CA",95819,Standard,Sacramento,"17,141"
+"Sacramento, CA",95820,Standard,Sacramento,"34,480"
+"Sacramento, CA",95821,Standard,Sacramento,"33,550"
+"Sacramento, CA",95822,Standard,Sacramento,"42,347"
+"Sacramento, CA",95823,Standard,Sacramento,"73,985"
+"Sacramento, CA",95824,Standard,Sacramento,"30,221"
+"Sacramento, CA",95825,Standard,Sacramento,"31,084"
+"Sacramento, CA",95826,Standard,Sacramento,"36,628"
+"Sacramento, CA",95827,Standard,Sacramento,"20,269"
+"Sacramento, CA",95828,Standard,Sacramento,"57,862"
+"Sacramento, CA",95829,Standard,Sacramento,"24,755"
+"Sacramento, CA",95830,Standard,Sacramento,934
+"Sacramento, CA",95831,Standard,Sacramento,"41,321"
+"Sacramento, CA",95832,Standard,Sacramento,"11,924"
+"Sacramento, CA",95833,Standard,Sacramento,"37,293"
+"Sacramento, CA",95834,Standard,Sacramento,"25,899"
+"Sacramento, CA",95835,Standard,Sacramento,"35,936"
+"Sacramento, CA",95836,Standard,Sacramento,0
+"Sacramento, CA",95837,Standard,Sacramento,315
+"Sacramento, CA",95838,Standard,Sacramento,"36,764"
+"Sacramento, CA",95840,Unique,Sacramento,0
+"Sacramento, CA",95841,Standard,Sacramento,"19,448"
+"Sacramento, CA",95842,Standard,Sacramento,"31,806"
+"Sacramento, CA",95843,Standard,Sacramento,"45,048"
+"Sacramento, CA",95851,P.O. Box,Sacramento,0
+"Sacramento, CA",95852,P.O. Box,Sacramento,0
+"Sacramento, CA",95853,P.O. Box,Sacramento,0
+"Sacramento, CA",95860,P.O. Box,Sacramento,0
+"Sacramento, CA",95864,Standard,Sacramento,"22,447"
+"Sacramento, CA",95865,P.O. Box,Sacramento,0
+"Sacramento, CA",95866,P.O. Box,Sacramento,0
+"Sacramento, CA",95867,Unique,Sacramento,0
+"Sacramento, CA",95894,Unique,Sacramento,0
+"Sacramento, CA",95899,P.O. Box,Sacramento,0
+"Long Beach, CA",90745,Standard,Los Angeles,"57,251"
+"Long Beach, CA",90746,Standard,Los Angeles,"25,990"
+"Long Beach, CA",90747,Unique,Los Angeles,0
+"Long Beach, CA",90749,P.O. Box,Los Angeles,0
+"Long Beach, CA",90755,Standard,Los Angeles,"11,074"
+"Long Beach, CA",90801,P.O. Box,Los Angeles,0
+"Long Beach, CA",90802,Standard,Los Angeles,"39,347"
+"Long Beach, CA",90803,Standard,Los Angeles,"32,031"
+"Long Beach, CA",90804,Standard,Los Angeles,"40,311"
+"Long Beach, CA",90805,Standard,Los Angeles,"93,524"
+"Long Beach, CA",90806,Standard,Los Angeles,"42,399"
+"Long Beach, CA",90807,Standard,Los Angeles,"31,481"
+"Long Beach, CA",90808,Standard,Los Angeles,"38,232"
+"Long Beach, CA",90809,P.O. Box,Los Angeles,0
+"Long Beach, CA",90810,Standard,Los Angeles,"36,735"
+"Long Beach, CA",90813,Standard,Los Angeles,"58,911"
+"Long Beach, CA",90814,Standard,Los Angeles,"19,131"
+"Long Beach, CA",90815,Standard,Los Angeles,"39,733"
+"Long Beach, CA",90822,Standard,Los Angeles,117
+"Long Beach, CA",90831,Standard,Los Angeles,0
+"Long Beach, CA",90832,P.O. Box,Los Angeles,0
+"Long Beach, CA",90833,Standard,Los Angeles,0
+"Long Beach, CA",90834,Standard,Los Angeles,0
+"Long Beach, CA",90835,Standard,Los Angeles,0
+"Long Beach, CA",90840,Unique,Los Angeles,0
+"Long Beach, CA",90842,Unique,Los Angeles,0
+"Long Beach, CA",90844,Unique,Los Angeles,0
+"Long Beach, CA",90846,Unique,Los Angeles,0
+"Long Beach, CA",90847,Unique,Los Angeles,0
+"Long Beach, CA",90848,Unique,Los Angeles,0
+"Long Beach, CA",90853,P.O. Box,Los Angeles,0
+"Long Beach, CA",90895,Unique,Los Angeles,0
+"Long Beach, CA",90899,Unique,Los Angeles,0
+"Kansas City, MO",64101,Standard,Jackson,339
+"Kansas City, MO",64102,Standard,Jackson,0
+"Kansas City, MO",64105,Standard,Jackson,"3,505"
+"Kansas City, MO",64106,Standard,Jackson,"7,701"
+"Kansas City, MO",64108,Standard,Jackson,"7,584"
+"Kansas City, MO",64109,Standard,Jackson,"9,931"
+"Kansas City, MO",64110,Standard,Jackson,"15,318"
+"Kansas City, MO",64111,Standard,Jackson,"16,318"
+"Kansas City, MO",64112,Standard,Jackson,"8,147"
+"Kansas City, MO",64113,Standard,Jackson,"11,328"
+"Kansas City, MO",64114,Standard,Jackson,"23,158"
+"Kansas City, MO",64116,Standard,Clay,"15,318"
+"Kansas City, MO",64117,Standard,Clay,"14,017"
+"Kansas City, MO",64118,Standard,Clay,"40,191"
+"Kansas City, MO",64119,Standard,Clay,"27,341"
+"Kansas City, MO",64120,Standard,Jackson,369
+"Kansas City, MO",64121,P.O. Box,Jackson,0
+"Kansas City, MO",64123,Standard,Jackson,"10,387"
+"Kansas City, MO",64124,Standard,Jackson,"12,639"
+"Kansas City, MO",64125,Standard,Jackson,"1,953"
+"Kansas City, MO",64126,Standard,Jackson,"6,514"
+"Kansas City, MO",64127,Standard,Jackson,"17,332"
+"Kansas City, MO",64128,Standard,Jackson,"11,613"
+"Kansas City, MO",64129,Standard,Jackson,"9,486"
+"Kansas City, MO",64130,Standard,Jackson,"20,492"
+"Kansas City, MO",64131,Standard,Jackson,"21,465"
+"Kansas City, MO",64132,Standard,Jackson,"13,810"
+"Kansas City, MO",64133,Standard,Jackson,"33,780"
+"Kansas City, MO",64134,Standard,Jackson,"21,973"
+"Kansas City, MO",64136,Standard,Jackson,"2,153"
+"Kansas City, MO",64137,Standard,Jackson,"10,554"
+"Kansas City, MO",64138,Standard,Jackson,"25,294"
+"Kansas City, MO",64139,Standard,Jackson,"1,762"
+"Kansas City, MO",64141,P.O. Box,Jackson,0
+"Kansas City, MO",64144,Unique,Clay,0
+"Kansas City, MO",64145,Standard,Jackson,"5,389"
+"Kansas City, MO",64146,Standard,Jackson,"1,376"
+"Kansas City, MO",64147,Standard,Jackson,769
+"Kansas City, MO",64148,P.O. Box,Jackson,0
+"Kansas City, MO",64149,Standard,Jackson,343
+"Kansas City, MO",64150,Standard,Platte,"3,048"
+"Kansas City, MO",64151,Standard,Platte,"24,134"
+"Kansas City, MO",64152,Standard,Platte,"26,024"
+"Kansas City, MO",64153,Standard,Platte,"5,358"
+"Kansas City, MO",64154,Standard,Platte,"9,257"
+"Kansas City, MO",64155,Standard,Clay,"21,901"
+"Kansas City, MO",64156,Standard,Clay,"5,404"
+"Kansas City, MO",64157,Standard,Clay,"16,122"
+"Kansas City, MO",64158,Standard,Clay,"5,161"
+"Kansas City, MO",64161,Standard,Clay,388
+"Kansas City, MO",64162,Unique,Clay,0
+"Kansas City, MO",64163,Standard,Platte,689
+"Kansas City, MO",64164,Standard,Platte,302
+"Kansas City, MO",64165,Standard,Clay,112
+"Kansas City, MO",64166,Standard,Clay,278
+"Kansas City, MO",64167,Standard,Clay,353
+"Kansas City, MO",64168,P.O. Box,Platte,0
+"Kansas City, MO",64170,Unique,Jackson,0
+"Kansas City, MO",64171,P.O. Box,Jackson,0
+"Kansas City, MO",64179,Unique,Jackson,0
+"Kansas City, MO",64180,Unique,Jackson,0
+"Kansas City, MO",64184,Unique,Jackson,0
+"Kansas City, MO",64187,Unique,Jackson,0
+"Kansas City, MO",64188,P.O. Box,Clay,0
+"Kansas City, MO",64190,P.O. Box,Platte,0
+"Kansas City, MO",64191,P.O. Box,Jackson,0
+"Kansas City, MO",64195,P.O. Box,Platte,0
+"Kansas City, MO",64196,P.O. Box,Jackson,0
+"Kansas City, MO",64197,Unique,Jackson,0
+"Kansas City, MO",64198,Unique,Jackson,0
+"Kansas City, MO",64199,P.O. Box,Jackson,0
+"Kansas City, MO",64999,Unique,Jackson,0
+"Mesa, AZ",85201,Standard,Maricopa,"46,092"
+"Mesa, AZ",85202,Standard,Maricopa,"37,275"
+"Mesa, AZ",85203,Standard,Maricopa,"35,541"
+"Mesa, AZ",85204,Standard,Maricopa,"60,885"
+"Mesa, AZ",85205,Standard,Maricopa,"39,858"
+"Mesa, AZ",85206,Standard,Maricopa,"33,154"
+"Mesa, AZ",85207,Standard,Maricopa,"44,744"
+"Mesa, AZ",85208,Standard,Maricopa,"34,762"
+"Mesa, AZ",85209,Standard,Maricopa,"37,377"
+"Mesa, AZ",85210,Standard,Maricopa,"36,464"
+"Mesa, AZ",85211,P.O. Box,Maricopa,0
+"Mesa, AZ",85212,Standard,Maricopa,"24,492"
+"Mesa, AZ",85213,Standard,Maricopa,"31,797"
+"Mesa, AZ",85214,P.O. Box,Maricopa,0
+"Mesa, AZ",85215,Standard,Maricopa,"15,963"
+"Mesa, AZ",85216,P.O. Box,Maricopa,0
+"Mesa, AZ",85274,P.O. Box,Maricopa,0
+"Mesa, AZ",85275,P.O. Box,Maricopa,0
+"Mesa, AZ",85277,P.O. Box,Maricopa,0
+"Atlanta, GA",30301,P.O. Box,Fulton,0
+"Atlanta, GA",30302,P.O. Box,Fulton,0
+"Atlanta, GA",30303,Standard,Fulton,"5,934"
+"Atlanta, GA",30304,Standard,Fulton,0
+"Atlanta, GA",30305,Standard,Fulton,"22,999"
+"Atlanta, GA",30306,Standard,Fulton,"22,246"
+"Atlanta, GA",30307,Standard,Fulton,"18,004"
+"Atlanta, GA",30308,Standard,Fulton,"15,413"
+"Atlanta, GA",30309,Standard,Fulton,"21,845"
+"Atlanta, GA",30310,Standard,Fulton,"26,912"
+"Atlanta, GA",30311,Standard,Fulton,"32,218"
+"Atlanta, GA",30312,Standard,Fulton,"19,360"
+"Atlanta, GA",30313,Standard,Fulton,"9,495"
+"Atlanta, GA",30314,Standard,Fulton,"22,020"
+"Atlanta, GA",30315,Standard,Fulton,"33,857"
+"Atlanta, GA",30316,Standard,Fulton,"31,110"
+"Atlanta, GA",30317,Standard,Dekalb,"11,970"
+"Atlanta, GA",30318,Standard,Fulton,"49,736"
+"Atlanta, GA",30319,Standard,Dekalb,"38,423"
+"Atlanta, GA",30320,P.O. Box,Fulton,0
+"Atlanta, GA",30321,P.O. Box,Fulton,0
+"Atlanta, GA",30322,Unique,Dekalb,"2,023"
+"Atlanta, GA",30324,Standard,Fulton,"24,267"
+"Atlanta, GA",30325,P.O. Box,Fulton,0
+"Atlanta, GA",30326,Standard,Fulton,"4,802"
+"Atlanta, GA",30327,Standard,Fulton,"22,208"
+"Atlanta, GA",30328,Standard,Fulton,"30,348"
+"Atlanta, GA",30329,Standard,Dekalb,"28,539"
+"Atlanta, GA",30331,Standard,Fulton,"54,094"
+"Atlanta, GA",30332,Unique,Fulton,"2,970"
+"Atlanta, GA",30333,P.O. Box,Dekalb,0
+"Atlanta, GA",30334,Standard,Fulton,1
+"Atlanta, GA",30336,Standard,Fulton,971
+"Atlanta, GA",30337,Standard,Fulton,"11,505"
+"Atlanta, GA",30338,Standard,Dekalb,"33,617"
+"Atlanta, GA",30339,Standard,Cobb,"18,304"
+"Atlanta, GA",30340,Standard,Dekalb,"29,394"
+"Atlanta, GA",30341,Standard,Dekalb,"31,793"
+"Atlanta, GA",30342,Standard,Fulton,"29,879"
+"Atlanta, GA",30343,P.O. Box,Fulton,0
+"Atlanta, GA",30344,Standard,Fulton,"31,776"
+"Atlanta, GA",30345,Standard,Dekalb,"23,129"
+"Atlanta, GA",30346,Standard,Dekalb,"4,696"
+"Atlanta, GA",30348,P.O. Box,Fulton,0
+"Atlanta, GA",30349,Standard,Fulton,"67,602"
+"Atlanta, GA",30350,Standard,Fulton,"34,740"
+"Atlanta, GA",30353,P.O. Box,Fulton,0
+"Atlanta, GA",30354,Standard,Fulton,"14,857"
+"Atlanta, GA",30355,P.O. Box,Fulton,0
+"Atlanta, GA",30356,P.O. Box,Dekalb,0
+"Atlanta, GA",30357,P.O. Box,Fulton,0
+"Atlanta, GA",30358,P.O. Box,Fulton,0
+"Atlanta, GA",30359,P.O. Box,Dekalb,0
+"Atlanta, GA",30360,Standard,Dekalb,"14,536"
+"Atlanta, GA",30361,Standard,Fulton,0
+"Atlanta, GA",30362,P.O. Box,Dekalb,0
+"Atlanta, GA",30363,Standard,Fulton,"2,680"
+"Atlanta, GA",30364,P.O. Box,Fulton,0
+"Atlanta, GA",30366,P.O. Box,Dekalb,0
+"Atlanta, GA",30368,Unique,Fulton,0
+"Atlanta, GA",30369,Standard,Fulton,0
+"Atlanta, GA",30370,P.O. Box,Fulton,0
+"Atlanta, GA",30371,P.O. Box,Fulton,0
+"Atlanta, GA",30374,P.O. Box,Fulton,0
+"Atlanta, GA",30375,Unique,Fulton,0
+"Atlanta, GA",30377,P.O. Box,Fulton,0
+"Atlanta, GA",30378,P.O. Box,Fulton,0
+"Atlanta, GA",30380,Unique,Fulton,0
+"Atlanta, GA",30384,Unique,Fulton,0
+"Atlanta, GA",30385,Unique,Fulton,0
+"Atlanta, GA",30388,Unique,Fulton,0
+"Atlanta, GA",30392,P.O. Box,Fulton,0
+"Atlanta, GA",30394,P.O. Box,Fulton,0
+"Atlanta, GA",30396,Unique,Fulton,0
+"Atlanta, GA",30398,Unique,Fulton,0
+"Atlanta, GA",31106,P.O. Box,Fulton,0
+"Atlanta, GA",31107,P.O. Box,Dekalb,0
+"Atlanta, GA",31119,P.O. Box,Dekalb,0
+"Atlanta, GA",31126,P.O. Box,Fulton,0
+"Atlanta, GA",31131,P.O. Box,Fulton,0
+"Atlanta, GA",31136,Unique,Fulton,0
+"Atlanta, GA",31139,P.O. Box,Fulton,0
+"Atlanta, GA",31141,P.O. Box,Dekalb,0
+"Atlanta, GA",31145,P.O. Box,Dekalb,0
+"Atlanta, GA",31146,P.O. Box,Dekalb,0
+"Atlanta, GA",31150,P.O. Box,Fulton,0
+"Atlanta, GA",31156,P.O. Box,Fulton,0
+"Atlanta, GA",31192,Unique,Fulton,0
+"Atlanta, GA",31193,Unique,Fulton,0
+"Atlanta, GA",31195,Unique,Fulton,0
+"Atlanta, GA",31196,Unique,Fulton,0
+"Atlanta, GA",39901,Unique,Dekalb,0
+"Virginia Beach, VA",23450,P.O. Box,Virginia Beach City,0
+"Virginia Beach, VA",23451,Standard,Virginia Beach City,"41,544"
+"Virginia Beach, VA",23452,Standard,Virginia Beach City,"59,321"
+"Virginia Beach, VA",23453,Standard,Virginia Beach City,"35,960"
+"Virginia Beach, VA",23454,Standard,Virginia Beach City,"60,283"
+"Virginia Beach, VA",23455,Standard,Virginia Beach City,"47,938"
+"Virginia Beach, VA",23456,Standard,Virginia Beach City,"51,748"
+"Virginia Beach, VA",23457,Standard,Virginia Beach City,"4,289"
+"Virginia Beach, VA",23458,P.O. Box,Virginia Beach City,0
+"Virginia Beach, VA",23459,Standard,Virginia Beach City,"1,091"
+"Virginia Beach, VA",23460,Standard,Virginia Beach City,"1,201"
+"Virginia Beach, VA",23461,Standard,Virginia Beach City,287
+"Virginia Beach, VA",23462,Standard,Virginia Beach City,"61,973"
+"Virginia Beach, VA",23463,Unique,Virginia Beach City,0
+"Virginia Beach, VA",23464,Standard,Virginia Beach City,"72,359"
+"Virginia Beach, VA",23465,Unique,Virginia Beach City,0
+"Virginia Beach, VA",23466,P.O. Box,Virginia Beach City,0
+"Virginia Beach, VA",23467,P.O. Box,Virginia Beach City,0
+"Virginia Beach, VA",23471,P.O. Box,Virginia Beach City,0
+"Virginia Beach, VA",23479,Unique,Virginia Beach City,0
+"Omaha, NE",68101,P.O. Box,Douglas,0
+"Omaha, NE",68102,Standard,Douglas,"6,102"
+"Omaha, NE",68103,P.O. Box,Douglas,0
+"Omaha, NE",68104,Standard,Douglas,"34,664"
+"Omaha, NE",68105,Standard,Douglas,"23,842"
+"Omaha, NE",68106,Standard,Douglas,"19,936"
+"Omaha, NE",68107,Standard,Douglas,"29,491"
+"Omaha, NE",68108,Standard,Douglas,"14,664"
+"Omaha, NE",68109,P.O. Box,Douglas,0
+"Omaha, NE",68110,Standard,Douglas,"9,173"
+"Omaha, NE",68111,Standard,Douglas,"23,393"
+"Omaha, NE",68112,Standard,Douglas,"11,508"
+"Omaha, NE",68113,Standard,Sarpy,994
+"Omaha, NE",68114,Standard,Douglas,"16,928"
+"Omaha, NE",68116,Standard,Douglas,"25,429"
+"Omaha, NE",68117,Standard,Douglas,"8,032"
+"Omaha, NE",68118,Standard,Douglas,"9,389"
+"Omaha, NE",68119,P.O. Box,Douglas,0
+"Omaha, NE",68122,Standard,Douglas,"9,794"
+"Omaha, NE",68124,Standard,Douglas,"15,690"
+"Omaha, NE",68127,Standard,Douglas,"21,117"
+"Omaha, NE",68130,Standard,Douglas,"17,972"
+"Omaha, NE",68131,Standard,Douglas,"12,302"
+"Omaha, NE",68132,Standard,Douglas,"14,101"
+"Omaha, NE",68134,Standard,Douglas,"28,257"
+"Omaha, NE",68135,Standard,Douglas,"25,875"
+"Omaha, NE",68136,Standard,Sarpy,"13,829"
+"Omaha, NE",68137,Standard,Douglas,"24,921"
+"Omaha, NE",68138,Standard,Sarpy,"12,013"
+"Omaha, NE",68139,P.O. Box,Douglas,0
+"Omaha, NE",68142,Standard,Douglas,"3,072"
+"Omaha, NE",68144,Standard,Douglas,"24,233"
+"Omaha, NE",68145,P.O. Box,Douglas,0
+"Omaha, NE",68147,Standard,Sarpy,"10,351"
+"Omaha, NE",68152,Standard,Douglas,"5,837"
+"Omaha, NE",68154,Standard,Douglas,"22,692"
+"Omaha, NE",68157,Standard,Sarpy,"5,213"
+"Omaha, NE",68164,Standard,Douglas,"27,387"
+"Omaha, NE",68172,Unique,Douglas,0
+"Omaha, NE",68175,Unique,Douglas,0
+"Omaha, NE",68176,Standard,Douglas,0
+"Omaha, NE",68178,Unique,Douglas,"1,573"
+"Omaha, NE",68179,Unique,Douglas,0
+"Omaha, NE",68180,Unique,Douglas,0
+"Omaha, NE",68182,Unique,Douglas,0
+"Omaha, NE",68183,Unique,Douglas,0
+"Omaha, NE",68197,Unique,Douglas,0
+"Omaha, NE",68198,Unique,Douglas,0
+"Colorado Springs, CO",80901,P.O. Box,El Paso,0
+"Colorado Springs, CO",80902,Standard,El Paso,"12,289"
+"Colorado Springs, CO",80903,Standard,El Paso,"15,057"
+"Colorado Springs, CO",80904,Standard,El Paso,"19,867"
+"Colorado Springs, CO",80905,Standard,El Paso,"16,254"
+"Colorado Springs, CO",80906,Standard,El Paso,"37,719"
+"Colorado Springs, CO",80907,Standard,El Paso,"26,758"
+"Colorado Springs, CO",80908,Standard,El Paso,"13,827"
+"Colorado Springs, CO",80909,Standard,El Paso,"35,739"
+"Colorado Springs, CO",80910,Standard,El Paso,"28,794"
+"Colorado Springs, CO",80911,Standard,El Paso,"30,596"
+"Colorado Springs, CO",80912,Standard,El Paso,0
+"Colorado Springs, CO",80913,Standard,El Paso,"2,988"
+"Colorado Springs, CO",80914,P.O. Box,El Paso,386
+"Colorado Springs, CO",80915,Standard,El Paso,"19,519"
+"Colorado Springs, CO",80916,Standard,El Paso,"34,640"
+"Colorado Springs, CO",80917,Standard,El Paso,"29,273"
+"Colorado Springs, CO",80918,Standard,El Paso,"45,467"
+"Colorado Springs, CO",80919,Standard,El Paso,"27,398"
+"Colorado Springs, CO",80920,Standard,El Paso,"38,569"
+"Colorado Springs, CO",80921,Standard,El Paso,"18,999"
+"Colorado Springs, CO",80922,Standard,El Paso,"26,549"
+"Colorado Springs, CO",80923,Standard,El Paso,"26,105"
+"Colorado Springs, CO",80924,Standard,El Paso,"4,534"
+"Colorado Springs, CO",80925,Standard,El Paso,"5,906"
+"Colorado Springs, CO",80926,Standard,El Paso,"1,403"
+"Colorado Springs, CO",80927,Standard,El Paso,604
+"Colorado Springs, CO",80928,Standard,El Paso,"1,202"
+"Colorado Springs, CO",80929,Standard,El Paso,231
+"Colorado Springs, CO",80930,Standard,El Paso,821
+"Colorado Springs, CO",80931,P.O. Box,El Paso,0
+"Colorado Springs, CO",80932,P.O. Box,El Paso,0
+"Colorado Springs, CO",80933,P.O. Box,El Paso,0
+"Colorado Springs, CO",80934,P.O. Box,El Paso,0
+"Colorado Springs, CO",80935,P.O. Box,El Paso,0
+"Colorado Springs, CO",80936,P.O. Box,El Paso,0
+"Colorado Springs, CO",80937,P.O. Box,El Paso,0
+"Colorado Springs, CO",80938,Standard,El Paso,17
+"Colorado Springs, CO",80939,Standard,El Paso,0
+"Colorado Springs, CO",80941,Unique,El Paso,0
+"Colorado Springs, CO",80942,Unique,El Paso,0
+"Colorado Springs, CO",80946,Unique,El Paso,0
+"Colorado Springs, CO",80947,Unique,El Paso,0
+"Colorado Springs, CO",80949,P.O. Box,El Paso,0
+"Colorado Springs, CO",80950,Unique,El Paso,0
+"Colorado Springs, CO",80951,Standard,El Paso,"4,202"
+"Colorado Springs, CO",80960,P.O. Box,El Paso,0
+"Colorado Springs, CO",80962,P.O. Box,El Paso,0
+"Colorado Springs, CO",80970,P.O. Box,El Paso,0
+"Colorado Springs, CO",80977,Unique,El Paso,0
+"Colorado Springs, CO",80995,Unique,El Paso,0
+"Colorado Springs, CO",80997,Unique,El Paso,0
+"Raleigh, NC",27601,Standard,Wake,"9,450"
+"Raleigh, NC",27602,P.O. Box,Wake,0
+"Raleigh, NC",27603,Standard,Wake,"47,033"
+"Raleigh, NC",27604,Standard,Wake,"42,204"
+"Raleigh, NC",27605,Standard,Wake,"4,495"
+"Raleigh, NC",27606,Standard,Wake,"43,210"
+"Raleigh, NC",27607,Standard,Wake,"25,188"
+"Raleigh, NC",27608,Standard,Wake,"10,429"
+"Raleigh, NC",27609,Standard,Wake,"32,964"
+"Raleigh, NC",27610,Standard,Wake,"65,648"
+"Raleigh, NC",27611,P.O. Box,Wake,0
+"Raleigh, NC",27612,Standard,Wake,"35,028"
+"Raleigh, NC",27613,Standard,Wake,"42,690"
+"Raleigh, NC",27614,Standard,Wake,"31,516"
+"Raleigh, NC",27615,Standard,Wake,"42,166"
+"Raleigh, NC",27616,Standard,Wake,"42,294"
+"Raleigh, NC",27617,Standard,Wake,"15,199"
+"Raleigh, NC",27619,P.O. Box,Wake,0
+"Raleigh, NC",27620,P.O. Box,Wake,0
+"Raleigh, NC",27621,P.O. Box,Wake,0
+"Raleigh, NC",27622,P.O. Box,Wake,0
+"Raleigh, NC",27623,P.O. Box,Wake,0
+"Raleigh, NC",27624,P.O. Box,Wake,0
+"Raleigh, NC",27625,P.O. Box,Wake,0
+"Raleigh, NC",27626,P.O. Box,Wake,0
+"Raleigh, NC",27627,P.O. Box,Wake,0
+"Raleigh, NC",27628,P.O. Box,Wake,0
+"Raleigh, NC",27629,P.O. Box,Wake,0
+"Raleigh, NC",27634,Unique,Wake,0
+"Raleigh, NC",27635,Unique,Wake,0
+"Raleigh, NC",27636,P.O. Box,Wake,0
+"Raleigh, NC",27640,Unique,Wake,0
+"Raleigh, NC",27650,P.O. Box,Wake,0
+"Raleigh, NC",27656,Unique,Wake,0
+"Raleigh, NC",27658,P.O. Box,Wake,0
+"Raleigh, NC",27661,P.O. Box,Wake,0
+"Raleigh, NC",27668,Unique,Wake,0
+"Raleigh, NC",27675,P.O. Box,Wake,0
+"Raleigh, NC",27676,P.O. Box,Wake,0
+"Raleigh, NC",27690,Unique,Wake,0
+"Raleigh, NC",27695,Unique,Wake,0
+"Raleigh, NC",27697,Unique,Wake,0
+"Raleigh, NC",27698,Unique,Wake,0
+"Raleigh, NC",27699,Unique,Wake,0
+"Miami, FL",33101,P.O. Box,Miami-Dade,0
+"Miami, FL",33102,P.O. Box,Miami-Dade,0
+"Miami, FL",33106,Unique,Miami-Dade,0
+"Miami, FL",33109,Standard,Miami-Dade,594
+"Miami, FL",33111,P.O. Box,Miami-Dade,0
+"Miami, FL",33112,Unique,Miami-Dade,0
+"Miami, FL",33114,P.O. Box,Miami-Dade,0
+"Miami, FL",33116,P.O. Box,Miami-Dade,0
+"Miami, FL",33119,P.O. Box,Miami-Dade,0
+"Miami, FL",33122,Standard,Miami-Dade,1
+"Miami, FL",33124,P.O. Box,Miami-Dade,0
+"Miami, FL",33125,Standard,Miami-Dade,"52,677"
+"Miami, FL",33126,Standard,Miami-Dade,"46,867"
+"Miami, FL",33127,Standard,Miami-Dade,"28,909"
+"Miami, FL",33128,Standard,Miami-Dade,"7,562"
+"Miami, FL",33129,Standard,Miami-Dade,"13,833"
+"Miami, FL",33130,Standard,Miami-Dade,"26,108"
+"Miami, FL",33131,Standard,Miami-Dade,"14,917"
+"Miami, FL",33132,Standard,Miami-Dade,"11,165"
+"Miami, FL",33133,Standard,Miami-Dade,"31,926"
+"Miami, FL",33134,Standard,Miami-Dade,"37,456"
+"Miami, FL",33135,Standard,Miami-Dade,"36,066"
+"Miami, FL",33136,Standard,Miami-Dade,"13,791"
+"Miami, FL",33137,Standard,Miami-Dade,"19,410"
+"Miami, FL",33138,Standard,Miami-Dade,"27,571"
+"Miami, FL",33140,Standard,Miami-Dade,"21,210"
+"Miami, FL",33141,Standard,Miami-Dade,"35,249"
+"Miami, FL",33142,Standard,Miami-Dade,"52,606"
+"Miami, FL",33143,Standard,Miami-Dade,"31,407"
+"Miami, FL",33144,Standard,Miami-Dade,"26,903"
+"Miami, FL",33145,Standard,Miami-Dade,"29,758"
+"Miami, FL",33146,Standard,Miami-Dade,"14,995"
+"Miami, FL",33147,Standard,Miami-Dade,"46,933"
+"Miami, FL",33149,Standard,Miami-Dade,"12,389"
+"Miami, FL",33150,Standard,Miami-Dade,"27,811"
+"Miami, FL",33151,P.O. Box,Miami-Dade,0
+"Miami, FL",33152,P.O. Box,Miami-Dade,0
+"Miami, FL",33153,P.O. Box,Miami-Dade,0
+"Miami, FL",33154,Standard,Miami-Dade,"13,971"
+"Miami, FL",33155,Standard,Miami-Dade,"43,788"
+"Miami, FL",33156,Standard,Miami-Dade,"31,315"
+"Miami, FL",33157,Standard,Miami-Dade,"63,226"
+"Miami, FL",33158,Standard,Miami-Dade,"6,694"
+"Miami, FL",33160,Standard,Miami-Dade,"40,053"
+"Miami, FL",33161,Standard,Miami-Dade,"53,710"
+"Miami, FL",33162,Standard,Miami-Dade,"43,539"
+"Miami, FL",33163,P.O. Box,Miami-Dade,0
+"Miami, FL",33164,P.O. Box,Miami-Dade,0
+"Miami, FL",33165,Standard,Miami-Dade,"56,149"
+"Miami, FL",33166,Standard,Miami-Dade,"23,038"
+"Miami, FL",33167,Standard,Miami-Dade,"18,846"
+"Miami, FL",33168,Standard,Miami-Dade,"25,792"
+"Miami, FL",33169,Standard,Miami-Dade,"39,353"
+"Miami, FL",33170,Standard,Miami-Dade,"12,253"
+"Miami, FL",33172,Standard,Miami-Dade,"37,664"
+"Miami, FL",33173,Standard,Miami-Dade,"33,141"
+"Miami, FL",33174,Standard,Miami-Dade,"32,524"
+"Miami, FL",33175,Standard,Miami-Dade,"53,206"
+"Miami, FL",33176,Standard,Miami-Dade,"50,170"
+"Miami, FL",33177,Standard,Miami-Dade,"53,191"
+"Miami, FL",33178,Standard,Miami-Dade,"39,489"
+"Miami, FL",33179,Standard,Miami-Dade,"41,332"
+"Miami, FL",33180,Standard,Miami-Dade,"30,840"
+"Miami, FL",33181,Standard,Miami-Dade,"18,413"
+"Miami, FL",33182,Standard,Miami-Dade,"16,929"
+"Miami, FL",33183,Standard,Miami-Dade,"35,949"
+"Miami, FL",33184,Standard,Miami-Dade,"21,075"
+"Miami, FL",33185,Standard,Miami-Dade,"27,189"
+"Miami, FL",33186,Standard,Miami-Dade,"67,137"
+"Miami, FL",33187,Standard,Miami-Dade,"16,315"
+"Miami, FL",33188,Unique,Miami-Dade,0
+"Miami, FL",33189,Standard,Miami-Dade,"23,828"
+"Miami, FL",33190,Standard,Miami-Dade,"11,593"
+"Miami, FL",33191,Standard,Miami-Dade,0
+"Miami, FL",33192,Standard,Miami-Dade,0
+"Miami, FL",33193,Standard,Miami-Dade,"46,044"
+"Miami, FL",33194,Standard,Miami-Dade,"7,742"
+"Miami, FL",33195,Standard,Miami-Dade,0
+"Miami, FL",33196,Standard,Miami-Dade,"43,620"
+"Miami, FL",33197,P.O. Box,Miami-Dade,0
+"Miami, FL",33198,Standard,Miami-Dade,0
+"Miami, FL",33199,Unique,Miami-Dade,0
+"Miami, FL",33206,Unique,Miami-Dade,0
+"Miami, FL",33222,P.O. Box,Miami-Dade,0
+"Miami, FL",33231,P.O. Box,Miami-Dade,0
+"Miami, FL",33233,P.O. Box,Miami-Dade,0
+"Miami, FL",33234,P.O. Box,Miami-Dade,0
+"Miami, FL",33238,P.O. Box,Miami-Dade,0
+"Miami, FL",33239,P.O. Box,Miami-Dade,0
+"Miami, FL",33242,P.O. Box,Miami-Dade,0
+"Miami, FL",33243,P.O. Box,Miami-Dade,0
+"Miami, FL",33245,P.O. Box,Miami-Dade,0
+"Miami, FL",33247,P.O. Box,Miami-Dade,0
+"Miami, FL",33255,P.O. Box,Miami-Dade,0
+"Miami, FL",33256,P.O. Box,Miami-Dade,0
+"Miami, FL",33257,P.O. Box,Miami-Dade,0
+"Miami, FL",33261,P.O. Box,Miami-Dade,0
+"Miami, FL",33265,P.O. Box,Miami-Dade,0
+"Miami, FL",33266,P.O. Box,Miami-Dade,0
+"Miami, FL",33269,P.O. Box,Miami-Dade,0
+"Miami, FL",33280,P.O. Box,Miami-Dade,0
+"Miami, FL",33283,P.O. Box,Miami-Dade,0
+"Miami, FL",33296,P.O. Box,Miami-Dade,0
+"Miami, FL",33299,P.O. Box,Miami-Dade,0
+"Oakland, CA",94601,Standard,Alameda,"50,294"
+"Oakland, CA",94602,Standard,Alameda,"28,329"
+"Oakland, CA",94603,Standard,Alameda,"31,403"
+"Oakland, CA",94604,P.O. Box,Alameda,0
+"Oakland, CA",94605,Standard,Alameda,"39,016"
+"Oakland, CA",94606,Standard,Alameda,"36,672"
+"Oakland, CA",94607,Standard,Alameda,"24,978"
+"Oakland, CA",94608,Standard,Alameda,"28,019"
+"Oakland, CA",94609,Standard,Alameda,"20,596"
+"Oakland, CA",94610,Standard,Alameda,"29,287"
+"Oakland, CA",94611,Standard,Alameda,"36,565"
+"Oakland, CA",94612,Standard,Alameda,"14,389"
+"Oakland, CA",94613,P.O. Box,Alameda,715
+"Oakland, CA",94614,P.O. Box,Alameda,0
+"Oakland, CA",94615,Standard,Alameda,0
+"Oakland, CA",94617,Standard,Alameda,0
+"Oakland, CA",94618,Standard,Alameda,"16,046"
+"Oakland, CA",94619,Standard,Alameda,"23,299"
+"Oakland, CA",94620,P.O. Box,Alameda,0
+"Oakland, CA",94621,Standard,Alameda,"29,870"
+"Oakland, CA",94622,Unique,Alameda,0
+"Oakland, CA",94623,P.O. Box,Alameda,0
+"Oakland, CA",94624,P.O. Box,Alameda,0
+"Oakland, CA",94649,Unique,Alameda,0
+"Oakland, CA",94659,Unique,Alameda,0
+"Oakland, CA",94660,Unique,Alameda,0
+"Oakland, CA",94661,P.O. Box,Alameda,0
+"Oakland, CA",94662,P.O. Box,Alameda,0
+"Oakland, CA",94666,Unique,Alameda,0
+"Minneapolis, MN",55401,Standard,Hennepin,"6,590"
+"Minneapolis, MN",55402,Standard,Hennepin,368
+"Minneapolis, MN",55403,Standard,Hennepin,"14,985"
+"Minneapolis, MN",55404,Standard,Hennepin,"27,121"
+"Minneapolis, MN",55405,Standard,Hennepin,"15,411"
+"Minneapolis, MN",55406,Standard,Hennepin,"32,112"
+"Minneapolis, MN",55407,Standard,Hennepin,"37,881"
+"Minneapolis, MN",55408,Standard,Hennepin,"29,981"
+"Minneapolis, MN",55409,Standard,Hennepin,"11,615"
+"Minneapolis, MN",55410,Standard,Hennepin,"19,340"
+"Minneapolis, MN",55411,Standard,Hennepin,"27,428"
+"Minneapolis, MN",55412,Standard,Hennepin,"22,148"
+"Minneapolis, MN",55413,Standard,Hennepin,"12,934"
+"Minneapolis, MN",55414,Standard,Hennepin,"28,495"
+"Minneapolis, MN",55415,Standard,Hennepin,"2,604"
+"Minneapolis, MN",55416,Standard,Hennepin,"29,027"
+"Minneapolis, MN",55417,Standard,Hennepin,"24,875"
+"Minneapolis, MN",55418,Standard,Hennepin,"29,472"
+"Minneapolis, MN",55419,Standard,Hennepin,"26,406"
+"Minneapolis, MN",55420,Standard,Hennepin,"21,767"
+"Minneapolis, MN",55421,Standard,Anoka,"27,035"
+"Minneapolis, MN",55422,Standard,Hennepin,"27,820"
+"Minneapolis, MN",55423,Standard,Hennepin,"35,375"
+"Minneapolis, MN",55424,Standard,Hennepin,"9,685"
+"Minneapolis, MN",55425,Standard,Hennepin,"8,952"
+"Minneapolis, MN",55426,Standard,Hennepin,"24,945"
+"Minneapolis, MN",55427,Standard,Hennepin,"22,919"
+"Minneapolis, MN",55428,Standard,Hennepin,"29,357"
+"Minneapolis, MN",55429,Standard,Hennepin,"26,751"
+"Minneapolis, MN",55430,Standard,Hennepin,"21,508"
+"Minneapolis, MN",55431,Standard,Hennepin,"18,435"
+"Minneapolis, MN",55432,Standard,Anoka,"30,027"
+"Minneapolis, MN",55433,Standard,Anoka,"33,613"
+"Minneapolis, MN",55434,Standard,Anoka,"28,823"
+"Minneapolis, MN",55435,Standard,Hennepin,"11,592"
+"Minneapolis, MN",55436,Standard,Hennepin,"13,138"
+"Minneapolis, MN",55437,Standard,Hennepin,"17,484"
+"Minneapolis, MN",55438,Standard,Hennepin,"16,249"
+"Minneapolis, MN",55439,Standard,Hennepin,"8,750"
+"Minneapolis, MN",55440,P.O. Box,Hennepin,0
+"Minneapolis, MN",55441,Standard,Hennepin,"17,848"
+"Minneapolis, MN",55442,Standard,Hennepin,"13,217"
+"Minneapolis, MN",55443,Standard,Hennepin,"32,462"
+"Minneapolis, MN",55444,Standard,Hennepin,"15,667"
+"Minneapolis, MN",55445,Standard,Hennepin,"9,879"
+"Minneapolis, MN",55446,Standard,Hennepin,"18,695"
+"Minneapolis, MN",55447,Standard,Hennepin,"21,187"
+"Minneapolis, MN",55448,Standard,Anoka,"27,863"
+"Minneapolis, MN",55449,Standard,Anoka,"23,277"
+"Minneapolis, MN",55450,Standard,Hennepin,10
+"Minneapolis, MN",55454,Standard,Hennepin,"8,125"
+"Minneapolis, MN",55455,Standard,Hennepin,"1,050"
+"Minneapolis, MN",55458,P.O. Box,Hennepin,0
+"Minneapolis, MN",55459,P.O. Box,Hennepin,0
+"Minneapolis, MN",55460,P.O. Box,Hennepin,0
+"Minneapolis, MN",55467,Unique,Hennepin,0
+"Minneapolis, MN",55470,P.O. Box,Hennepin,0
+"Minneapolis, MN",55472,Unique,Hennepin,0
+"Minneapolis, MN",55474,Unique,Hennepin,0
+"Minneapolis, MN",55478,Unique,Hennepin,0
+"Minneapolis, MN",55479,Unique,Hennepin,0
+"Minneapolis, MN",55480,P.O. Box,Hennepin,0
+"Minneapolis, MN",55483,Unique,Hennepin,0
+"Minneapolis, MN",55484,Unique,Hennepin,0
+"Minneapolis, MN",55485,Unique,Hennepin,0
+"Minneapolis, MN",55486,Unique,Hennepin,0
+"Minneapolis, MN",55487,Unique,Hennepin,0
+"Minneapolis, MN",55488,Unique,Hennepin,0
+"Tulsa, OK",74101,P.O. Box,Tulsa,0
+"Tulsa, OK",74102,P.O. Box,Tulsa,0
+"Tulsa, OK",74103,Standard,Tulsa,"2,692"
+"Tulsa, OK",74104,Standard,Tulsa,"12,724"
+"Tulsa, OK",74105,Standard,Tulsa,"26,547"
+"Tulsa, OK",74106,Standard,Tulsa,"17,648"
+"Tulsa, OK",74107,Standard,Tulsa,"19,458"
+"Tulsa, OK",74108,Standard,Tulsa,"7,490"
+"Tulsa, OK",74110,Standard,Tulsa,"14,862"
+"Tulsa, OK",74112,Standard,Tulsa,"20,684"
+"Tulsa, OK",74114,Standard,Tulsa,"15,778"
+"Tulsa, OK",74115,Standard,Tulsa,"22,941"
+"Tulsa, OK",74116,Standard,Tulsa,"3,890"
+"Tulsa, OK",74117,Standard,Tulsa,87
+"Tulsa, OK",74119,Standard,Tulsa,"3,561"
+"Tulsa, OK",74120,Standard,Tulsa,"4,940"
+"Tulsa, OK",74121,P.O. Box,Tulsa,0
+"Tulsa, OK",74126,Standard,Tulsa,"10,598"
+"Tulsa, OK",74127,Standard,Tulsa,"17,151"
+"Tulsa, OK",74128,Standard,Tulsa,"12,676"
+"Tulsa, OK",74129,Standard,Tulsa,"18,976"
+"Tulsa, OK",74130,Standard,Tulsa,"2,065"
+"Tulsa, OK",74131,Standard,Creek,"2,775"
+"Tulsa, OK",74132,Standard,Tulsa,"7,543"
+"Tulsa, OK",74133,Standard,Tulsa,"43,414"
+"Tulsa, OK",74134,Standard,Tulsa,"15,083"
+"Tulsa, OK",74135,Standard,Tulsa,"20,651"
+"Tulsa, OK",74136,Standard,Tulsa,"30,703"
+"Tulsa, OK",74137,Standard,Tulsa,"25,737"
+"Tulsa, OK",74141,Unique,Tulsa,0
+"Tulsa, OK",74145,Standard,Tulsa,"17,402"
+"Tulsa, OK",74146,Standard,Tulsa,"15,498"
+"Tulsa, OK",74147,P.O. Box,Tulsa,0
+"Tulsa, OK",74148,P.O. Box,Tulsa,0
+"Tulsa, OK",74149,P.O. Box,Tulsa,0
+"Tulsa, OK",74150,P.O. Box,Tulsa,0
+"Tulsa, OK",74152,P.O. Box,Tulsa,0
+"Tulsa, OK",74153,P.O. Box,Tulsa,0
+"Tulsa, OK",74155,P.O. Box,Tulsa,0
+"Tulsa, OK",74156,P.O. Box,Tulsa,0
+"Tulsa, OK",74157,P.O. Box,Tulsa,0
+"Tulsa, OK",74158,P.O. Box,Tulsa,0
+"Tulsa, OK",74159,P.O. Box,Tulsa,0
+"Tulsa, OK",74169,P.O. Box,Tulsa,0
+"Tulsa, OK",74170,P.O. Box,Tulsa,0
+"Tulsa, OK",74171,Unique,Tulsa,0
+"Tulsa, OK",74172,Standard,Tulsa,0
+"Tulsa, OK",74182,Unique,Tulsa,0
+"Tulsa, OK",74186,Unique,Tulsa,0
+"Tulsa, OK",74187,Unique,Tulsa,0
+"Tulsa, OK",74192,Unique,Tulsa,0
+"Tulsa, OK",74193,Unique,Tulsa,0
+"Cleveland, OH",44101,P.O. Box,Cuyahoga,565
+"Cleveland, OH",44102,Standard,Cuyahoga,"45,014"
+"Cleveland, OH",44103,Standard,Cuyahoga,"18,123"
+"Cleveland, OH",44104,Standard,Cuyahoga,"22,640"
+"Cleveland, OH",44105,Standard,Cuyahoga,"40,089"
+"Cleveland, OH",44106,Standard,Cuyahoga,"26,896"
+"Cleveland, OH",44107,Standard,Cuyahoga,"52,244"
+"Cleveland, OH",44108,Standard,Cuyahoga,"25,679"
+"Cleveland, OH",44109,Standard,Cuyahoga,"40,646"
+"Cleveland, OH",44110,Standard,Cuyahoga,"20,136"
+"Cleveland, OH",44111,Standard,Cuyahoga,"39,778"
+"Cleveland, OH",44112,Standard,Cuyahoga,"23,073"
+"Cleveland, OH",44113,Standard,Cuyahoga,"19,213"
+"Cleveland, OH",44114,Standard,Cuyahoga,"5,225"
+"Cleveland, OH",44115,Standard,Cuyahoga,"8,307"
+"Cleveland, OH",44116,Standard,Cuyahoga,"20,268"
+"Cleveland, OH",44117,Standard,Cuyahoga,"10,224"
+"Cleveland, OH",44118,Standard,Cuyahoga,"40,438"
+"Cleveland, OH",44119,Standard,Cuyahoga,"12,482"
+"Cleveland, OH",44120,Standard,Cuyahoga,"38,196"
+"Cleveland, OH",44121,Standard,Cuyahoga,"33,220"
+"Cleveland, OH",44122,Standard,Cuyahoga,"34,057"
+"Cleveland, OH",44123,Standard,Cuyahoga,"17,637"
+"Cleveland, OH",44124,Standard,Cuyahoga,"38,282"
+"Cleveland, OH",44125,Standard,Cuyahoga,"28,730"
+"Cleveland, OH",44126,Standard,Cuyahoga,"16,771"
+"Cleveland, OH",44127,Standard,Cuyahoga,"5,586"
+"Cleveland, OH",44128,Standard,Cuyahoga,"29,274"
+"Cleveland, OH",44129,Standard,Cuyahoga,"29,090"
+"Cleveland, OH",44130,Standard,Cuyahoga,"50,639"
+"Cleveland, OH",44131,Standard,Cuyahoga,"20,469"
+"Cleveland, OH",44132,Standard,Cuyahoga,"14,071"
+"Cleveland, OH",44133,Standard,Cuyahoga,"30,394"
+"Cleveland, OH",44134,Standard,Cuyahoga,"38,800"
+"Cleveland, OH",44135,Standard,Cuyahoga,"26,861"
+"Cleveland, OH",44136,Standard,Cuyahoga,"25,608"
+"Cleveland, OH",44137,Standard,Cuyahoga,"23,240"
+"Cleveland, OH",44138,Standard,Cuyahoga,"22,332"
+"Cleveland, OH",44139,Standard,Cuyahoga,"24,356"
+"Cleveland, OH",44140,Standard,Cuyahoga,"15,651"
+"Cleveland, OH",44141,Standard,Cuyahoga,"13,945"
+"Cleveland, OH",44142,Standard,Cuyahoga,"19,201"
+"Cleveland, OH",44143,Standard,Cuyahoga,"24,499"
+"Cleveland, OH",44144,Standard,Cuyahoga,"21,089"
+"Cleveland, OH",44145,Standard,Cuyahoga,"32,729"
+"Cleveland, OH",44146,Standard,Cuyahoga,"29,761"
+"Cleveland, OH",44147,Standard,Cuyahoga,"19,480"
+"Cleveland, OH",44181,P.O. Box,Cuyahoga,0
+"Cleveland, OH",44188,Unique,Cuyahoga,0
+"Cleveland, OH",44190,Unique,Cuyahoga,0
+"Cleveland, OH",44191,Unique,Cuyahoga,0
+"Cleveland, OH",44192,Unique,Cuyahoga,0
+"Cleveland, OH",44193,Unique,Cuyahoga,0
+"Cleveland, OH",44194,Unique,Cuyahoga,0
+"Cleveland, OH",44195,Unique,Cuyahoga,0
+"Cleveland, OH",44197,Unique,Cuyahoga,0
+"Cleveland, OH",44198,Unique,Cuyahoga,0
+"Cleveland, OH",44199,P.O. Box,Cuyahoga,0
+"Wichita, KS",67201,P.O. Box,Sedgwick,0
+"Wichita, KS",67202,Standard,Sedgwick,"1,393"
+"Wichita, KS",67203,Standard,Sedgwick,"31,287"
+"Wichita, KS",67204,Standard,Sedgwick,"21,194"
+"Wichita, KS",67205,Standard,Sedgwick,"16,811"
+"Wichita, KS",67206,Standard,Sedgwick,"15,186"
+"Wichita, KS",67207,Standard,Sedgwick,"26,978"
+"Wichita, KS",67208,Standard,Sedgwick,"18,161"
+"Wichita, KS",67209,Standard,Sedgwick,"13,654"
+"Wichita, KS",67210,Standard,Sedgwick,"10,339"
+"Wichita, KS",67211,Standard,Sedgwick,"20,644"
+"Wichita, KS",67212,Standard,Sedgwick,"44,707"
+"Wichita, KS",67213,Standard,Sedgwick,"21,368"
+"Wichita, KS",67214,Standard,Sedgwick,"16,542"
+"Wichita, KS",67215,Standard,Sedgwick,"5,708"
+"Wichita, KS",67216,Standard,Sedgwick,"24,041"
+"Wichita, KS",67217,Standard,Sedgwick,"30,186"
+"Wichita, KS",67218,Standard,Sedgwick,"22,772"
+"Wichita, KS",67219,Standard,Sedgwick,"12,121"
+"Wichita, KS",67220,Standard,Sedgwick,"14,214"
+"Wichita, KS",67221,Standard,Sedgwick,0
+"Wichita, KS",67223,Standard,Sedgwick,513
+"Wichita, KS",67226,Standard,Sedgwick,"17,757"
+"Wichita, KS",67227,Standard,Sedgwick,344
+"Wichita, KS",67228,Standard,Sedgwick,"2,033"
+"Wichita, KS",67230,Standard,Sedgwick,"9,959"
+"Wichita, KS",67232,Standard,Sedgwick,298
+"Wichita, KS",67235,Standard,Sedgwick,"11,446"
+"Wichita, KS",67260,Unique,Sedgwick,0
+"Wichita, KS",67275,P.O. Box,Sedgwick,0
+"Wichita, KS",67276,Standard,Sedgwick,0
+"Wichita, KS",67277,P.O. Box,Sedgwick,0
+"Wichita, KS",67278,P.O. Box,Sedgwick,0
+"New Orleans, LA",70112,Standard,Orleans,"3,655"
+"New Orleans, LA",70113,Standard,Orleans,"7,025"
+"New Orleans, LA",70114,Standard,Orleans,"22,870"
+"New Orleans, LA",70115,Standard,Orleans,"31,695"
+"New Orleans, LA",70116,Standard,Orleans,"11,507"
+"New Orleans, LA",70117,Standard,Orleans,"23,389"
+"New Orleans, LA",70118,Standard,Orleans,"33,008"
+"New Orleans, LA",70119,Standard,Orleans,"36,228"
+"New Orleans, LA",70121,Standard,Jefferson,"12,029"
+"New Orleans, LA",70122,Standard,Orleans,"28,564"
+"New Orleans, LA",70123,Standard,Jefferson,"26,475"
+"New Orleans, LA",70124,Standard,Orleans,"16,824"
+"New Orleans, LA",70125,Standard,Orleans,"14,479"
+"New Orleans, LA",70126,Standard,Orleans,"23,958"
+"New Orleans, LA",70127,Standard,Orleans,"20,471"
+"New Orleans, LA",70128,Standard,Orleans,"17,113"
+"New Orleans, LA",70129,Standard,Orleans,"9,064"
+"New Orleans, LA",70130,Standard,Orleans,"14,064"
+"New Orleans, LA",70131,Standard,Orleans,"29,915"
+"New Orleans, LA",70139,Standard,Orleans,0
+"New Orleans, LA",70141,P.O. Box,Jefferson,0
+"New Orleans, LA",70142,Unique,Orleans,0
+"New Orleans, LA",70143,Unique,Orleans,0
+"New Orleans, LA",70145,Standard,Orleans,0
+"New Orleans, LA",70146,Standard,Orleans,0
+"New Orleans, LA",70148,Unique,Orleans,0
+"New Orleans, LA",70150,P.O. Box,Orleans,0
+"New Orleans, LA",70151,P.O. Box,Orleans,0
+"New Orleans, LA",70152,P.O. Box,Orleans,0
+"New Orleans, LA",70153,P.O. Box,Orleans,0
+"New Orleans, LA",70154,Unique,Orleans,0
+"New Orleans, LA",70156,P.O. Box,Orleans,0
+"New Orleans, LA",70157,P.O. Box,Orleans,0
+"New Orleans, LA",70158,P.O. Box,Orleans,0
+"New Orleans, LA",70159,Unique,Orleans,0
+"New Orleans, LA",70160,P.O. Box,Orleans,0
+"New Orleans, LA",70161,P.O. Box,Orleans,0
+"New Orleans, LA",70162,Unique,Orleans,0
+"New Orleans, LA",70163,Standard,Orleans,0
+"New Orleans, LA",70164,Unique,Orleans,0
+"New Orleans, LA",70165,Unique,Orleans,0
+"New Orleans, LA",70166,Unique,Orleans,0
+"New Orleans, LA",70167,Unique,Orleans,0
+"New Orleans, LA",70170,Standard,Orleans,0
+"New Orleans, LA",70172,P.O. Box,Orleans,0
+"New Orleans, LA",70174,P.O. Box,Orleans,0
+"New Orleans, LA",70175,P.O. Box,Orleans,0
+"New Orleans, LA",70176,P.O. Box,Orleans,0
+"New Orleans, LA",70177,P.O. Box,Orleans,0
+"New Orleans, LA",70178,P.O. Box,Orleans,0
+"New Orleans, LA",70179,P.O. Box,Orleans,0
+"New Orleans, LA",70181,P.O. Box,Jefferson,0
+"New Orleans, LA",70182,P.O. Box,Orleans,0
+"New Orleans, LA",70183,P.O. Box,Jefferson,0
+"New Orleans, LA",70184,P.O. Box,Orleans,0
+"New Orleans, LA",70185,P.O. Box,Orleans,0
+"New Orleans, LA",70186,P.O. Box,Orleans,0
+"New Orleans, LA",70187,P.O. Box,Orleans,0
+"New Orleans, LA",70189,P.O. Box,Orleans,0
+"New Orleans, LA",70190,P.O. Box,Orleans,0
+"New Orleans, LA",70195,Unique,Orleans,0
+"Morgantown, WV",26501,Standard,Monongalia,"19,616"
+"Morgantown, WV",26502,P.O. Box,Monongalia,0
+"Morgantown, WV",26504,P.O. Box,Monongalia,0
+"Morgantown, WV",26505,Standard,Monongalia,"38,772"
+"Morgantown, WV",26506,Standard,Monongalia,0
+"Morgantown, WV",26507,P.O. Box,Monongalia,0
+"Morgantown, WV",26508,Standard,Monongalia,"29,170"
